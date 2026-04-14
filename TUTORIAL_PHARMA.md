@@ -105,13 +105,11 @@ Now we'll create a **Spark Declarative Pipeline** using the workspace UI, then u
    - **Pipeline name:** `<your_username>_ingestion`
    - **Default catalog:** `<your_catalog>`
    - **Default schema:** `<your_username>_demo`
-   - **Language:** SQL
-   - **Start with:** an empty file
-3. Click **Create**
+3. Click **Create pipeline with AI**
 
-<!-- Screenshot: ETL pipeline creation dialog -->
+![Create pipeline with AI](images/4_1_create_pipeline.png)
 
-The **pipeline IDE** will open with an empty SQL source file ready for your first transformation.
+The **Genie Code** will open for you to enter the prompt.
 
 ### Step 2: Write the Bronze Layer with Genie Code
 
@@ -123,8 +121,9 @@ The **pipeline IDE** will open with an empty SQL source file ready for your firs
 >
 > ```
 > Create Spark Declarative Pipeline SQL statements to ingest raw CSV data from
-> /Volumes/<your_catalog>/<your_username>_demo/landing/ into bronze streaming tables.
+> /Volumes/<your_catalog>/<your_username>_demo/landing/ into bronze streaming tables. Name the script as 01_bronze.sql
 >
+> 
 > Create one streaming table per CSV source with these table names:
 > - 01_manufacturing_batches (from landing/manufacturing_batches/)
 > - 01_manufacturing_quality (from landing/manufacturing_quality/)
