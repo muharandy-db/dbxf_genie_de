@@ -106,16 +106,16 @@ Then navigate to the `data/fsi/` or `data/pharma/` folder depending on which tut
 
 ## 4. Enabling Genie Code
 
-Genie Code is the AI coding assistant built into notebooks, the SQL editor, and other workspace surfaces. It should be enabled by default.
+Genie Code is the AI coding assistant built into the pipeline IDE, notebooks, the SQL editor, and other workspace surfaces. It should be enabled by default.
 
 To verify:
 
 1. Open your Databricks workspace
-2. Click **+ New** > **Notebook** to create a new notebook
-3. Look for the **Assistant** icon (sparkle/star icon) in the notebook toolbar or sidebar
-4. If you see it, you're ready to go
+2. Click **New** > **ETL pipeline** in the sidebar
+3. Look for the **Genie Code** icon (sparkle/star icon) in the pipeline editor toolbar
+4. If you see it, you're ready to go — you can cancel out of the pipeline creation for now
 
-> **Not seeing the Assistant?** Ask your workspace admin to enable it under **Settings** > **Workspace settings** > **Genie Code**.
+> **Not seeing Genie Code?** Ask your workspace admin to enable it under **Settings** > **Workspace settings** > **Genie Code**.
 
 ---
 
@@ -133,8 +133,8 @@ Both tutorials follow the same structure:
 | Phase | Exercises | Tool |
 |-------|-----------|------|
 | **Setup** | 1. Create schema, 2. Create volume, 3. Upload data | Workspace UI |
-| **Pipeline** | 4. Bronze layer, 5. Silver layer, 6. Gold layer | Genie Code |
-| **Execution** | 7. Create & run the pipeline | Workspace UI |
+| **Pipeline** | 4. Create pipeline & bronze layer, 5. Silver layer, 6. Gold layer | Workspace UI + Genie Code |
+| **Execution** | 7. Run the pipeline | Workspace UI |
 | **Analytics** | 8. Create Genie spaces, 9. Create dashboards | Workspace UI + Genie Code |
 
 ---

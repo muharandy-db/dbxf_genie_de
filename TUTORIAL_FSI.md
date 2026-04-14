@@ -62,30 +62,25 @@ Create a Unity Catalog Volume to store the raw CSV files that you'll upload.
 
 *Tool: Workspace UI (Drag & Drop)*
 
-Upload the FSI sample data to your landing volume using the workspace file browser.
+Upload the FSI sample data to your landing volume by dragging and dropping the folders directly.
 
 ### Steps
 
-1. In the catalog explorer, navigate to `<your_catalog>` > `<your_username>_demo` > **Volumes** > `landing`
-2. Click on the `landing` volume to open it
-3. For each data source, create a subdirectory and upload the corresponding CSV file:
+1. On your local machine, open the `data/fsi/` directory from the downloaded repository. You should see these 7 folders:
+   - `banking_customers/`
+   - `banking_accounts/`
+   - `banking_transactions/`
+   - `banking_branches/`
+   - `insurance_customers/`
+   - `insurance_policies/`
+   - `insurance_claims/`
+2. In the Databricks workspace, navigate to the catalog explorer: `<your_catalog>` > `<your_username>_demo` > **Volumes** > `landing`
+3. Click on the `landing` volume to open it
+4. Select **all 7 folders** from your local `data/fsi/` directory and **drag & drop them** into the landing volume browser
 
-   | Subdirectory | File to Upload |
-   |-------------|---------------|
-   | `banking_customers` | `banking_customers.csv` |
-   | `banking_accounts` | `banking_accounts.csv` |
-   | `banking_transactions` | `banking_transactions.csv` |
-   | `banking_branches` | `banking_branches.csv` |
-   | `insurance_customers` | `insurance_customers.csv` |
-   | `insurance_policies` | `insurance_policies.csv` |
-   | `insurance_claims` | `insurance_claims.csv` |
+That's it — the workspace will upload all folders with their CSV files in one go.
 
-4. To create each subdirectory and upload:
-   - Click **Create** > **Folder**, enter the folder name (e.g., `banking_customers`), click **Create**
-   - Open the folder, then click **Upload** (or drag & drop the CSV file into the folder)
-   - Repeat for each data source
-
-<!-- Screenshot: Volume browser showing uploaded files -->
+<!-- Screenshot: Drag and drop folders into the landing volume -->
 
 ### Validate
 
@@ -95,19 +90,32 @@ Upload the FSI sample data to your landing volume using the workspace file brows
 
 ---
 
-## Exercise 4: Create the Bronze Layer
+## Exercise 4: Create the Pipeline and Bronze Layer
 
-*Tool: Genie Code in Notebook*
+*Tool: Workspace UI + Genie Code in Pipeline IDE*
 
-Now we switch to the Genie Code to generate the pipeline code. You'll create a notebook and use the Assistant to write the bronze layer — raw ingestion from the landing volume into streaming tables.
+Now we'll create a **Spark Declarative Pipeline** using the workspace UI, then use Genie Code inside the pipeline IDE to write the bronze layer — raw ingestion from the landing volume into streaming tables.
 
-### Steps
+### Step 1: Create the Pipeline
 
-1. Click **+ New** > **Notebook** in the sidebar
-2. Name the notebook `01_bronze`
-3. Set the default language to **SQL**
-4. Open the **Genie Code** (click the sparkle icon in the toolbar or press `Cmd+I` / `Ctrl+I`)
-5. Paste the following prompt into the Assistant:
+1. In the left sidebar, click **New** > **ETL pipeline**
+2. Configure the pipeline:
+   - **Pipeline name:** `<your_username>_ingestion`
+   - **Default catalog:** `<your_catalog>`
+   - **Default schema:** `<your_username>_demo`
+   - **Language:** SQL
+   - **Start with:** an empty file
+3. Click **Create**
+
+<!-- Screenshot: ETL pipeline creation dialog -->
+
+The **pipeline IDE** will open with an empty SQL source file ready for your first transformation.
+
+### Step 2: Write the Bronze Layer with Genie Code
+
+1. In the pipeline IDE, you should see an empty source file (e.g., `pipeline_file_1.sql`). Rename it to `01_bronze.sql`
+2. Open **Genie Code** (click the sparkle icon in the toolbar or press `Cmd+I` / `Ctrl+I`)
+3. Paste the following prompt:
 
 > **Genie Code Prompt:**
 >
@@ -129,39 +137,37 @@ Now we switch to the Genie Code to generate the pipeline code. You'll create a n
 > Each table should be a CREATE OR REFRESH STREAMING TABLE statement.
 > ```
 
-6. Review the generated SQL code
-7. Accept the code into your notebook cells (one `CREATE OR REFRESH STREAMING TABLE` per cell)
+4. Review the generated SQL code
+5. Accept the code into your source file
 
-<!-- Screenshot: Genie Code generating bronze SQL -->
+<!-- Screenshot: Genie Code generating bronze SQL in the pipeline IDE -->
 
 ### Validate
 
-- Review the notebook — you should see 7 streaming table definitions
+- Review the source file — you should see 7 streaming table definitions
 - Each one should use `cloud_files` with the correct volume path
 - Confirm the table names all start with `01_`
-
-> **Don't run the notebook yet** — we'll create the pipeline and run everything together in Exercise 7.
+- The pipeline DAG sidebar should show the 7 bronze tables
 
 ---
 
-## Exercise 5: Create the Silver Layer
+## Exercise 5: Add the Silver Layer
 
-*Tool: Genie Code in Notebook*
+*Tool: Genie Code in Pipeline IDE*
 
-Create a second notebook for the silver layer — cleaned and validated data with quality constraints.
+Add a new source file to the pipeline for the silver layer — cleaned and validated data with quality constraints.
 
 ### Steps
 
-1. Click **+ New** > **Notebook** in the sidebar
-2. Name the notebook `02_silver`
-3. Set the default language to **SQL**
-4. Open the **Genie Code** and paste this prompt:
+1. In the pipeline IDE, click **Add source file** (or the **+** button) to create a new SQL file
+2. Name the file `02_silver.sql`
+3. Open **Genie Code** and paste this prompt:
 
 > **Genie Code Prompt:**
 >
 > ```
 > Create DLT SQL statements to clean and transform bronze tables into silver
-> streaming tables. Read from the bronze tables created in the 01_bronze notebook.
+> streaming tables. Read from the bronze tables created in the 01_bronze file.
 >
 > Create these silver streaming tables:
 > - 02_banking_customers (from 01_banking_customers)
@@ -181,38 +187,38 @@ Create a second notebook for the silver layer — cleaned and validated data wit
 > - Add a COMMENT describing the table purpose
 > ```
 
-5. Review the generated SQL — check that constraints make sense for the data
-6. Accept the code into your notebook
+4. Review the generated SQL — check that constraints make sense for the data
+5. Accept the code into your source file
 
-<!-- Screenshot: Silver layer notebook with quality constraints -->
+<!-- Screenshot: Silver layer source file with quality constraints -->
 
 ### Validate
 
-- Review the notebook — you should see 7 silver streaming table definitions
+- Review `02_silver.sql` — you should see 7 silver streaming table definitions
 - Each should reference `STREAM(LIVE.01_xxx)` as the source
 - Verify that CONSTRAINT clauses are present for key columns
+- The pipeline DAG sidebar should now show both bronze and silver tables
 
 ---
 
-## Exercise 6: Create the Gold Layer
+## Exercise 6: Add the Gold Layer
 
-*Tool: Genie Code in Notebook*
+*Tool: Genie Code in Pipeline IDE*
 
-Create the business-level aggregations as gold materialized views. We'll build **one table at a time** so you can review each one.
+Add a new source file for the business-level aggregations as gold materialized views. We'll build **one table at a time** so you can review each one.
 
 ### Steps
 
-1. Click **+ New** > **Notebook** in the sidebar
-2. Name the notebook `03_gold`
-3. Set the default language to **SQL**
+1. In the pipeline IDE, click **Add source file** (or the **+** button) to create a new SQL file
+2. Name the file `03_gold.sql`
 
-Now use the Genie Code for each gold table, one at a time:
+Now use Genie Code for each gold table, one at a time:
 
 ---
 
 **Gold Table 1 — Customer 360**
 
-Open the Assistant and paste:
+Open Genie Code and paste:
 
 > **Genie Code Prompt:**
 >
@@ -292,38 +298,29 @@ Review and accept.
 
 Review and accept.
 
-<!-- Screenshot: Gold notebook with all 5 materialized views -->
+<!-- Screenshot: Gold source file with all 5 materialized views -->
 
 ### Validate
 
-- Review the `03_gold` notebook — confirm all 5 materialized views look correct
+- Review `03_gold.sql` — confirm all 5 materialized views look correct
 - Each should use `CREATE OR REFRESH MATERIALIZED VIEW`
 - Verify the join logic and aggregations make business sense
+- The pipeline DAG sidebar should now show the full lineage: bronze > silver > gold
 
 ---
 
-## Exercise 7: Create and Run the Pipeline
+## Exercise 7: Run the Pipeline
 
 *Tool: Workspace UI*
 
-Now bring it all together — create a DLT pipeline that references your three notebooks and run it.
+Your pipeline already has all three source files. Now it's time to run it.
 
 ### Steps
 
-1. In the left sidebar, click **Pipelines** (under **Data Engineering**)
-2. Click **Create pipeline**
-3. Configure the pipeline:
-   - **Pipeline name:** `<your_username>_ingestion`
-   - **Pipeline mode:** Triggered
-   - **Source code:** Add all three notebooks — `01_bronze`, `02_silver`, `03_gold`
-     - Click **Add source code** and navigate to each notebook
-   - **Destination:**
-     - **Catalog:** `<your_catalog>`
-     - **Target schema:** `<your_username>_demo`
-4. Click **Create**
-5. Click **Start** to run the pipeline
+1. In the pipeline IDE, click **Start** to run the pipeline
+2. If you've navigated away, go to **Pipelines** in the left sidebar (under **Data Engineering**), find `<your_username>_ingestion`, and click **Start**
 
-<!-- Screenshot: Pipeline creation dialog with all three notebooks -->
+<!-- Screenshot: Pipeline running with DAG visualization -->
 
 ### Monitor
 
@@ -332,9 +329,9 @@ Now bring it all together — create a DLT pipeline that references your three n
 - Green nodes = successful, red = failed
 
 **If the pipeline fails**, click on the failed node to see the error details. Common fixes:
-- Volume path typos — double-check the paths in `01_bronze`
+- Volume path typos — double-check the paths in `01_bronze.sql`
 - Column name mismatches — verify column names match between bronze/silver/gold
-- Use the Genie Code in the failed notebook to help troubleshoot: paste the error message and ask for a fix
+- Use Genie Code in the pipeline IDE to help troubleshoot: paste the error message and ask for a fix
 
 ### Validate
 
@@ -506,10 +503,10 @@ Congratulations! You've completed the FSI tutorial! Here's what you accomplished
 | Exercise 1 | A Unity Catalog schema for your demo | Workspace UI |
 | Exercise 2 | A managed volume for landing raw data | Workspace UI |
 | Exercise 3 | Uploaded FSI sample data via drag & drop | Workspace UI |
-| Exercise 4 | Bronze layer — raw ingestion with Auto Loader | Genie Code |
-| Exercise 5 | Silver layer — data quality constraints | Genie Code |
-| Exercise 6 | Gold layer — business aggregation views | Genie Code |
-| Exercise 7 | Created and ran the end-to-end DLT pipeline | Workspace UI |
+| Exercise 4 | Created pipeline + bronze layer with Auto Loader | Workspace UI + Genie Code |
+| Exercise 5 | Silver layer — data quality constraints | Genie Code in Pipeline IDE |
+| Exercise 6 | Gold layer — business aggregation views | Genie Code in Pipeline IDE |
+| Exercise 7 | Ran the end-to-end DLT pipeline | Workspace UI |
 | Exercise 8 | Genie spaces for natural language analytics | Workspace UI |
 | Exercise 9 | Dashboard with 3 datasets and visualizations | UI + Genie Code |
 
