@@ -1,0 +1,1001 @@
+material_id,material_name,material_type,supplier_id,unit_of_measure,unit_cost,currency,min_order_quantity,lead_time_days,storage_condition,shelf_life_months,gmp_certified,cas_number,status
+MAT-00001,Primary Label A5,label,SUP-0057,L,4155.32,INR,453,47,cold,32,true,,active
+MAT-00002,Purified Water USP,raw_chemical,SUP-0096,rolls,1179.27,EUR,15,43,cold,59,false,19192-27-0,active
+MAT-00003,Hologram Sticker,label,SUP-0115,L,3794.33,JPY,3,13,cold,22,true,,active
+MAT-00004,Isopropyl Alcohol,raw_chemical,SUP-0061,sheets,556.38,GBP,63,9,cold,32,false,8282-24-7,discontinued
+MAT-00005,Potassium Chloride,raw_chemical,SUP-0062,kg,3159.96,EUR,150,57,cold,45,false,31581-83-6,active
+MAT-00006,Sertraline HCl,active_ingredient,SUP-0140,rolls,338.86,JPY,403,67,controlled,7,false,61671-15-6,active
+MAT-00007,Blister PVC/Alu,packaging,SUP-0089,kg,1785.79,EUR,376,87,controlled,12,false,,active
+MAT-00008,Amlodipine Besylate,active_ingredient,SUP-0200,rolls,2730.3,INR,357,64,controlled,17,true,8320-68-0,active
+MAT-00009,Lactose Monohydrate,excipient,SUP-0081,kg,3955.65,GBP,264,53,controlled,36,false,4849-92-3,active
+MAT-00010,Glass Vial 20ml,packaging,SUP-0070,kg,4329.06,USD,410,50,ambient,31,false,,active
+MAT-00011,Ampoule 5ml,packaging,SUP-0095,L,2481.27,JPY,137,13,controlled,33,true,,active
+MAT-00012,Methanol AR Grade,raw_chemical,SUP-0027,L,2727.6,USD,168,87,ambient,25,false,79036-64-2,pending_approval
+MAT-00013,Serialization Label,label,SUP-0158,rolls,2235.92,INR,141,84,cold,10,false,,active
+MAT-00014,Hydrochloric Acid,raw_chemical,SUP-0156,L,4763.97,INR,18,19,cold,21,false,47517-59-9,active
+MAT-00015,Methanol AR Grade,raw_chemical,SUP-0096,L,3395.47,INR,391,12,controlled,14,false,52221-50-4,active
+MAT-00016,Clopidogrel Bisulfate,active_ingredient,SUP-0133,kg,3678.51,INR,468,74,cold,22,false,92329-67-3,discontinued
+MAT-00017,HDPE Bottle 60cc,packaging,SUP-0019,pcs,1001.29,INR,89,59,cold,57,false,,pending_approval
+MAT-00018,Glass Vial 10ml,packaging,SUP-0077,g,2750.21,EUR,365,84,cold,56,false,,discontinued
+MAT-00019,Povidone K30,excipient,SUP-0061,g,4925.67,INR,14,49,controlled,42,false,61313-80-2,discontinued
+MAT-00020,Clopidogrel Bisulfate,active_ingredient,SUP-0135,g,1546.8,INR,394,55,controlled,10,true,41603-92-1,active
+MAT-00021,Shipping Label,label,SUP-0164,rolls,642.11,JPY,94,19,ambient,38,true,,active
+MAT-00022,Hydrochloric Acid,raw_chemical,SUP-0083,L,1520.97,EUR,178,69,ambient,60,true,32897-35-8,active
+MAT-00023,Magnesium Stearate,excipient,SUP-0129,units,3072.33,EUR,304,77,cold,16,false,73924-15-0,active
+MAT-00024,Fluoxetine HCl,active_ingredient,SUP-0107,units,3255.82,JPY,328,6,ambient,46,false,84186-48-7,active
+MAT-00025,Primary Label A4,label,SUP-0041,units,2267.99,INR,213,64,ambient,19,false,,discontinued
+MAT-00026,Hydroxypropyl Cellulose,excipient,SUP-0188,rolls,4307.49,GBP,500,54,cold,54,false,67549-81-1,active
+MAT-00027,Iron Oxide Red,excipient,SUP-0064,pcs,613.05,EUR,50,9,ambient,30,false,32591-30-5,discontinued
+MAT-00028,Ampoule 5ml,packaging,SUP-0132,mL,3815.73,INR,256,42,ambient,7,true,,active
+MAT-00029,Sodium Hydroxide,raw_chemical,SUP-0150,pcs,4833.45,GBP,25,9,ambient,37,false,37503-78-0,active
+MAT-00030,Serialization Label,label,SUP-0196,L,4412.34,INR,188,8,ambient,9,true,,active
+MAT-00031,Sodium Chloride,raw_chemical,SUP-0116,units,368.12,JPY,144,82,controlled,45,true,16914-22-6,active
+MAT-00032,HDPE Bottle 120cc,packaging,SUP-0155,rolls,3774.95,JPY,206,67,cold,8,true,,active
+MAT-00033,HDPE Bottle 60cc,packaging,SUP-0156,pcs,2596.9,JPY,72,44,controlled,26,true,,active
+MAT-00034,Sodium Chloride,raw_chemical,SUP-0131,units,2968.83,JPY,251,75,ambient,36,true,48331-52-1,active
+MAT-00035,Propylene Glycol,raw_chemical,SUP-0177,units,3983.88,USD,306,63,ambient,47,true,94605-16-9,active
+MAT-00036,Silicon Dioxide,excipient,SUP-0009,sheets,739.3,JPY,486,17,cold,7,false,41166-63-2,active
+MAT-00037,PEG 6000,excipient,SUP-0121,sheets,2509.35,USD,362,20,controlled,19,false,86849-71-8,active
+MAT-00038,Carton Box Small,packaging,SUP-0088,L,2298.59,JPY,182,89,controlled,49,false,,discontinued
+MAT-00039,Leaflet Insert A4,label,SUP-0143,mL,4786.71,GBP,116,41,ambient,51,true,,pending_approval
+MAT-00040,Shipping Label,label,SUP-0185,rolls,2399.28,GBP,148,18,controlled,49,false,,active
+MAT-00041,Glass Vial 10ml,packaging,SUP-0183,L,1452.62,USD,178,59,controlled,22,false,,active
+MAT-00042,Stearic Acid,excipient,SUP-0036,units,4665.15,USD,316,78,cold,21,true,87846-77-3,pending_approval
+MAT-00043,Hydroxypropyl Cellulose,excipient,SUP-0184,kg,501.44,INR,52,90,cold,6,true,53384-93-7,active
+MAT-00044,Lactose Monohydrate,excipient,SUP-0197,units,1606.18,USD,334,76,cold,40,true,22996-63-2,active
+MAT-00045,Leaflet Insert A4,label,SUP-0010,pcs,931.97,USD,153,75,controlled,12,false,,active
+MAT-00046,Carton Print Sheet,label,SUP-0130,pcs,4446.36,INR,140,27,cold,27,true,,pending_approval
+MAT-00047,Primary Label A4,label,SUP-0189,units,3593.13,GBP,405,40,controlled,49,true,,active
+MAT-00048,Sodium Chloride,raw_chemical,SUP-0084,sheets,4135.04,USD,206,88,cold,17,true,62630-51-3,active
+MAT-00049,Child-Resistant Cap,packaging,SUP-0069,sheets,1177.99,GBP,155,77,controlled,42,true,,active
+MAT-00050,Blister PVC/Alu,packaging,SUP-0120,mL,311.09,GBP,82,54,controlled,38,false,,pending_approval
+MAT-00051,Simvastatin,active_ingredient,SUP-0057,units,1838.04,EUR,245,22,ambient,53,false,54555-99-8,active
+MAT-00052,Glycerin USP,raw_chemical,SUP-0194,mL,3809.42,JPY,448,13,controlled,34,false,10287-82-1,active
+MAT-00053,Hydrochloric Acid,raw_chemical,SUP-0043,mL,2863.72,GBP,438,69,ambient,13,true,94017-84-7,active
+MAT-00054,Phosphoric Acid,raw_chemical,SUP-0034,pcs,4043.56,JPY,213,61,controlled,9,false,88231-49-0,active
+MAT-00055,Carton Box Medium,packaging,SUP-0019,kg,3729.15,USD,217,47,controlled,10,true,,active
+MAT-00056,Carton Print Sheet,label,SUP-0197,kg,1435.81,EUR,393,85,controlled,47,false,,active
+MAT-00057,Tamper Evident Seal,label,SUP-0097,pcs,4348.17,USD,350,87,controlled,14,false,,active
+MAT-00058,Silicon Dioxide,excipient,SUP-0001,sheets,2644.45,USD,153,62,controlled,52,false,69771-58-3,active
+MAT-00059,Leaflet Insert A5,label,SUP-0186,rolls,776.03,USD,17,87,ambient,45,true,,active
+MAT-00060,Lactose Monohydrate,excipient,SUP-0115,g,504.93,JPY,345,9,cold,53,true,52775-66-3,discontinued
+MAT-00061,Starch 1500,excipient,SUP-0060,kg,701.11,JPY,164,76,controlled,55,false,31101-48-2,pending_approval
+MAT-00062,Isopropyl Alcohol,raw_chemical,SUP-0016,mL,2068.09,JPY,486,78,controlled,17,false,72906-73-0,active
+MAT-00063,Tamper Evident Seal,label,SUP-0039,rolls,3481.69,GBP,193,26,controlled,36,true,,active
+MAT-00064,Nasal Spray Pump,packaging,SUP-0015,L,4028.98,JPY,212,56,controlled,39,true,,active
+MAT-00065,Magnesium Stearate,excipient,SUP-0116,units,1017.08,GBP,48,71,controlled,59,true,6805-44-6,pending_approval
+MAT-00066,Sodium Hydroxide,raw_chemical,SUP-0195,kg,4368.17,JPY,371,88,controlled,19,false,27429-52-4,active
+MAT-00067,Croscarmellose Sodium,excipient,SUP-0192,mL,4810.41,INR,469,34,controlled,44,true,52037-40-8,active
+MAT-00068,Carton Box Large,packaging,SUP-0092,sheets,2331.52,GBP,134,49,controlled,37,false,,active
+MAT-00069,Serialization Label,label,SUP-0081,rolls,4571.7,INR,24,75,cold,53,true,,active
+MAT-00070,HDPE Bottle 120cc,packaging,SUP-0085,sheets,1476.31,EUR,195,75,cold,37,false,,active
+MAT-00071,Serialization Label,label,SUP-0044,pcs,2304.41,EUR,369,72,ambient,17,true,,discontinued
+MAT-00072,Metformin HCl,active_ingredient,SUP-0196,g,4725.97,USD,212,20,controlled,20,true,92740-29-0,active
+MAT-00073,Potassium Chloride,raw_chemical,SUP-0164,pcs,1866.32,JPY,468,64,controlled,37,true,916-78-8,active
+MAT-00074,Ciprofloxacin HCl,active_ingredient,SUP-0138,kg,2647.32,GBP,9,67,controlled,49,false,23546-23-1,discontinued
+MAT-00075,HPMC Capsule Shell,excipient,SUP-0065,mL,960.06,GBP,137,53,cold,29,false,60211-82-3,pending_approval
+MAT-00076,Magnesium Stearate,excipient,SUP-0168,units,3420.37,USD,48,54,ambient,30,false,7405-91-0,pending_approval
+MAT-00077,Iron Oxide Yellow,excipient,SUP-0166,g,2499.54,GBP,290,15,controlled,8,true,27760-98-9,active
+MAT-00078,Carton Box Large,packaging,SUP-0072,kg,4620.83,JPY,289,87,cold,17,false,,active
+MAT-00079,Titanium Dioxide,excipient,SUP-0020,L,3761.4,GBP,84,75,cold,42,false,88790-79-5,active
+MAT-00080,Sodium Lauryl Sulfate,excipient,SUP-0014,g,2504.21,USD,224,32,cold,27,false,42828-13-4,active
+MAT-00081,Tamper Evident Seal,label,SUP-0111,mL,1779.38,EUR,349,77,controlled,30,true,,discontinued
+MAT-00082,Blister PVC/Alu,packaging,SUP-0069,mL,3565.69,EUR,195,84,cold,53,false,,active
+MAT-00083,Glass Vial 10ml,packaging,SUP-0114,g,458.06,GBP,390,37,cold,14,true,,active
+MAT-00084,Shipping Label,label,SUP-0105,pcs,2785.15,USD,14,14,ambient,41,true,,discontinued
+MAT-00085,Ethanol 96%,raw_chemical,SUP-0075,rolls,4318.66,INR,199,13,controlled,41,true,75017-76-2,pending_approval
+MAT-00086,Leaflet Insert A4,label,SUP-0069,L,694.63,INR,75,11,cold,33,false,,active
+MAT-00087,Glass Vial 20ml,packaging,SUP-0065,pcs,3913.44,EUR,370,83,ambient,44,true,,active
+MAT-00088,Aspirin Fine Powder,active_ingredient,SUP-0086,L,1523.64,JPY,195,45,ambient,27,false,85382-86-2,active
+MAT-00089,HDPE Bottle 60cc,packaging,SUP-0102,mL,2395.31,GBP,150,84,ambient,42,true,,active
+MAT-00090,Tamper Evident Seal,label,SUP-0094,units,4082.56,USD,478,75,cold,43,true,,pending_approval
+MAT-00091,Phosphoric Acid,raw_chemical,SUP-0182,kg,4765.05,EUR,225,40,controlled,10,false,88258-73-2,pending_approval
+MAT-00092,HDPE Bottle 60cc,packaging,SUP-0184,mL,1263.78,INR,405,51,cold,34,false,,discontinued
+MAT-00093,Serialization Label,label,SUP-0180,sheets,2718.45,JPY,305,84,cold,12,true,,pending_approval
+MAT-00094,Blister Alu-Alu,packaging,SUP-0145,L,3235.18,INR,496,45,ambient,12,true,,active
+MAT-00095,Carton Box Small,packaging,SUP-0143,mL,2553.63,JPY,353,76,cold,34,false,,active
+MAT-00096,Primary Label A4,label,SUP-0124,L,1725.16,USD,152,56,cold,13,true,,active
+MAT-00097,HDPE Bottle 120cc,packaging,SUP-0134,rolls,2276.94,INR,179,63,cold,34,false,,active
+MAT-00098,Omeprazole Magnesium,active_ingredient,SUP-0006,units,223.89,GBP,332,16,controlled,57,true,97107-41-8,active
+MAT-00099,Acetone AR Grade,raw_chemical,SUP-0119,L,1655.28,EUR,409,54,controlled,17,true,83998-94-6,active
+MAT-00100,Cetirizine HCl,active_ingredient,SUP-0100,mL,2248.15,USD,361,30,cold,23,true,75724-23-8,active
+MAT-00101,Blister PVC/Alu,packaging,SUP-0068,rolls,985.77,INR,271,84,ambient,44,false,,discontinued
+MAT-00102,Hologram Sticker,label,SUP-0159,g,1739.95,EUR,417,89,controlled,57,false,,discontinued
+MAT-00103,Methanol AR Grade,raw_chemical,SUP-0031,g,3360.71,EUR,157,17,cold,29,true,67004-59-6,discontinued
+MAT-00104,Gelatin Capsule Shell,excipient,SUP-0163,sheets,2115.48,JPY,356,85,cold,41,true,64228-46-2,active
+MAT-00105,Dropper Assembly,packaging,SUP-0092,pcs,3097.24,USD,249,20,cold,58,false,,discontinued
+MAT-00106,Phosphoric Acid,raw_chemical,SUP-0107,pcs,2045.97,INR,251,24,cold,42,true,99803-38-4,active
+MAT-00107,HDPE Bottle 60cc,packaging,SUP-0200,mL,2688.27,INR,290,66,controlled,38,true,,discontinued
+MAT-00108,Paracetamol DC,active_ingredient,SUP-0139,units,3875.68,USD,390,59,controlled,19,false,13473-93-3,active
+MAT-00109,Atorvastatin Calcium,active_ingredient,SUP-0113,pcs,1314.44,USD,398,33,cold,57,false,93209-88-6,active
+MAT-00110,Span 60,raw_chemical,SUP-0053,L,3924.35,USD,292,47,controlled,23,true,42471-47-4,discontinued
+MAT-00111,Child-Resistant Cap,packaging,SUP-0106,g,678.38,USD,142,86,cold,50,true,,active
+MAT-00112,Titanium Dioxide,excipient,SUP-0126,rolls,4142.49,EUR,296,83,ambient,46,false,49224-67-1,pending_approval
+MAT-00113,Ciprofloxacin HCl,active_ingredient,SUP-0178,sheets,2578.31,GBP,233,65,ambient,43,true,96089-21-7,pending_approval
+MAT-00114,Pre-filled Syringe 1ml,packaging,SUP-0056,g,3978.49,INR,423,30,ambient,23,false,,active
+MAT-00115,Ampoule 5ml,packaging,SUP-0088,L,2830.93,USD,24,15,controlled,56,false,,active
+MAT-00116,Amoxicillin Trihydrate,active_ingredient,SUP-0110,L,2206.71,EUR,353,19,controlled,25,true,35966-21-5,active
+MAT-00117,Amlodipine Besylate,active_ingredient,SUP-0014,rolls,3322.71,INR,321,42,controlled,50,true,56310-93-1,pending_approval
+MAT-00118,Atorvastatin Calcium,active_ingredient,SUP-0034,kg,1067.5,JPY,116,69,controlled,34,true,1106-99-5,active
+MAT-00119,Leaflet Insert A5,label,SUP-0099,L,2388.76,USD,375,16,cold,26,false,,active
+MAT-00120,Povidone K30,excipient,SUP-0165,sheets,3867.42,EUR,36,70,controlled,6,true,57734-54-3,pending_approval
+MAT-00121,Iron Oxide Red,excipient,SUP-0056,sheets,3080.57,USD,460,15,cold,54,true,77326-59-5,active
+MAT-00122,Carton Box Large,packaging,SUP-0022,L,1239.31,EUR,284,79,controlled,52,false,,pending_approval
+MAT-00123,Duloxetine HCl,active_ingredient,SUP-0131,units,1027.63,EUR,383,53,ambient,47,true,31420-73-6,active
+MAT-00124,Magnesium Stearate,excipient,SUP-0136,pcs,3190.59,USD,185,43,cold,30,false,47945-79-2,active
+MAT-00125,Amoxicillin Trihydrate,active_ingredient,SUP-0068,kg,2937.02,EUR,21,10,ambient,38,false,82438-74-6,active
+MAT-00126,Shipping Label,label,SUP-0158,g,3202.87,EUR,143,13,ambient,11,true,,active
+MAT-00127,Glycerin USP,raw_chemical,SUP-0196,rolls,1953.96,USD,159,58,controlled,60,true,7639-41-1,active
+MAT-00128,Metformin HCl,active_ingredient,SUP-0080,pcs,3061.68,EUR,62,4,controlled,14,true,21523-73-5,discontinued
+MAT-00129,Hydrochloric Acid,raw_chemical,SUP-0192,units,835.23,GBP,376,18,cold,27,false,35699-77-1,active
+MAT-00130,Sodium Chloride,raw_chemical,SUP-0093,g,2480.99,USD,256,75,cold,29,true,33488-23-9,pending_approval
+MAT-00131,Amoxicillin Trihydrate,active_ingredient,SUP-0012,mL,3704.03,USD,126,8,ambient,29,false,19721-32-0,discontinued
+MAT-00132,Tamper Evident Seal,label,SUP-0185,mL,1609.35,GBP,139,12,controlled,29,true,,discontinued
+MAT-00133,Sertraline HCl,active_ingredient,SUP-0012,L,1116.31,INR,36,62,ambient,55,false,42949-21-8,active
+MAT-00134,Fluoxetine HCl,active_ingredient,SUP-0078,rolls,1003.76,JPY,125,62,ambient,43,false,25664-79-3,active
+MAT-00135,Escitalopram Oxalate,active_ingredient,SUP-0089,sheets,120.04,USD,487,45,cold,54,false,96791-49-1,active
+MAT-00136,Ethanol 96%,raw_chemical,SUP-0037,mL,2099.37,GBP,48,8,cold,60,false,91911-57-7,pending_approval
+MAT-00137,Aspirin Fine Powder,active_ingredient,SUP-0020,g,2527.39,JPY,291,10,ambient,48,true,31084-47-4,active
+MAT-00138,Leaflet Insert A4,label,SUP-0060,rolls,1590.63,USD,484,28,cold,55,true,,active
+MAT-00139,Ibuprofen,active_ingredient,SUP-0105,L,2248.11,USD,275,48,cold,34,false,60781-43-1,active
+MAT-00140,PEG 6000,excipient,SUP-0011,units,4132.02,EUR,428,44,cold,11,true,46677-60-8,active
+MAT-00141,HDPE Bottle 60cc,packaging,SUP-0008,units,4100.54,INR,438,60,controlled,53,true,,active
+MAT-00142,Carton Print Sheet,label,SUP-0032,g,4019.58,USD,32,31,cold,18,false,,active
+MAT-00143,Atorvastatin Calcium,active_ingredient,SUP-0006,units,4587.18,USD,102,85,ambient,57,true,12105-52-1,active
+MAT-00144,Barcode Label Roll,label,SUP-0111,kg,840.36,INR,255,6,ambient,49,false,,active
+MAT-00145,Glass Vial 10ml,packaging,SUP-0072,mL,4541.57,INR,453,22,cold,45,true,,pending_approval
+MAT-00146,Carton Box Small,packaging,SUP-0123,pcs,2060.26,USD,45,38,ambient,14,false,,active
+MAT-00147,Tween 80,raw_chemical,SUP-0140,mL,3153.96,USD,196,48,ambient,40,false,45143-82-8,active
+MAT-00148,Serialization Label,label,SUP-0153,units,899.49,EUR,16,38,cold,57,false,,discontinued
+MAT-00149,Blister PVC/Alu,packaging,SUP-0064,mL,4869.91,EUR,137,71,controlled,9,true,,discontinued
+MAT-00150,Carton Print Sheet,label,SUP-0046,rolls,4676.06,EUR,304,43,controlled,50,false,,discontinued
+MAT-00151,Fluoxetine HCl,active_ingredient,SUP-0037,rolls,4737.82,JPY,486,27,ambient,40,false,23060-72-0,active
+MAT-00152,Amoxicillin Trihydrate,active_ingredient,SUP-0135,mL,3008.51,INR,1,45,controlled,18,true,44713-32-5,active
+MAT-00153,Lisinopril Dihydrate,active_ingredient,SUP-0199,L,2933.25,USD,434,70,ambient,10,false,92395-94-6,discontinued
+MAT-00154,Lisinopril Dihydrate,active_ingredient,SUP-0041,rolls,1509.17,INR,406,84,ambient,47,false,22883-81-9,active
+MAT-00155,Starch 1500,excipient,SUP-0033,L,1892.23,EUR,374,3,controlled,42,false,74431-14-2,discontinued
+MAT-00156,Blister PVC/Alu,packaging,SUP-0128,mL,3198.41,EUR,170,12,cold,28,false,,active
+MAT-00157,Ciprofloxacin HCl,active_ingredient,SUP-0054,rolls,2233.43,EUR,355,11,ambient,22,true,94476-10-0,active
+MAT-00158,Tamper Evident Seal,label,SUP-0127,sheets,4845.52,INR,180,72,ambient,12,false,,discontinued
+MAT-00159,Lactose Monohydrate,excipient,SUP-0076,L,2256.71,USD,164,36,cold,10,false,22346-58-2,pending_approval
+MAT-00160,Duloxetine HCl,active_ingredient,SUP-0124,g,1690.08,USD,221,86,cold,44,false,20641-16-1,active
+MAT-00161,Coating Opadry White,excipient,SUP-0185,mL,2046.69,JPY,136,87,ambient,25,true,12621-16-6,discontinued
+MAT-00162,Methanol AR Grade,raw_chemical,SUP-0001,pcs,768.37,INR,45,40,controlled,46,false,26221-22-0,active
+MAT-00163,Gelatin Capsule Shell,excipient,SUP-0030,units,4885.3,GBP,402,53,ambient,37,false,11995-92-8,active
+MAT-00164,Sodium Lauryl Sulfate,excipient,SUP-0048,rolls,4427.52,INR,23,36,ambient,35,false,29704-44-9,active
+MAT-00165,Sodium Lauryl Sulfate,excipient,SUP-0139,g,428.99,INR,498,78,cold,41,true,50788-76-6,discontinued
+MAT-00166,Primary Label A5,label,SUP-0102,mL,2381.57,USD,258,76,controlled,57,true,,active
+MAT-00167,Carton Print Sheet,label,SUP-0055,L,4745.33,EUR,65,8,ambient,11,false,,active
+MAT-00168,Magnesium Stearate,excipient,SUP-0023,units,1599.09,INR,285,53,controlled,26,false,68166-68-0,pending_approval
+MAT-00169,Hydrochloric Acid,raw_chemical,SUP-0038,sheets,563.04,JPY,302,77,cold,12,true,37548-78-5,active
+MAT-00170,Carton Box Medium,packaging,SUP-0156,sheets,3274.11,INR,20,25,ambient,31,true,,discontinued
+MAT-00171,Benzyl Alcohol,raw_chemical,SUP-0085,sheets,194.39,EUR,26,63,ambient,29,true,44334-48-4,active
+MAT-00172,Leaflet Insert A5,label,SUP-0035,g,4862.5,GBP,499,59,ambient,23,false,,discontinued
+MAT-00173,Cetirizine HCl,active_ingredient,SUP-0190,mL,2208.86,INR,389,69,ambient,58,true,67587-30-1,active
+MAT-00174,Span 60,raw_chemical,SUP-0135,sheets,678.68,JPY,15,25,cold,59,true,7603-41-0,active
+MAT-00175,Ciprofloxacin HCl,active_ingredient,SUP-0095,rolls,3523.32,INR,259,53,controlled,13,true,31761-57-7,discontinued
+MAT-00176,Hologram Sticker,label,SUP-0151,L,4802.62,JPY,180,47,cold,59,false,,pending_approval
+MAT-00177,Metformin HCl,active_ingredient,SUP-0042,units,137.74,JPY,400,30,cold,47,true,88876-36-4,pending_approval
+MAT-00178,Primary Label A4,label,SUP-0122,kg,4323.22,EUR,332,25,controlled,57,true,,active
+MAT-00179,Shrink Wrap Film,packaging,SUP-0165,units,3563.85,GBP,217,51,ambient,35,false,,active
+MAT-00180,Barcode Label Roll,label,SUP-0102,units,3386.14,JPY,53,3,controlled,48,false,,discontinued
+MAT-00181,Purified Water USP,raw_chemical,SUP-0124,units,1492.73,USD,173,38,controlled,26,false,34279-93-4,active
+MAT-00182,PEG 6000,excipient,SUP-0104,mL,4498.49,GBP,349,20,controlled,7,false,38795-43-6,active
+MAT-00183,Barcode Label Roll,label,SUP-0049,kg,2915.33,GBP,372,31,controlled,40,false,,pending_approval
+MAT-00184,Dropper Assembly,packaging,SUP-0169,units,4227.17,JPY,93,40,cold,36,true,,pending_approval
+MAT-00185,Nasal Spray Pump,packaging,SUP-0086,L,4734.64,USD,114,48,cold,53,false,,active
+MAT-00186,Glass Vial 10ml,packaging,SUP-0119,rolls,1303.17,USD,241,9,controlled,43,true,,active
+MAT-00187,Titanium Dioxide,excipient,SUP-0136,g,4337.56,GBP,212,9,cold,14,true,44964-62-9,active
+MAT-00188,Hypromellose,excipient,SUP-0200,rolls,4312.04,USD,250,45,controlled,17,false,83215-17-0,active
+MAT-00189,HDPE Bottle 60cc,packaging,SUP-0148,mL,3806.09,EUR,251,14,cold,45,false,,pending_approval
+MAT-00190,Hologram Sticker,label,SUP-0099,sheets,2145.41,USD,20,71,cold,52,false,,active
+MAT-00191,Blister Alu-Alu,packaging,SUP-0161,mL,90.07,EUR,116,47,ambient,14,true,,active
+MAT-00192,Span 60,raw_chemical,SUP-0012,units,835.52,GBP,486,40,ambient,52,false,56891-97-2,active
+MAT-00193,Carton Print Sheet,label,SUP-0104,rolls,3750.7,USD,117,31,controlled,14,true,,pending_approval
+MAT-00194,Metformin HCl,active_ingredient,SUP-0097,L,616.25,GBP,395,71,controlled,9,true,86815-23-0,active
+MAT-00195,Omeprazole Magnesium,active_ingredient,SUP-0141,sheets,2221.85,GBP,243,22,cold,50,true,39517-63-1,pending_approval
+MAT-00196,Propylene Glycol,raw_chemical,SUP-0036,units,3114.18,INR,426,16,controlled,52,true,37104-24-1,active
+MAT-00197,HPMC Capsule Shell,excipient,SUP-0052,mL,3889.91,GBP,361,55,ambient,16,true,71895-73-3,pending_approval
+MAT-00198,Primary Label A4,label,SUP-0172,rolls,1172.91,USD,465,17,controlled,48,false,,active
+MAT-00199,Omeprazole Magnesium,active_ingredient,SUP-0066,g,3617.96,EUR,234,40,ambient,35,true,13132-32-0,active
+MAT-00200,Blister PVC/Alu,packaging,SUP-0025,rolls,2130.26,USD,5,20,controlled,47,true,,active
+MAT-00201,Glass Vial 10ml,packaging,SUP-0188,pcs,4775.47,USD,191,46,cold,13,false,,active
+MAT-00202,Hologram Sticker,label,SUP-0108,units,4178.62,EUR,58,19,controlled,52,true,,active
+MAT-00203,Clopidogrel Bisulfate,active_ingredient,SUP-0146,sheets,4556.18,INR,93,81,ambient,55,false,80181-13-2,active
+MAT-00204,Hologram Sticker,label,SUP-0012,g,4438.03,USD,134,86,ambient,6,true,,pending_approval
+MAT-00205,Shrink Wrap Film,packaging,SUP-0064,g,2164.52,INR,178,87,controlled,47,false,,active
+MAT-00206,Benzyl Alcohol,raw_chemical,SUP-0041,kg,58.72,JPY,435,63,ambient,16,true,98541-72-5,active
+MAT-00207,HDPE Bottle 120cc,packaging,SUP-0141,units,252.23,INR,207,33,cold,35,false,,discontinued
+MAT-00208,Hologram Sticker,label,SUP-0081,g,4283.02,USD,255,86,cold,12,false,,active
+MAT-00209,Duloxetine HCl,active_ingredient,SUP-0159,kg,4129.63,GBP,456,68,controlled,19,false,44726-56-0,active
+MAT-00210,Barcode Label Roll,label,SUP-0154,rolls,2800.97,INR,367,87,ambient,51,false,,active
+MAT-00211,Paracetamol DC,active_ingredient,SUP-0163,mL,11.48,GBP,281,69,ambient,50,true,6050-31-7,active
+MAT-00212,Leaflet Insert A5,label,SUP-0049,g,1271.82,USD,477,53,cold,35,true,,pending_approval
+MAT-00213,Blister Alu-Alu,packaging,SUP-0163,g,3785.87,JPY,64,60,ambient,48,true,,active
+MAT-00214,Cetirizine HCl,active_ingredient,SUP-0150,kg,2766.36,INR,474,68,cold,50,true,95797-26-1,active
+MAT-00215,Acetone AR Grade,raw_chemical,SUP-0108,rolls,2520.8,JPY,469,34,ambient,31,false,38607-67-2,active
+MAT-00216,Shipping Label,label,SUP-0081,units,4215.45,JPY,324,30,cold,19,false,,pending_approval
+MAT-00217,Carton Box Large,packaging,SUP-0046,L,4906.69,JPY,278,84,ambient,51,true,,active
+MAT-00218,Glycerin USP,raw_chemical,SUP-0182,pcs,2914.24,INR,346,71,ambient,60,false,1723-76-1,active
+MAT-00219,Primary Label A4,label,SUP-0052,L,265.8,GBP,385,23,ambient,49,false,,active
+MAT-00220,Escitalopram Oxalate,active_ingredient,SUP-0009,units,1020.4,GBP,417,60,cold,45,true,97359-92-8,active
+MAT-00221,Lactose Monohydrate,excipient,SUP-0098,units,3464.83,INR,214,90,ambient,41,true,1749-42-3,discontinued
+MAT-00222,Serialization Label,label,SUP-0194,mL,4557.48,JPY,280,80,cold,55,true,,active
+MAT-00223,Primary Label A5,label,SUP-0048,L,4917.27,EUR,377,68,cold,30,true,,active
+MAT-00224,Carton Box Medium,packaging,SUP-0066,units,650.77,USD,170,62,controlled,15,true,,active
+MAT-00225,Carton Box Large,packaging,SUP-0158,kg,3868.42,GBP,252,76,controlled,28,true,,pending_approval
+MAT-00226,Carton Box Small,packaging,SUP-0018,mL,4784.96,JPY,82,56,controlled,40,false,,active
+MAT-00227,Carton Box Large,packaging,SUP-0085,mL,4417.04,GBP,185,40,cold,54,false,,discontinued
+MAT-00228,Gabapentin,active_ingredient,SUP-0062,g,3344.86,JPY,471,82,cold,8,false,50037-24-6,active
+MAT-00229,Sodium Chloride,raw_chemical,SUP-0198,units,124.02,GBP,264,68,ambient,37,true,38904-93-3,active
+MAT-00230,Hydrochloric Acid,raw_chemical,SUP-0198,g,4741.08,JPY,274,3,controlled,10,true,87912-90-3,pending_approval
+MAT-00231,Tamper Evident Seal,label,SUP-0166,g,1028.3,USD,383,90,cold,7,false,,pending_approval
+MAT-00232,Blister Alu-Alu,packaging,SUP-0046,kg,438.06,GBP,286,12,controlled,58,true,,active
+MAT-00233,Tamper Evident Seal,label,SUP-0111,sheets,2255.9,GBP,9,52,controlled,13,true,,pending_approval
+MAT-00234,Potassium Chloride,raw_chemical,SUP-0012,g,3779.93,USD,184,67,cold,24,false,79553-21-4,active
+MAT-00235,Primary Label A4,label,SUP-0122,sheets,4110.7,EUR,274,31,cold,53,false,,discontinued
+MAT-00236,Nasal Spray Pump,packaging,SUP-0187,L,1490.63,GBP,491,4,controlled,41,true,,active
+MAT-00237,Aspirin Fine Powder,active_ingredient,SUP-0138,kg,2863.81,JPY,485,13,ambient,19,false,27802-62-8,active
+MAT-00238,Stearic Acid,excipient,SUP-0050,L,1104.33,USD,93,88,controlled,60,true,98490-80-7,pending_approval
+MAT-00239,Purified Water USP,raw_chemical,SUP-0065,g,1453.62,USD,102,77,ambient,27,false,16855-95-3,active
+MAT-00240,Glass Vial 20ml,packaging,SUP-0125,g,4500.64,INR,169,81,controlled,25,true,,discontinued
+MAT-00241,Acetone AR Grade,raw_chemical,SUP-0044,rolls,4038.59,USD,161,34,cold,51,false,36314-56-2,pending_approval
+MAT-00242,Glass Vial 20ml,packaging,SUP-0199,pcs,2314.51,GBP,250,73,cold,17,true,,active
+MAT-00243,Magnesium Stearate,excipient,SUP-0187,mL,1316.54,USD,457,5,controlled,46,true,76319-84-6,discontinued
+MAT-00244,Coating Opadry White,excipient,SUP-0139,kg,2758.19,INR,335,22,ambient,31,true,77330-47-2,active
+MAT-00245,Sodium Chloride,raw_chemical,SUP-0003,g,1984.23,EUR,435,81,controlled,16,true,58537-30-2,discontinued
+MAT-00246,Phosphoric Acid,raw_chemical,SUP-0092,L,3679.73,USD,113,65,cold,10,false,48472-39-0,pending_approval
+MAT-00247,Iron Oxide Red,excipient,SUP-0012,rolls,1940.77,USD,333,44,cold,51,false,97293-43-9,discontinued
+MAT-00248,Acetone AR Grade,raw_chemical,SUP-0094,L,1883.61,JPY,335,12,controlled,22,false,29265-76-6,active
+MAT-00249,Nasal Spray Pump,packaging,SUP-0155,pcs,3963.39,USD,257,20,ambient,16,true,,active
+MAT-00250,Hydrochloric Acid,raw_chemical,SUP-0041,units,1057.98,GBP,309,18,controlled,20,false,43333-24-7,pending_approval
+MAT-00251,Carton Print Sheet,label,SUP-0166,pcs,1053.91,INR,12,34,cold,14,true,,active
+MAT-00252,Hydrochloric Acid,raw_chemical,SUP-0015,kg,4454.04,EUR,133,26,controlled,31,true,94362-94-4,active
+MAT-00253,Gelatin Capsule Shell,excipient,SUP-0124,pcs,3032.83,EUR,113,55,controlled,15,true,81735-94-8,active
+MAT-00254,PEG 6000,excipient,SUP-0152,rolls,4611.8,USD,118,51,ambient,14,true,2220-35-8,discontinued
+MAT-00255,Carton Print Sheet,label,SUP-0122,L,3027.75,JPY,308,7,controlled,38,true,,active
+MAT-00256,Shipping Label,label,SUP-0001,L,4509.97,INR,268,56,ambient,8,false,,active
+MAT-00257,Barcode Label Roll,label,SUP-0026,sheets,1752.91,INR,69,35,ambient,55,true,,active
+MAT-00258,Blister Alu-Alu,packaging,SUP-0182,sheets,1289.4,USD,296,69,cold,39,true,,active
+MAT-00259,Croscarmellose Sodium,excipient,SUP-0040,rolls,2044.52,INR,334,77,ambient,22,false,74062-56-9,active
+MAT-00260,Shipping Label,label,SUP-0124,mL,2066.43,EUR,190,74,controlled,36,false,,active
+MAT-00261,Acetone AR Grade,raw_chemical,SUP-0189,rolls,3871.09,EUR,438,87,cold,53,true,58586-99-2,active
+MAT-00262,Coating Opadry White,excipient,SUP-0158,sheets,3930.51,USD,83,52,controlled,6,true,19098-70-9,active
+MAT-00263,Paracetamol DC,active_ingredient,SUP-0021,g,1315.83,JPY,20,52,ambient,45,false,93321-86-0,active
+MAT-00264,Shipping Label,label,SUP-0074,pcs,54.05,EUR,18,79,controlled,39,true,,discontinued
+MAT-00265,Microcrystalline Cellulose,excipient,SUP-0041,kg,1799.02,USD,142,54,ambient,48,false,53193-85-3,discontinued
+MAT-00266,Escitalopram Oxalate,active_ingredient,SUP-0073,g,4595.93,JPY,469,77,ambient,28,false,29711-87-3,active
+MAT-00267,Tamper Evident Seal,label,SUP-0130,kg,1305.91,USD,287,12,controlled,24,false,,active
+MAT-00268,Span 60,raw_chemical,SUP-0148,units,4380.63,GBP,356,59,ambient,42,false,31936-53-7,pending_approval
+MAT-00269,Leaflet Insert A4,label,SUP-0018,kg,2410.11,INR,325,31,controlled,50,true,,active
+MAT-00270,Primary Label A4,label,SUP-0180,rolls,2582.76,GBP,128,39,cold,31,false,,active
+MAT-00271,Methanol AR Grade,raw_chemical,SUP-0056,L,2383.04,JPY,138,26,controlled,49,true,65454-35-3,pending_approval
+MAT-00272,Talc Powder,excipient,SUP-0064,units,1034.29,JPY,183,22,cold,13,true,88630-94-7,discontinued
+MAT-00273,Paracetamol DC,active_ingredient,SUP-0159,kg,4240.13,GBP,253,76,ambient,37,true,67045-45-6,active
+MAT-00274,Tween 80,raw_chemical,SUP-0109,L,271.21,INR,482,72,cold,38,false,51655-97-2,active
+MAT-00275,Amoxicillin Trihydrate,active_ingredient,SUP-0004,pcs,1578.6,EUR,195,77,cold,26,false,80368-43-2,discontinued
+MAT-00276,Carton Box Medium,packaging,SUP-0088,mL,1347.41,GBP,95,66,ambient,19,false,,pending_approval
+MAT-00277,Glass Vial 10ml,packaging,SUP-0116,rolls,4271.7,EUR,293,19,controlled,49,true,,active
+MAT-00278,Dropper Assembly,packaging,SUP-0098,mL,2776.92,EUR,75,22,ambient,57,true,,active
+MAT-00279,Shipping Label,label,SUP-0137,pcs,672.79,GBP,403,65,ambient,22,true,,active
+MAT-00280,Ciprofloxacin HCl,active_ingredient,SUP-0122,L,300.65,USD,231,45,ambient,29,false,73496-81-4,active
+MAT-00281,Duloxetine HCl,active_ingredient,SUP-0051,sheets,606.63,JPY,295,86,controlled,40,true,37354-55-5,pending_approval
+MAT-00282,Phosphoric Acid,raw_chemical,SUP-0021,pcs,3873.83,INR,315,39,ambient,46,true,22014-91-5,active
+MAT-00283,Purified Water USP,raw_chemical,SUP-0021,sheets,4244.58,EUR,176,32,ambient,26,false,93167-44-9,pending_approval
+MAT-00284,Serialization Label,label,SUP-0192,units,4438.52,JPY,267,60,ambient,16,true,,active
+MAT-00285,Magnesium Stearate,excipient,SUP-0054,mL,3310.28,EUR,204,16,cold,10,false,71934-16-0,active
+MAT-00286,Potassium Chloride,raw_chemical,SUP-0040,g,520.09,USD,336,52,ambient,20,true,96727-46-7,pending_approval
+MAT-00287,Hypromellose,excipient,SUP-0008,L,2633.95,USD,340,48,ambient,36,false,70905-44-8,active
+MAT-00288,Iron Oxide Red,excipient,SUP-0162,L,2954.36,JPY,223,70,controlled,46,false,45554-71-8,active
+MAT-00289,Cetirizine HCl,active_ingredient,SUP-0067,pcs,1539.69,EUR,156,4,cold,39,true,45123-46-7,discontinued
+MAT-00290,Clopidogrel Bisulfate,active_ingredient,SUP-0077,pcs,4734.81,USD,393,58,ambient,44,true,996-80-5,active
+MAT-00291,Carton Print Sheet,label,SUP-0184,sheets,1974.06,INR,425,51,cold,22,true,,active
+MAT-00292,Coating Opadry White,excipient,SUP-0069,units,1423.74,INR,97,11,cold,14,false,14514-91-7,discontinued
+MAT-00293,Hologram Sticker,label,SUP-0049,units,3502.51,GBP,10,22,cold,40,true,,active
+MAT-00294,Gabapentin,active_ingredient,SUP-0187,units,1346.34,USD,120,14,cold,6,false,28517-53-6,active
+MAT-00295,Primary Label A4,label,SUP-0085,rolls,2318.69,USD,432,21,cold,23,false,,active
+MAT-00296,Benzyl Alcohol,raw_chemical,SUP-0065,pcs,908.43,INR,425,4,cold,55,true,50486-66-3,pending_approval
+MAT-00297,Omeprazole Magnesium,active_ingredient,SUP-0134,mL,2304.44,EUR,243,52,controlled,25,false,20839-90-0,pending_approval
+MAT-00298,Glycerin USP,raw_chemical,SUP-0077,g,1266.94,EUR,185,9,controlled,19,true,30978-91-6,active
+MAT-00299,Fluoxetine HCl,active_ingredient,SUP-0031,L,3972.05,INR,405,34,cold,8,false,90280-86-2,active
+MAT-00300,Atorvastatin Calcium,active_ingredient,SUP-0176,mL,788.91,JPY,174,83,cold,9,false,84535-29-8,active
+MAT-00301,Coating Opadry White,excipient,SUP-0166,pcs,1163.76,GBP,413,59,controlled,18,true,90391-58-5,pending_approval
+MAT-00302,Gelatin Capsule Shell,excipient,SUP-0181,units,4493.37,INR,287,40,controlled,50,false,24924-82-2,discontinued
+MAT-00303,Glass Vial 10ml,packaging,SUP-0154,rolls,3662.15,JPY,83,11,controlled,15,false,,active
+MAT-00304,Child-Resistant Cap,packaging,SUP-0164,rolls,2270.67,JPY,195,26,cold,45,false,,discontinued
+MAT-00305,Coating Opadry White,excipient,SUP-0100,rolls,3605.16,EUR,269,90,ambient,55,true,80402-46-5,active
+MAT-00306,Carton Box Large,packaging,SUP-0018,g,481.73,USD,428,19,cold,8,true,,active
+MAT-00307,Barcode Label Roll,label,SUP-0165,mL,494.22,INR,337,65,controlled,45,false,,active
+MAT-00308,Blister PVC/Alu,packaging,SUP-0004,mL,3029.97,EUR,336,65,cold,35,true,,active
+MAT-00309,Tween 80,raw_chemical,SUP-0182,sheets,4110.22,USD,422,81,ambient,39,true,96296-19-4,active
+MAT-00310,Silicon Dioxide,excipient,SUP-0137,g,506.57,INR,98,27,controlled,48,true,74764-90-2,discontinued
+MAT-00311,Tween 80,raw_chemical,SUP-0164,sheets,3730.67,JPY,184,89,ambient,50,false,13694-31-2,discontinued
+MAT-00312,Shipping Label,label,SUP-0154,rolls,3287.83,INR,478,48,ambient,41,false,,active
+MAT-00313,Serialization Label,label,SUP-0156,sheets,4130.86,EUR,289,72,cold,30,false,,active
+MAT-00314,Primary Label A4,label,SUP-0186,pcs,4799.14,USD,146,79,cold,39,true,,active
+MAT-00315,Losartan Potassium,active_ingredient,SUP-0081,units,4921.98,USD,396,38,controlled,38,true,12408-14-7,active
+MAT-00316,Coating Opadry Blue,excipient,SUP-0064,L,1325.31,EUR,132,41,cold,42,false,74638-37-1,pending_approval
+MAT-00317,Dropper Assembly,packaging,SUP-0177,pcs,864.93,JPY,420,15,controlled,47,false,,active
+MAT-00318,Ethanol 96%,raw_chemical,SUP-0198,sheets,392.85,GBP,179,58,ambient,13,true,98049-93-9,active
+MAT-00319,Primary Label A4,label,SUP-0082,kg,1524.26,JPY,290,22,ambient,38,true,,active
+MAT-00320,Duloxetine HCl,active_ingredient,SUP-0148,sheets,4855.22,JPY,47,31,ambient,24,false,19450-26-5,active
+MAT-00321,Leaflet Insert A4,label,SUP-0022,kg,2740.99,INR,257,58,controlled,14,true,,active
+MAT-00322,Glycerin USP,raw_chemical,SUP-0147,mL,2439.56,EUR,288,81,controlled,39,true,31810-19-4,active
+MAT-00323,Pre-filled Syringe 1ml,packaging,SUP-0109,g,563.09,GBP,179,27,ambient,28,true,,active
+MAT-00324,Iron Oxide Red,excipient,SUP-0160,rolls,3081.3,EUR,226,8,cold,18,false,20496-20-1,pending_approval
+MAT-00325,Lisinopril Dihydrate,active_ingredient,SUP-0074,mL,4744.73,USD,176,17,ambient,34,false,3031-52-3,pending_approval
+MAT-00326,Sodium Chloride,raw_chemical,SUP-0193,mL,1019.4,GBP,281,64,controlled,52,true,91154-99-0,active
+MAT-00327,Ethanol 96%,raw_chemical,SUP-0073,kg,1277.65,EUR,405,82,ambient,9,false,85870-11-1,active
+MAT-00328,Blister Alu-Alu,packaging,SUP-0075,rolls,4321.48,INR,119,51,controlled,51,true,,active
+MAT-00329,Shipping Label,label,SUP-0118,g,932.49,JPY,475,5,cold,21,false,,active
+MAT-00330,Primary Label A4,label,SUP-0089,sheets,3722.08,GBP,182,83,ambient,21,false,,active
+MAT-00331,Dropper Assembly,packaging,SUP-0008,sheets,4452.07,JPY,486,38,cold,15,false,,active
+MAT-00332,HPMC Capsule Shell,excipient,SUP-0174,g,3649.58,JPY,447,83,controlled,20,false,31554-83-2,active
+MAT-00333,HDPE Bottle 60cc,packaging,SUP-0053,rolls,2246.12,EUR,298,72,controlled,57,true,,active
+MAT-00334,Nasal Spray Pump,packaging,SUP-0198,L,2150.61,EUR,336,75,cold,26,true,,discontinued
+MAT-00335,Span 60,raw_chemical,SUP-0038,g,921.08,USD,392,43,ambient,32,false,58115-91-4,active
+MAT-00336,Microcrystalline Cellulose,excipient,SUP-0196,g,658.16,JPY,316,37,controlled,42,true,78216-39-3,pending_approval
+MAT-00337,Clopidogrel Bisulfate,active_ingredient,SUP-0035,rolls,397.84,JPY,434,80,ambient,51,false,24164-59-7,active
+MAT-00338,Lactose Monohydrate,excipient,SUP-0105,L,966.7,USD,474,37,ambient,20,true,99373-36-1,active
+MAT-00339,Hologram Sticker,label,SUP-0064,pcs,3439.47,INR,208,8,controlled,53,false,,pending_approval
+MAT-00340,Shrink Wrap Film,packaging,SUP-0147,sheets,3057.72,JPY,275,70,controlled,51,true,,discontinued
+MAT-00341,Metformin HCl,active_ingredient,SUP-0063,pcs,2284.77,JPY,276,53,controlled,8,false,67699-90-0,active
+MAT-00342,Glass Vial 10ml,packaging,SUP-0199,pcs,1990.5,GBP,237,24,ambient,24,true,,pending_approval
+MAT-00343,Glycerin USP,raw_chemical,SUP-0116,L,2318.16,USD,370,67,cold,17,true,51570-62-5,active
+MAT-00344,Losartan Potassium,active_ingredient,SUP-0117,L,2268.68,USD,129,44,controlled,47,true,94208-25-1,active
+MAT-00345,Tamper Evident Seal,label,SUP-0187,rolls,426.99,JPY,314,23,ambient,41,false,,active
+MAT-00346,Povidone K30,excipient,SUP-0042,rolls,2827.68,EUR,92,9,ambient,25,false,95753-67-4,pending_approval
+MAT-00347,Talc Powder,excipient,SUP-0001,g,4492.76,JPY,392,35,cold,35,false,65408-79-0,discontinued
+MAT-00348,Hologram Sticker,label,SUP-0117,mL,1084.76,INR,227,13,controlled,44,true,,active
+MAT-00349,Sodium Chloride,raw_chemical,SUP-0054,units,3099.02,USD,95,21,cold,47,false,4863-28-0,pending_approval
+MAT-00350,Purified Water USP,raw_chemical,SUP-0013,units,1655.89,USD,214,25,cold,49,false,80146-94-9,discontinued
+MAT-00351,Propylene Glycol,raw_chemical,SUP-0149,L,4831.48,GBP,477,7,cold,55,false,42362-57-6,active
+MAT-00352,Carton Print Sheet,label,SUP-0032,g,1464.52,GBP,169,70,ambient,39,true,,pending_approval
+MAT-00353,HPMC Capsule Shell,excipient,SUP-0023,kg,546.96,INR,371,80,controlled,24,false,79852-50-4,discontinued
+MAT-00354,Potassium Chloride,raw_chemical,SUP-0145,rolls,4635.56,INR,267,83,ambient,37,true,79926-39-4,active
+MAT-00355,Omeprazole Magnesium,active_ingredient,SUP-0189,g,120.42,EUR,410,81,ambient,32,true,43800-54-8,pending_approval
+MAT-00356,Starch 1500,excipient,SUP-0066,kg,3203.27,USD,158,41,controlled,41,false,853-24-5,active
+MAT-00357,Leaflet Insert A5,label,SUP-0085,kg,4160.3,GBP,473,89,ambient,36,true,,pending_approval
+MAT-00358,Iron Oxide Red,excipient,SUP-0138,pcs,777.35,GBP,237,55,controlled,9,false,74098-96-5,discontinued
+MAT-00359,Glycerin USP,raw_chemical,SUP-0085,kg,1041.71,GBP,34,22,ambient,59,true,44503-58-8,active
+MAT-00360,Purified Water USP,raw_chemical,SUP-0193,sheets,937.3,GBP,362,43,controlled,8,false,54296-21-7,active
+MAT-00361,Glass Vial 10ml,packaging,SUP-0056,pcs,4147.37,JPY,155,25,cold,29,true,,active
+MAT-00362,Clopidogrel Bisulfate,active_ingredient,SUP-0129,pcs,2530.22,EUR,98,46,ambient,52,false,42954-28-1,discontinued
+MAT-00363,Iron Oxide Red,excipient,SUP-0100,mL,3622.99,JPY,60,3,ambient,8,true,43734-69-0,active
+MAT-00364,Tween 80,raw_chemical,SUP-0080,units,112.89,EUR,165,28,cold,24,false,69816-50-7,pending_approval
+MAT-00365,Ciprofloxacin HCl,active_ingredient,SUP-0030,units,747.03,USD,491,82,controlled,38,true,27126-79-5,discontinued
+MAT-00366,Shrink Wrap Film,packaging,SUP-0073,units,708.21,JPY,126,24,cold,25,false,,discontinued
+MAT-00367,Hologram Sticker,label,SUP-0173,kg,650.8,USD,55,52,cold,11,false,,active
+MAT-00368,Starch 1500,excipient,SUP-0086,pcs,3081.77,EUR,366,88,controlled,11,false,74471-26-1,pending_approval
+MAT-00369,Hologram Sticker,label,SUP-0121,g,2278.19,EUR,486,31,cold,45,false,,active
+MAT-00370,Serialization Label,label,SUP-0084,L,3498.22,INR,250,6,cold,36,true,,active
+MAT-00371,Leaflet Insert A4,label,SUP-0197,pcs,4228.91,GBP,310,76,cold,38,true,,active
+MAT-00372,Atorvastatin Calcium,active_ingredient,SUP-0078,rolls,2780.97,JPY,237,54,controlled,32,true,81429-41-8,active
+MAT-00373,Leaflet Insert A5,label,SUP-0178,sheets,330.77,JPY,221,58,controlled,56,false,,discontinued
+MAT-00374,Magnesium Stearate,excipient,SUP-0190,L,3313.23,JPY,429,65,cold,43,false,42697-81-1,active
+MAT-00375,Magnesium Stearate,excipient,SUP-0154,units,4779.44,USD,351,79,ambient,26,false,84590-94-0,active
+MAT-00376,Microcrystalline Cellulose,excipient,SUP-0194,L,4436.36,EUR,339,22,ambient,40,false,51165-88-9,active
+MAT-00377,Hydroxypropyl Cellulose,excipient,SUP-0077,mL,3407.74,JPY,407,89,ambient,33,false,11753-84-0,discontinued
+MAT-00378,Span 60,raw_chemical,SUP-0076,sheets,4238.26,USD,190,73,cold,6,false,14428-46-0,active
+MAT-00379,Tamper Evident Seal,label,SUP-0104,sheets,3126.26,INR,223,72,cold,48,true,,active
+MAT-00380,Sodium Lauryl Sulfate,excipient,SUP-0107,mL,2777.33,EUR,148,88,cold,14,true,9453-92-0,active
+MAT-00381,Carton Print Sheet,label,SUP-0022,sheets,4874.89,EUR,329,56,ambient,56,false,,discontinued
+MAT-00382,Coating Opadry White,excipient,SUP-0116,pcs,2547.32,INR,182,31,cold,33,true,75801-73-3,pending_approval
+MAT-00383,Sodium Chloride,raw_chemical,SUP-0148,units,2054.48,GBP,18,7,controlled,36,false,14882-84-7,pending_approval
+MAT-00384,Sertraline HCl,active_ingredient,SUP-0193,L,3651.06,GBP,239,69,cold,39,true,32192-70-1,pending_approval
+MAT-00385,Benzyl Alcohol,raw_chemical,SUP-0088,units,3065.39,JPY,399,4,ambient,35,false,75280-52-6,active
+MAT-00386,Shrink Wrap Film,packaging,SUP-0153,units,837.96,GBP,373,75,ambient,9,false,,discontinued
+MAT-00387,Starch 1500,excipient,SUP-0189,kg,3281.77,JPY,14,39,ambient,11,true,66319-19-4,active
+MAT-00388,Stearic Acid,excipient,SUP-0004,units,1376.45,USD,310,25,controlled,53,true,86446-67-5,active
+MAT-00389,Child-Resistant Cap,packaging,SUP-0136,mL,2424.85,USD,176,13,cold,44,true,,active
+MAT-00390,Hologram Sticker,label,SUP-0186,sheets,1190.12,EUR,108,76,controlled,59,false,,active
+MAT-00391,Ampoule 5ml,packaging,SUP-0103,g,263.09,INR,155,63,controlled,54,true,,active
+MAT-00392,Shipping Label,label,SUP-0112,pcs,1313.49,USD,148,60,ambient,49,false,,discontinued
+MAT-00393,Paracetamol DC,active_ingredient,SUP-0111,g,4588.6,JPY,471,86,ambient,27,false,35057-22-4,pending_approval
+MAT-00394,Glycerin USP,raw_chemical,SUP-0192,sheets,2305.81,EUR,376,89,controlled,55,true,68201-53-2,active
+MAT-00395,Span 60,raw_chemical,SUP-0018,kg,3364.17,USD,211,15,controlled,12,false,46123-38-4,active
+MAT-00396,Magnesium Stearate,excipient,SUP-0015,kg,118.99,JPY,337,30,controlled,46,true,92858-25-1,discontinued
+MAT-00397,Coating Opadry Blue,excipient,SUP-0048,sheets,3282.14,USD,357,26,ambient,24,false,86620-19-7,active
+MAT-00398,Primary Label A5,label,SUP-0071,rolls,1287.05,USD,196,52,ambient,9,false,,active
+MAT-00399,Talc Powder,excipient,SUP-0157,pcs,347.46,INR,92,85,ambient,12,true,70911-65-3,discontinued
+MAT-00400,Omeprazole Magnesium,active_ingredient,SUP-0009,pcs,3577.14,USD,37,76,controlled,22,false,2509-73-2,pending_approval
+MAT-00401,Ciprofloxacin HCl,active_ingredient,SUP-0039,kg,3323.2,GBP,464,53,controlled,6,false,62720-65-6,pending_approval
+MAT-00402,Clopidogrel Bisulfate,active_ingredient,SUP-0032,mL,17.04,JPY,275,48,ambient,49,false,52559-17-1,active
+MAT-00403,Phosphoric Acid,raw_chemical,SUP-0195,rolls,402.74,GBP,332,28,cold,41,true,50403-94-3,active
+MAT-00404,Serialization Label,label,SUP-0125,g,3153.27,USD,454,83,ambient,53,true,,active
+MAT-00405,Fluoxetine HCl,active_ingredient,SUP-0062,mL,127.31,INR,200,11,controlled,47,false,65544-78-7,active
+MAT-00406,Metformin HCl,active_ingredient,SUP-0104,rolls,280.74,USD,109,86,controlled,39,false,88927-78-2,pending_approval
+MAT-00407,Ethanol 96%,raw_chemical,SUP-0189,mL,4624.12,EUR,251,86,cold,36,true,31858-99-2,active
+MAT-00408,Croscarmellose Sodium,excipient,SUP-0117,kg,4523.36,JPY,88,78,cold,58,true,15015-73-9,discontinued
+MAT-00409,Iron Oxide Yellow,excipient,SUP-0087,g,4022.37,INR,167,18,controlled,42,true,42201-37-0,discontinued
+MAT-00410,Stearic Acid,excipient,SUP-0037,rolls,316.58,INR,87,50,controlled,16,false,31984-84-0,active
+MAT-00411,Amoxicillin Trihydrate,active_ingredient,SUP-0125,sheets,3888.42,USD,4,3,cold,11,false,54605-98-7,pending_approval
+MAT-00412,Stearic Acid,excipient,SUP-0134,mL,715.87,INR,211,33,cold,45,true,78204-33-7,discontinued
+MAT-00413,Amoxicillin Trihydrate,active_ingredient,SUP-0143,units,1739.59,EUR,99,18,controlled,12,false,99812-79-8,active
+MAT-00414,Leaflet Insert A5,label,SUP-0029,mL,1382.49,EUR,351,63,ambient,17,true,,pending_approval
+MAT-00415,Azithromycin Dihydrate,active_ingredient,SUP-0054,kg,3224.48,INR,129,45,controlled,57,false,5727-23-0,discontinued
+MAT-00416,Gelatin Capsule Shell,excipient,SUP-0132,L,3927.57,USD,37,33,controlled,34,false,54977-35-5,active
+MAT-00417,Simvastatin,active_ingredient,SUP-0189,rolls,1139.3,INR,446,28,ambient,20,true,61783-84-7,active
+MAT-00418,Barcode Label Roll,label,SUP-0117,L,1081.22,EUR,199,50,cold,35,true,,pending_approval
+MAT-00419,HDPE Bottle 60cc,packaging,SUP-0009,units,1011.45,JPY,31,38,cold,13,false,,active
+MAT-00420,Leaflet Insert A5,label,SUP-0076,L,3801.82,JPY,81,84,controlled,16,true,,active
+MAT-00421,Leaflet Insert A5,label,SUP-0152,pcs,4311.06,INR,429,62,ambient,6,false,,pending_approval
+MAT-00422,Coating Opadry Blue,excipient,SUP-0057,mL,1636.82,JPY,485,22,controlled,6,false,5846-15-7,pending_approval
+MAT-00423,Acetone AR Grade,raw_chemical,SUP-0123,kg,2128.78,USD,232,66,cold,11,true,90903-62-3,active
+MAT-00424,Blister PVC/Alu,packaging,SUP-0005,units,1195.69,INR,343,42,cold,51,false,,discontinued
+MAT-00425,Phosphoric Acid,raw_chemical,SUP-0198,kg,4882.12,EUR,448,54,cold,56,false,82207-69-0,pending_approval
+MAT-00426,Ibuprofen,active_ingredient,SUP-0136,sheets,4467.23,USD,152,57,ambient,50,true,89790-20-9,active
+MAT-00427,Omeprazole Magnesium,active_ingredient,SUP-0099,rolls,4439.95,GBP,239,82,cold,29,false,23022-92-8,pending_approval
+MAT-00428,Ibuprofen,active_ingredient,SUP-0062,mL,692.46,JPY,59,86,ambient,53,true,98769-38-5,active
+MAT-00429,Blister PVC/Alu,packaging,SUP-0096,sheets,1386.09,GBP,232,65,controlled,39,true,,active
+MAT-00430,Methanol AR Grade,raw_chemical,SUP-0173,units,2260.17,USD,97,61,cold,11,false,23487-46-1,active
+MAT-00431,Povidone K30,excipient,SUP-0128,units,560.57,EUR,448,29,controlled,46,true,38476-63-8,active
+MAT-00432,Primary Label A4,label,SUP-0075,rolls,2100.94,EUR,33,5,cold,59,false,,active
+MAT-00433,Tween 80,raw_chemical,SUP-0084,rolls,3278.97,INR,304,88,controlled,39,false,60081-48-9,active
+MAT-00434,HDPE Bottle 120cc,packaging,SUP-0124,L,3946.44,GBP,498,39,cold,15,false,,active
+MAT-00435,Carton Print Sheet,label,SUP-0183,L,3093.34,JPY,147,26,cold,59,true,,active
+MAT-00436,Hydroxypropyl Cellulose,excipient,SUP-0148,g,206.24,EUR,226,36,ambient,17,true,73776-14-5,active
+MAT-00437,Hypromellose,excipient,SUP-0137,rolls,2242.42,GBP,63,6,ambient,37,true,60086-50-2,active
+MAT-00438,Isopropyl Alcohol,raw_chemical,SUP-0122,rolls,3236.4,GBP,497,76,controlled,15,false,44442-98-1,pending_approval
+MAT-00439,Shipping Label,label,SUP-0030,kg,697.55,GBP,13,54,controlled,59,true,,active
+MAT-00440,Carton Box Medium,packaging,SUP-0165,g,1632.17,EUR,299,70,cold,56,false,,active
+MAT-00441,Gabapentin,active_ingredient,SUP-0174,g,2692.29,USD,500,68,ambient,18,false,41699-87-9,discontinued
+MAT-00442,Cetirizine HCl,active_ingredient,SUP-0095,rolls,1988.09,INR,191,4,ambient,28,false,40431-67-8,active
+MAT-00443,Iron Oxide Yellow,excipient,SUP-0114,pcs,3707.77,GBP,84,57,controlled,32,true,77012-86-1,active
+MAT-00444,HPMC Capsule Shell,excipient,SUP-0086,units,2373.33,USD,478,78,ambient,11,true,53718-91-4,active
+MAT-00445,Povidone K30,excipient,SUP-0052,pcs,3551.38,EUR,427,51,ambient,41,false,5585-48-9,active
+MAT-00446,Primary Label A4,label,SUP-0040,pcs,1122.99,GBP,154,84,controlled,36,true,,pending_approval
+MAT-00447,Nasal Spray Pump,packaging,SUP-0177,sheets,897.27,EUR,15,18,ambient,37,true,,discontinued
+MAT-00448,Dropper Assembly,packaging,SUP-0067,pcs,2828.09,INR,499,18,ambient,38,true,,active
+MAT-00449,Iron Oxide Red,excipient,SUP-0178,kg,731.11,EUR,183,23,cold,23,false,55036-91-5,active
+MAT-00450,Nasal Spray Pump,packaging,SUP-0020,units,2648.3,JPY,100,83,cold,54,true,,discontinued
+MAT-00451,Starch 1500,excipient,SUP-0070,rolls,4362.28,GBP,50,71,controlled,28,true,1740-27-8,active
+MAT-00452,Nasal Spray Pump,packaging,SUP-0042,pcs,2060.27,USD,112,22,controlled,20,true,,discontinued
+MAT-00453,Benzyl Alcohol,raw_chemical,SUP-0020,g,2087.02,USD,420,19,cold,36,false,40888-98-5,active
+MAT-00454,Leaflet Insert A4,label,SUP-0008,rolls,861.45,USD,114,19,controlled,15,true,,active
+MAT-00455,Magnesium Stearate,excipient,SUP-0109,mL,651.53,USD,40,5,ambient,54,false,5622-35-1,active
+MAT-00456,Benzyl Alcohol,raw_chemical,SUP-0065,kg,2345.68,USD,34,41,controlled,6,true,16275-87-3,discontinued
+MAT-00457,Microcrystalline Cellulose,excipient,SUP-0024,L,3353.17,EUR,434,38,controlled,28,false,21094-74-9,active
+MAT-00458,Potassium Chloride,raw_chemical,SUP-0196,g,495.98,USD,271,30,controlled,18,false,22564-78-0,pending_approval
+MAT-00459,Clopidogrel Bisulfate,active_ingredient,SUP-0094,mL,4602.43,JPY,95,59,controlled,12,true,46557-58-6,active
+MAT-00460,Tween 80,raw_chemical,SUP-0081,mL,2038.19,USD,239,17,controlled,14,false,99962-56-4,discontinued
+MAT-00461,Omeprazole Magnesium,active_ingredient,SUP-0099,g,1640.91,GBP,234,79,controlled,25,false,29655-80-6,active
+MAT-00462,Hologram Sticker,label,SUP-0174,mL,4283.94,GBP,92,4,controlled,37,true,,active
+MAT-00463,Tamper Evident Seal,label,SUP-0103,g,596.53,JPY,53,24,cold,29,true,,active
+MAT-00464,Iron Oxide Yellow,excipient,SUP-0186,sheets,614.25,INR,143,77,controlled,23,false,46724-70-9,active
+MAT-00465,Hologram Sticker,label,SUP-0028,units,737.3,USD,129,65,ambient,20,true,,active
+MAT-00466,Clopidogrel Bisulfate,active_ingredient,SUP-0174,kg,4151.65,USD,498,25,ambient,44,false,20069-48-9,discontinued
+MAT-00467,Sertraline HCl,active_ingredient,SUP-0197,g,3305.57,INR,406,62,cold,24,false,64308-74-4,discontinued
+MAT-00468,Blister Alu-Alu,packaging,SUP-0111,kg,4762.93,USD,197,60,ambient,60,false,,active
+MAT-00469,Shipping Label,label,SUP-0169,kg,164.78,GBP,453,24,ambient,33,true,,active
+MAT-00470,Barcode Label Roll,label,SUP-0173,pcs,3820.17,INR,338,73,controlled,40,false,,active
+MAT-00471,Acetone AR Grade,raw_chemical,SUP-0068,L,2533.67,INR,303,51,controlled,49,false,37331-51-0,active
+MAT-00472,Methanol AR Grade,raw_chemical,SUP-0090,kg,641.43,JPY,14,83,ambient,30,true,56168-54-5,active
+MAT-00473,HDPE Bottle 120cc,packaging,SUP-0061,kg,3306.37,GBP,304,13,controlled,10,false,,active
+MAT-00474,Glass Vial 20ml,packaging,SUP-0010,L,99.05,INR,337,57,controlled,38,false,,active
+MAT-00475,Ibuprofen,active_ingredient,SUP-0097,pcs,2940.15,JPY,200,44,controlled,12,false,13164-98-3,active
+MAT-00476,Leaflet Insert A4,label,SUP-0094,rolls,833.55,INR,104,66,controlled,60,true,,discontinued
+MAT-00477,Starch 1500,excipient,SUP-0147,units,1326.14,INR,412,31,controlled,53,true,94121-84-1,discontinued
+MAT-00478,Child-Resistant Cap,packaging,SUP-0136,units,336.82,INR,219,29,ambient,56,true,,pending_approval
+MAT-00479,Carton Box Small,packaging,SUP-0081,units,2164.84,EUR,213,54,ambient,45,false,,pending_approval
+MAT-00480,Glycerin USP,raw_chemical,SUP-0181,L,4404.54,JPY,442,26,controlled,37,true,86663-69-4,pending_approval
+MAT-00481,Propylene Glycol,raw_chemical,SUP-0161,sheets,4673.21,USD,268,28,ambient,35,true,31556-29-4,active
+MAT-00482,Primary Label A5,label,SUP-0163,rolls,4301.0,EUR,434,55,ambient,58,false,,pending_approval
+MAT-00483,Silicon Dioxide,excipient,SUP-0104,units,3434.43,EUR,59,22,cold,7,true,40753-69-7,discontinued
+MAT-00484,Primary Label A4,label,SUP-0052,sheets,3234.79,EUR,140,20,cold,22,false,,pending_approval
+MAT-00485,Ethanol 96%,raw_chemical,SUP-0185,L,3221.65,INR,401,5,cold,11,false,78902-48-1,active
+MAT-00486,Dropper Assembly,packaging,SUP-0186,g,1984.78,EUR,121,17,controlled,53,true,,discontinued
+MAT-00487,Purified Water USP,raw_chemical,SUP-0061,units,2482.51,JPY,63,43,ambient,59,false,98140-40-6,active
+MAT-00488,Stearic Acid,excipient,SUP-0113,g,876.18,INR,131,78,cold,37,false,91750-24-5,discontinued
+MAT-00489,Leaflet Insert A4,label,SUP-0038,pcs,3413.85,GBP,244,50,ambient,7,true,,pending_approval
+MAT-00490,Aspirin Fine Powder,active_ingredient,SUP-0080,mL,1265.29,GBP,463,90,cold,40,true,58036-59-0,active
+MAT-00491,Dropper Assembly,packaging,SUP-0194,units,451.71,EUR,153,29,cold,34,false,,pending_approval
+MAT-00492,Primary Label A5,label,SUP-0200,kg,1370.55,INR,242,55,ambient,51,false,,active
+MAT-00493,Sodium Lauryl Sulfate,excipient,SUP-0108,units,2531.92,JPY,374,73,controlled,26,false,91172-13-0,pending_approval
+MAT-00494,Povidone K30,excipient,SUP-0001,pcs,3955.2,INR,103,83,ambient,26,true,14576-30-3,discontinued
+MAT-00495,Hydroxypropyl Cellulose,excipient,SUP-0116,sheets,3963.32,INR,448,20,ambient,17,false,36985-35-1,active
+MAT-00496,Pre-filled Syringe 1ml,packaging,SUP-0147,L,1967.77,EUR,11,5,controlled,47,true,,active
+MAT-00497,Carton Print Sheet,label,SUP-0013,mL,1309.28,INR,317,57,controlled,22,true,,active
+MAT-00498,Blister PVC/Alu,packaging,SUP-0004,L,4736.24,JPY,223,61,controlled,37,true,,active
+MAT-00499,Stearic Acid,excipient,SUP-0074,mL,4730.29,INR,196,19,ambient,60,true,78704-37-4,pending_approval
+MAT-00500,Povidone K30,excipient,SUP-0008,sheets,902.26,GBP,500,36,cold,45,false,32597-57-9,pending_approval
+MAT-00501,Carton Print Sheet,label,SUP-0083,g,52.1,INR,352,30,controlled,30,false,,pending_approval
+MAT-00502,Sodium Chloride,raw_chemical,SUP-0016,units,365.74,USD,171,33,ambient,28,true,752-42-8,discontinued
+MAT-00503,Serialization Label,label,SUP-0034,units,4887.63,JPY,22,77,cold,22,true,,discontinued
+MAT-00504,Carton Print Sheet,label,SUP-0023,rolls,4389.54,GBP,364,70,ambient,15,false,,active
+MAT-00505,Ampoule 5ml,packaging,SUP-0072,kg,4892.59,GBP,475,58,ambient,22,false,,discontinued
+MAT-00506,Glass Vial 20ml,packaging,SUP-0189,sheets,4463.41,INR,392,22,controlled,60,false,,active
+MAT-00507,Hypromellose,excipient,SUP-0010,L,273.31,INR,134,23,controlled,35,false,15257-73-0,active
+MAT-00508,Blister PVC/Alu,packaging,SUP-0185,pcs,2289.07,EUR,64,47,cold,19,false,,active
+MAT-00509,Coating Opadry Blue,excipient,SUP-0055,units,2816.46,JPY,498,3,controlled,55,true,54630-19-3,active
+MAT-00510,Omeprazole Magnesium,active_ingredient,SUP-0101,rolls,130.3,GBP,303,16,ambient,15,true,10675-68-7,active
+MAT-00511,Blister Alu-Alu,packaging,SUP-0168,kg,1647.47,JPY,487,60,ambient,52,true,,active
+MAT-00512,Metformin HCl,active_ingredient,SUP-0191,units,1616.19,USD,281,80,ambient,11,false,33494-32-3,active
+MAT-00513,Amlodipine Besylate,active_ingredient,SUP-0100,kg,4261.8,INR,146,85,controlled,15,true,39181-72-6,pending_approval
+MAT-00514,Blister PVC/Alu,packaging,SUP-0095,L,1795.54,JPY,103,65,ambient,30,false,,active
+MAT-00515,Acetone AR Grade,raw_chemical,SUP-0095,sheets,451.57,JPY,96,58,controlled,33,true,5350-75-5,active
+MAT-00516,HPMC Capsule Shell,excipient,SUP-0162,L,4653.37,JPY,43,40,ambient,33,true,62651-48-2,active
+MAT-00517,Glass Vial 10ml,packaging,SUP-0146,mL,2615.7,USD,283,12,cold,38,true,,discontinued
+MAT-00518,Barcode Label Roll,label,SUP-0065,sheets,472.87,GBP,131,77,cold,55,true,,active
+MAT-00519,Tamper Evident Seal,label,SUP-0012,L,3930.99,USD,214,41,ambient,43,false,,pending_approval
+MAT-00520,Carton Print Sheet,label,SUP-0055,units,1707.0,EUR,41,80,ambient,49,true,,active
+MAT-00521,Purified Water USP,raw_chemical,SUP-0004,kg,29.73,EUR,336,64,ambient,50,false,86258-87-7,active
+MAT-00522,Propylene Glycol,raw_chemical,SUP-0173,rolls,3453.47,INR,412,41,cold,14,true,1868-34-1,active
+MAT-00523,Povidone K30,excipient,SUP-0167,kg,1046.54,EUR,224,83,controlled,18,true,39491-69-2,active
+MAT-00524,Carton Print Sheet,label,SUP-0190,kg,582.74,INR,494,65,ambient,7,false,,discontinued
+MAT-00525,Titanium Dioxide,excipient,SUP-0014,mL,1474.51,GBP,5,16,controlled,60,false,54534-73-9,discontinued
+MAT-00526,Acetone AR Grade,raw_chemical,SUP-0125,units,185.57,JPY,303,81,controlled,58,false,30446-17-8,active
+MAT-00527,Leaflet Insert A4,label,SUP-0166,rolls,2766.5,INR,456,63,cold,37,false,,active
+MAT-00528,Leaflet Insert A5,label,SUP-0121,kg,807.09,GBP,225,32,controlled,20,false,,discontinued
+MAT-00529,Tamper Evident Seal,label,SUP-0107,L,4415.93,GBP,408,63,cold,45,true,,active
+MAT-00530,Losartan Potassium,active_ingredient,SUP-0041,pcs,645.92,JPY,252,15,ambient,37,false,30815-36-8,active
+MAT-00531,Paracetamol DC,active_ingredient,SUP-0174,rolls,4404.59,EUR,90,67,cold,57,true,44317-65-1,discontinued
+MAT-00532,Gelatin Capsule Shell,excipient,SUP-0067,g,2810.13,GBP,402,48,cold,55,false,19865-98-8,discontinued
+MAT-00533,Gabapentin,active_ingredient,SUP-0118,kg,4633.2,USD,500,16,controlled,45,true,73774-15-8,active
+MAT-00534,Sodium Lauryl Sulfate,excipient,SUP-0041,g,4354.41,GBP,363,59,controlled,37,true,20273-92-5,active
+MAT-00535,Iron Oxide Red,excipient,SUP-0107,g,4243.05,USD,126,63,ambient,24,true,11221-44-5,pending_approval
+MAT-00536,Leaflet Insert A5,label,SUP-0039,rolls,3147.39,JPY,216,32,cold,57,false,,active
+MAT-00537,Shipping Label,label,SUP-0175,pcs,4759.23,GBP,484,6,ambient,15,true,,pending_approval
+MAT-00538,Methanol AR Grade,raw_chemical,SUP-0103,g,424.35,EUR,223,10,ambient,54,true,86580-92-2,discontinued
+MAT-00539,Escitalopram Oxalate,active_ingredient,SUP-0078,units,2096.82,GBP,466,47,cold,58,false,69228-88-2,pending_approval
+MAT-00540,Shipping Label,label,SUP-0160,pcs,3219.57,JPY,334,59,controlled,28,false,,active
+MAT-00541,Glass Vial 20ml,packaging,SUP-0100,g,185.33,EUR,267,72,ambient,19,true,,discontinued
+MAT-00542,Tween 80,raw_chemical,SUP-0163,units,2606.92,EUR,12,6,controlled,43,false,31682-48-6,discontinued
+MAT-00543,Ciprofloxacin HCl,active_ingredient,SUP-0161,kg,4208.0,JPY,182,18,cold,54,true,58866-48-9,pending_approval
+MAT-00544,Simvastatin,active_ingredient,SUP-0191,pcs,1695.23,JPY,290,83,controlled,40,true,45969-48-4,pending_approval
+MAT-00545,Sodium Chloride,raw_chemical,SUP-0189,L,3571.9,EUR,54,44,controlled,43,true,47402-68-1,active
+MAT-00546,Primary Label A4,label,SUP-0109,sheets,410.19,EUR,244,30,ambient,10,false,,pending_approval
+MAT-00547,Sodium Chloride,raw_chemical,SUP-0200,sheets,2941.4,INR,447,36,controlled,37,false,57732-98-7,pending_approval
+MAT-00548,Carton Print Sheet,label,SUP-0125,L,722.16,INR,67,68,controlled,13,true,,active
+MAT-00549,Shipping Label,label,SUP-0095,kg,3732.61,USD,309,55,cold,13,false,,discontinued
+MAT-00550,Blister PVC/Alu,packaging,SUP-0096,kg,2614.13,GBP,192,41,ambient,37,true,,active
+MAT-00551,Starch 1500,excipient,SUP-0073,sheets,243.73,EUR,94,65,cold,13,false,8905-15-6,active
+MAT-00552,Benzyl Alcohol,raw_chemical,SUP-0087,units,2829.04,INR,244,80,cold,54,true,66210-91-7,active
+MAT-00553,Serialization Label,label,SUP-0023,L,4331.79,JPY,341,82,ambient,30,true,,active
+MAT-00554,Nasal Spray Pump,packaging,SUP-0114,kg,4790.42,GBP,331,14,cold,51,true,,discontinued
+MAT-00555,Blister PVC/Alu,packaging,SUP-0050,g,3219.75,JPY,278,76,cold,42,true,,active
+MAT-00556,Benzyl Alcohol,raw_chemical,SUP-0137,kg,601.86,EUR,493,5,ambient,56,true,32200-84-7,active
+MAT-00557,Ethanol 96%,raw_chemical,SUP-0126,rolls,2009.29,USD,175,58,cold,32,true,69243-50-6,active
+MAT-00558,Escitalopram Oxalate,active_ingredient,SUP-0044,g,4898.94,GBP,74,26,ambient,55,true,20264-49-6,pending_approval
+MAT-00559,Hydroxypropyl Cellulose,excipient,SUP-0047,kg,3072.57,USD,366,10,ambient,30,true,41998-28-6,active
+MAT-00560,Nasal Spray Pump,packaging,SUP-0031,sheets,4707.92,USD,104,33,controlled,43,true,,active
+MAT-00561,Isopropyl Alcohol,raw_chemical,SUP-0016,sheets,4746.81,GBP,238,73,ambient,10,false,3838-62-3,active
+MAT-00562,Carton Box Small,packaging,SUP-0167,g,1231.96,EUR,156,75,ambient,34,true,,pending_approval
+MAT-00563,Hydrochloric Acid,raw_chemical,SUP-0096,mL,3914.52,JPY,87,34,controlled,33,false,5527-10-7,discontinued
+MAT-00564,Nasal Spray Pump,packaging,SUP-0124,L,3.21,GBP,307,35,controlled,30,false,,pending_approval
+MAT-00565,Coating Opadry White,excipient,SUP-0145,units,227.9,USD,154,14,ambient,50,true,18354-81-4,active
+MAT-00566,Hydroxypropyl Cellulose,excipient,SUP-0163,rolls,4419.72,GBP,386,60,ambient,21,false,44828-36-7,discontinued
+MAT-00567,HDPE Bottle 60cc,packaging,SUP-0166,kg,4570.13,USD,312,63,cold,6,true,,active
+MAT-00568,Sodium Chloride,raw_chemical,SUP-0021,pcs,3812.44,USD,276,6,controlled,34,true,46317-58-9,active
+MAT-00569,Primary Label A4,label,SUP-0032,L,4195.81,INR,190,27,ambient,6,true,,pending_approval
+MAT-00570,Paracetamol DC,active_ingredient,SUP-0050,units,3402.93,USD,418,81,controlled,25,true,30754-73-5,active
+MAT-00571,Shrink Wrap Film,packaging,SUP-0156,pcs,4522.59,EUR,4,28,controlled,31,true,,active
+MAT-00572,Sodium Hydroxide,raw_chemical,SUP-0169,pcs,852.8,JPY,345,90,controlled,42,true,8616-85-2,pending_approval
+MAT-00573,Fluoxetine HCl,active_ingredient,SUP-0059,L,1298.49,JPY,374,38,cold,60,true,90881-96-8,discontinued
+MAT-00574,Pre-filled Syringe 1ml,packaging,SUP-0165,pcs,10.27,USD,438,44,ambient,60,false,,active
+MAT-00575,Sertraline HCl,active_ingredient,SUP-0195,pcs,2478.13,USD,453,31,cold,23,false,69834-67-5,active
+MAT-00576,Barcode Label Roll,label,SUP-0007,mL,1673.86,EUR,354,57,cold,21,true,,active
+MAT-00577,Carton Box Large,packaging,SUP-0025,units,314.69,USD,246,58,cold,43,false,,active
+MAT-00578,Hydroxypropyl Cellulose,excipient,SUP-0014,g,2368.15,GBP,267,33,cold,55,false,12589-90-7,discontinued
+MAT-00579,Metformin HCl,active_ingredient,SUP-0097,g,4872.64,GBP,456,11,cold,9,false,7231-48-9,pending_approval
+MAT-00580,Primary Label A4,label,SUP-0144,g,509.59,USD,151,51,ambient,12,false,,active
+MAT-00581,Phosphoric Acid,raw_chemical,SUP-0110,kg,2267.33,JPY,318,15,ambient,47,true,59566-76-5,discontinued
+MAT-00582,PEG 6000,excipient,SUP-0183,g,513.9,USD,304,27,controlled,14,false,46631-63-7,pending_approval
+MAT-00583,Hydrochloric Acid,raw_chemical,SUP-0012,pcs,930.02,USD,66,42,controlled,33,false,40838-84-8,active
+MAT-00584,Hydroxypropyl Cellulose,excipient,SUP-0075,pcs,1543.72,GBP,497,4,controlled,43,true,7562-40-8,discontinued
+MAT-00585,Losartan Potassium,active_ingredient,SUP-0164,sheets,1719.41,EUR,403,11,ambient,18,false,91116-98-7,discontinued
+MAT-00586,Pre-filled Syringe 1ml,packaging,SUP-0085,rolls,3080.71,EUR,54,61,cold,37,true,,active
+MAT-00587,Talc Powder,excipient,SUP-0062,mL,2332.95,INR,377,45,controlled,30,true,52519-33-0,active
+MAT-00588,Escitalopram Oxalate,active_ingredient,SUP-0030,g,1789.75,EUR,149,59,cold,46,false,5804-13-3,active
+MAT-00589,Glass Vial 10ml,packaging,SUP-0185,L,1095.12,EUR,174,73,cold,17,true,,active
+MAT-00590,Microcrystalline Cellulose,excipient,SUP-0174,units,4553.29,EUR,195,86,cold,27,true,40036-68-3,active
+MAT-00591,Child-Resistant Cap,packaging,SUP-0160,L,4705.84,INR,450,11,cold,15,true,,active
+MAT-00592,Hydroxypropyl Cellulose,excipient,SUP-0154,sheets,3471.92,INR,326,34,cold,54,true,70234-47-2,active
+MAT-00593,Stearic Acid,excipient,SUP-0033,kg,3147.48,JPY,496,77,ambient,19,true,61741-94-9,active
+MAT-00594,HPMC Capsule Shell,excipient,SUP-0096,sheets,3756.66,INR,266,62,cold,26,false,68925-98-7,pending_approval
+MAT-00595,Tamper Evident Seal,label,SUP-0164,pcs,1342.04,JPY,333,7,cold,20,true,,active
+MAT-00596,Iron Oxide Yellow,excipient,SUP-0097,sheets,1093.36,JPY,81,50,ambient,41,true,17656-20-4,active
+MAT-00597,Ethanol 96%,raw_chemical,SUP-0120,rolls,1151.27,JPY,319,46,ambient,34,false,56739-62-5,active
+MAT-00598,HDPE Bottle 60cc,packaging,SUP-0114,units,1912.16,EUR,136,85,cold,28,true,,active
+MAT-00599,Benzyl Alcohol,raw_chemical,SUP-0059,g,3929.47,USD,61,12,ambient,8,true,43796-35-5,active
+MAT-00600,Carton Box Medium,packaging,SUP-0036,units,953.62,JPY,468,36,cold,55,false,,active
+MAT-00601,Dropper Assembly,packaging,SUP-0149,sheets,4729.1,USD,242,86,controlled,54,true,,active
+MAT-00602,Talc Powder,excipient,SUP-0122,mL,3616.82,EUR,265,78,controlled,54,false,94750-69-5,active
+MAT-00603,Shrink Wrap Film,packaging,SUP-0107,mL,2144.25,EUR,225,60,controlled,7,false,,active
+MAT-00604,Propylene Glycol,raw_chemical,SUP-0003,L,1528.21,INR,415,87,ambient,27,true,54988-64-6,pending_approval
+MAT-00605,Ethanol 96%,raw_chemical,SUP-0146,units,1630.73,USD,473,20,cold,27,false,50030-36-6,active
+MAT-00606,Purified Water USP,raw_chemical,SUP-0085,sheets,942.1,JPY,493,60,controlled,25,true,22518-23-8,active
+MAT-00607,Losartan Potassium,active_ingredient,SUP-0018,pcs,134.68,INR,146,29,cold,24,true,59643-17-5,discontinued
+MAT-00608,Cetirizine HCl,active_ingredient,SUP-0101,L,1634.2,EUR,57,19,controlled,32,false,97455-18-6,active
+MAT-00609,Gelatin Capsule Shell,excipient,SUP-0041,mL,1549.13,JPY,295,42,controlled,18,false,36152-35-0,active
+MAT-00610,Barcode Label Roll,label,SUP-0064,g,4123.0,JPY,169,75,ambient,35,false,,discontinued
+MAT-00611,Gabapentin,active_ingredient,SUP-0089,g,1439.91,GBP,201,81,cold,32,true,23587-89-6,active
+MAT-00612,Primary Label A5,label,SUP-0101,L,3492.76,USD,123,23,ambient,46,false,,pending_approval
+MAT-00613,Cetirizine HCl,active_ingredient,SUP-0196,mL,4543.73,JPY,63,50,cold,54,true,66162-51-6,active
+MAT-00614,Lactose Monohydrate,excipient,SUP-0119,units,1037.26,USD,38,84,controlled,49,false,50008-53-6,active
+MAT-00615,Primary Label A5,label,SUP-0182,kg,54.18,EUR,168,88,controlled,35,false,,active
+MAT-00616,Simvastatin,active_ingredient,SUP-0183,g,2742.37,INR,72,63,ambient,59,true,22409-12-9,active
+MAT-00617,Titanium Dioxide,excipient,SUP-0044,units,621.19,USD,344,4,controlled,23,true,57807-55-2,active
+MAT-00618,Metformin HCl,active_ingredient,SUP-0163,mL,2210.57,JPY,329,87,controlled,48,true,51249-98-4,active
+MAT-00619,Aspirin Fine Powder,active_ingredient,SUP-0197,kg,243.8,EUR,476,34,ambient,21,true,12028-12-6,active
+MAT-00620,Atorvastatin Calcium,active_ingredient,SUP-0057,rolls,4102.72,USD,409,88,cold,52,true,5818-63-8,active
+MAT-00621,HDPE Bottle 120cc,packaging,SUP-0160,rolls,2810.49,EUR,479,72,ambient,33,true,,active
+MAT-00622,Hypromellose,excipient,SUP-0004,g,1783.2,INR,335,43,cold,30,true,60182-38-1,pending_approval
+MAT-00623,Nasal Spray Pump,packaging,SUP-0056,rolls,220.17,INR,155,79,ambient,12,true,,active
+MAT-00624,Aspirin Fine Powder,active_ingredient,SUP-0174,rolls,4907.09,EUR,171,25,controlled,54,false,87392-71-1,active
+MAT-00625,Simvastatin,active_ingredient,SUP-0129,pcs,1912.17,JPY,361,4,cold,7,true,40531-40-6,active
+MAT-00626,Methanol AR Grade,raw_chemical,SUP-0128,g,300.09,GBP,104,22,ambient,19,true,31253-86-7,pending_approval
+MAT-00627,Carton Box Large,packaging,SUP-0195,L,1390.99,USD,267,56,controlled,58,false,,active
+MAT-00628,Talc Powder,excipient,SUP-0139,rolls,1713.97,USD,465,88,cold,57,true,79750-58-8,active
+MAT-00629,Magnesium Stearate,excipient,SUP-0126,pcs,3149.1,USD,489,27,cold,46,true,26817-26-1,active
+MAT-00630,Purified Water USP,raw_chemical,SUP-0110,mL,1181.93,INR,160,24,controlled,18,true,55626-32-9,active
+MAT-00631,Carton Box Large,packaging,SUP-0052,units,2882.32,GBP,442,64,cold,29,false,,active
+MAT-00632,HPMC Capsule Shell,excipient,SUP-0157,pcs,2207.16,INR,390,22,ambient,7,false,56069-20-4,discontinued
+MAT-00633,Hydrochloric Acid,raw_chemical,SUP-0066,L,2764.48,INR,238,42,ambient,24,false,73731-87-7,active
+MAT-00634,HDPE Bottle 120cc,packaging,SUP-0040,L,3574.46,EUR,3,4,controlled,52,false,,active
+MAT-00635,Serialization Label,label,SUP-0099,sheets,4701.45,INR,158,85,controlled,10,false,,active
+MAT-00636,Amlodipine Besylate,active_ingredient,SUP-0050,sheets,4660.68,INR,491,35,controlled,28,false,83278-98-5,pending_approval
+MAT-00637,Simvastatin,active_ingredient,SUP-0063,sheets,4632.63,INR,18,49,controlled,51,true,91468-95-2,active
+MAT-00638,Hydrochloric Acid,raw_chemical,SUP-0066,pcs,4721.35,EUR,309,77,controlled,59,true,1667-24-1,pending_approval
+MAT-00639,Primary Label A5,label,SUP-0133,sheets,3530.5,EUR,449,57,cold,59,false,,active
+MAT-00640,Shrink Wrap Film,packaging,SUP-0106,sheets,2930.61,USD,56,84,controlled,55,false,,active
+MAT-00641,Pre-filled Syringe 1ml,packaging,SUP-0179,mL,4650.12,GBP,4,24,ambient,6,true,,active
+MAT-00642,Tamper Evident Seal,label,SUP-0044,sheets,3272.78,EUR,192,26,controlled,14,true,,active
+MAT-00643,Talc Powder,excipient,SUP-0048,g,2253.58,EUR,31,26,cold,22,false,57817-90-9,active
+MAT-00644,Titanium Dioxide,excipient,SUP-0032,g,1465.98,GBP,33,46,cold,43,true,62688-72-1,active
+MAT-00645,Amoxicillin Trihydrate,active_ingredient,SUP-0171,units,3759.12,JPY,405,8,cold,19,true,49289-87-8,active
+MAT-00646,Barcode Label Roll,label,SUP-0110,pcs,3784.68,GBP,190,90,ambient,26,true,,active
+MAT-00647,Serialization Label,label,SUP-0085,sheets,3054.24,USD,2,61,controlled,31,true,,active
+MAT-00648,Isopropyl Alcohol,raw_chemical,SUP-0180,g,4345.09,EUR,189,60,controlled,49,false,67540-62-3,active
+MAT-00649,Dropper Assembly,packaging,SUP-0012,kg,3169.07,GBP,348,59,cold,44,false,,active
+MAT-00650,Benzyl Alcohol,raw_chemical,SUP-0122,g,1742.0,USD,376,52,ambient,44,true,93365-28-8,discontinued
+MAT-00651,Tween 80,raw_chemical,SUP-0023,kg,639.74,GBP,427,89,controlled,35,true,58545-24-7,pending_approval
+MAT-00652,Hydrochloric Acid,raw_chemical,SUP-0193,mL,1217.16,USD,55,58,controlled,7,true,42845-59-4,active
+MAT-00653,Carton Box Large,packaging,SUP-0032,pcs,4757.54,EUR,473,71,controlled,52,false,,active
+MAT-00654,Child-Resistant Cap,packaging,SUP-0154,mL,4658.93,USD,330,46,ambient,51,false,,pending_approval
+MAT-00655,Sodium Hydroxide,raw_chemical,SUP-0067,sheets,4042.33,USD,149,14,cold,11,false,97119-85-3,pending_approval
+MAT-00656,Ibuprofen,active_ingredient,SUP-0098,rolls,637.52,JPY,378,3,ambient,9,true,50925-64-5,active
+MAT-00657,Microcrystalline Cellulose,excipient,SUP-0138,mL,533.38,INR,162,21,ambient,59,true,65564-97-7,active
+MAT-00658,Glycerin USP,raw_chemical,SUP-0180,units,729.78,USD,307,43,ambient,38,true,35891-83-7,pending_approval
+MAT-00659,Titanium Dioxide,excipient,SUP-0016,pcs,1457.83,GBP,79,29,controlled,57,true,91853-16-2,active
+MAT-00660,Carton Print Sheet,label,SUP-0006,units,4921.96,JPY,201,46,ambient,49,false,,active
+MAT-00661,Leaflet Insert A4,label,SUP-0073,sheets,359.58,EUR,359,73,ambient,12,true,,active
+MAT-00662,Propylene Glycol,raw_chemical,SUP-0078,kg,4249.12,INR,336,23,controlled,14,false,91270-71-4,active
+MAT-00663,Talc Powder,excipient,SUP-0189,mL,4021.89,USD,186,76,cold,49,true,49405-64-2,active
+MAT-00664,Amlodipine Besylate,active_ingredient,SUP-0014,rolls,4870.81,USD,264,86,ambient,43,false,19523-90-6,active
+MAT-00665,Clopidogrel Bisulfate,active_ingredient,SUP-0078,g,1204.66,JPY,489,25,controlled,53,false,90724-95-1,active
+MAT-00666,Hologram Sticker,label,SUP-0095,units,3161.85,USD,62,17,cold,13,false,,pending_approval
+MAT-00667,Potassium Chloride,raw_chemical,SUP-0147,mL,115.62,INR,141,15,controlled,17,false,63513-92-6,active
+MAT-00668,Purified Water USP,raw_chemical,SUP-0183,L,497.66,JPY,95,54,controlled,7,false,72933-78-8,active
+MAT-00669,Losartan Potassium,active_ingredient,SUP-0169,g,3767.66,USD,93,79,controlled,17,true,72758-67-5,active
+MAT-00670,Amlodipine Besylate,active_ingredient,SUP-0023,L,2875.62,JPY,132,7,cold,13,false,47702-79-2,active
+MAT-00671,Sertraline HCl,active_ingredient,SUP-0076,mL,1503.35,JPY,228,20,controlled,37,false,68556-55-9,discontinued
+MAT-00672,Glycerin USP,raw_chemical,SUP-0012,mL,3439.81,EUR,19,27,cold,25,true,17640-87-8,active
+MAT-00673,Propylene Glycol,raw_chemical,SUP-0160,rolls,1387.34,INR,39,73,ambient,22,false,85216-30-6,active
+MAT-00674,Lisinopril Dihydrate,active_ingredient,SUP-0138,units,3382.79,EUR,37,83,controlled,23,true,93693-57-9,pending_approval
+MAT-00675,Hydrochloric Acid,raw_chemical,SUP-0081,L,2098.72,INR,195,6,controlled,21,true,35455-25-8,active
+MAT-00676,Glycerin USP,raw_chemical,SUP-0023,sheets,330.26,GBP,466,45,ambient,15,true,35917-11-1,active
+MAT-00677,Croscarmellose Sodium,excipient,SUP-0045,sheets,4758.94,JPY,373,42,controlled,58,false,12572-77-5,pending_approval
+MAT-00678,Potassium Chloride,raw_chemical,SUP-0026,units,2757.94,USD,88,43,ambient,17,false,97213-96-8,discontinued
+MAT-00679,Hydrochloric Acid,raw_chemical,SUP-0067,sheets,2384.57,USD,352,68,controlled,15,true,18750-58-9,pending_approval
+MAT-00680,Carton Box Large,packaging,SUP-0095,kg,4592.25,EUR,348,80,ambient,51,false,,active
+MAT-00681,Shipping Label,label,SUP-0074,rolls,3992.45,GBP,488,57,controlled,51,true,,active
+MAT-00682,Ibuprofen,active_ingredient,SUP-0024,units,2032.87,USD,40,33,cold,16,true,11136-46-8,active
+MAT-00683,Lisinopril Dihydrate,active_ingredient,SUP-0123,sheets,3385.33,INR,264,90,controlled,40,true,53195-11-9,active
+MAT-00684,Paracetamol DC,active_ingredient,SUP-0063,sheets,3513.11,JPY,351,80,cold,44,false,22139-96-8,active
+MAT-00685,Povidone K30,excipient,SUP-0132,g,1835.57,GBP,488,9,ambient,37,false,22395-57-1,active
+MAT-00686,Gelatin Capsule Shell,excipient,SUP-0076,g,1450.68,GBP,110,3,controlled,46,false,28553-49-8,active
+MAT-00687,Primary Label A4,label,SUP-0158,pcs,287.95,INR,169,41,ambient,12,true,,active
+MAT-00688,Croscarmellose Sodium,excipient,SUP-0111,sheets,1772.98,INR,102,13,controlled,38,true,53883-25-7,active
+MAT-00689,Titanium Dioxide,excipient,SUP-0096,units,1130.86,GBP,187,57,cold,40,false,14296-66-7,active
+MAT-00690,Microcrystalline Cellulose,excipient,SUP-0092,rolls,3735.58,EUR,57,27,ambient,8,true,51763-63-5,active
+MAT-00691,Stearic Acid,excipient,SUP-0031,mL,4741.91,INR,251,73,ambient,57,true,42633-61-8,pending_approval
+MAT-00692,Primary Label A5,label,SUP-0006,L,549.11,EUR,80,47,controlled,6,true,,active
+MAT-00693,Shrink Wrap Film,packaging,SUP-0003,sheets,4882.2,INR,246,40,ambient,37,true,,active
+MAT-00694,Hypromellose,excipient,SUP-0064,L,3646.38,GBP,393,17,ambient,50,true,87387-64-3,active
+MAT-00695,Fluoxetine HCl,active_ingredient,SUP-0162,L,943.75,EUR,118,18,cold,31,true,35945-34-2,active
+MAT-00696,Metformin HCl,active_ingredient,SUP-0098,mL,455.13,INR,269,42,controlled,46,true,29118-53-6,active
+MAT-00697,Azithromycin Dihydrate,active_ingredient,SUP-0029,sheets,3219.54,GBP,187,38,ambient,51,false,32420-50-0,active
+MAT-00698,Ibuprofen,active_ingredient,SUP-0055,kg,261.13,GBP,242,38,controlled,12,false,24277-42-7,active
+MAT-00699,Carton Box Large,packaging,SUP-0004,units,558.09,JPY,395,19,ambient,29,false,,pending_approval
+MAT-00700,Isopropyl Alcohol,raw_chemical,SUP-0054,rolls,1191.64,JPY,197,14,cold,14,true,5429-85-3,active
+MAT-00701,Shipping Label,label,SUP-0159,g,374.86,GBP,155,63,cold,40,true,,active
+MAT-00702,Stearic Acid,excipient,SUP-0195,mL,2091.35,JPY,500,47,ambient,34,true,57213-18-7,active
+MAT-00703,Isopropyl Alcohol,raw_chemical,SUP-0179,kg,835.09,EUR,149,8,controlled,9,true,97137-60-7,pending_approval
+MAT-00704,Tween 80,raw_chemical,SUP-0131,g,828.01,INR,288,52,ambient,44,false,27172-33-0,active
+MAT-00705,Ethanol 96%,raw_chemical,SUP-0132,mL,2960.77,INR,258,70,ambient,25,true,38894-44-8,active
+MAT-00706,Silicon Dioxide,excipient,SUP-0075,mL,228.54,USD,328,21,ambient,14,false,6802-92-3,active
+MAT-00707,Methanol AR Grade,raw_chemical,SUP-0162,g,7.5,JPY,498,50,ambient,11,false,94694-27-6,discontinued
+MAT-00708,Carton Box Large,packaging,SUP-0003,rolls,4926.31,GBP,113,38,cold,22,true,,discontinued
+MAT-00709,Propylene Glycol,raw_chemical,SUP-0098,g,3613.15,GBP,446,83,controlled,44,true,58008-38-5,active
+MAT-00710,Silicon Dioxide,excipient,SUP-0187,sheets,778.63,INR,189,21,ambient,11,false,23841-68-2,active
+MAT-00711,Hypromellose,excipient,SUP-0166,pcs,4716.8,GBP,11,42,cold,17,false,90144-87-3,active
+MAT-00712,Iron Oxide Red,excipient,SUP-0166,g,2132.26,INR,52,70,cold,52,true,79124-22-6,active
+MAT-00713,Metformin HCl,active_ingredient,SUP-0034,g,4132.9,EUR,395,13,ambient,15,true,1281-23-8,pending_approval
+MAT-00714,Ampoule 5ml,packaging,SUP-0195,g,1012.01,JPY,457,59,cold,25,false,,active
+MAT-00715,Stearic Acid,excipient,SUP-0161,mL,279.85,JPY,64,5,cold,12,false,13493-75-6,active
+MAT-00716,Cetirizine HCl,active_ingredient,SUP-0099,mL,120.49,EUR,181,86,ambient,20,false,90065-24-7,active
+MAT-00717,Azithromycin Dihydrate,active_ingredient,SUP-0092,mL,509.13,USD,316,45,cold,29,true,5731-87-2,active
+MAT-00718,Tamper Evident Seal,label,SUP-0039,rolls,2998.26,GBP,320,39,ambient,12,false,,active
+MAT-00719,Shrink Wrap Film,packaging,SUP-0020,units,4053.69,USD,442,22,controlled,15,false,,active
+MAT-00720,Hologram Sticker,label,SUP-0018,pcs,3606.86,USD,296,57,controlled,23,true,,active
+MAT-00721,Pre-filled Syringe 1ml,packaging,SUP-0091,L,909.77,GBP,254,57,ambient,50,false,,discontinued
+MAT-00722,Carton Box Large,packaging,SUP-0063,L,4010.8,INR,215,73,ambient,40,false,,discontinued
+MAT-00723,Potassium Chloride,raw_chemical,SUP-0184,mL,1923.44,INR,270,76,controlled,57,true,92205-21-3,active
+MAT-00724,Amoxicillin Trihydrate,active_ingredient,SUP-0093,mL,4969.53,JPY,243,20,cold,9,false,47348-27-4,active
+MAT-00725,Silicon Dioxide,excipient,SUP-0015,sheets,1212.87,EUR,61,21,ambient,52,true,91292-64-5,active
+MAT-00726,Duloxetine HCl,active_ingredient,SUP-0041,g,2384.39,USD,76,49,cold,11,true,10151-11-9,active
+MAT-00727,Povidone K30,excipient,SUP-0192,L,2349.09,JPY,358,41,ambient,32,false,58242-92-0,active
+MAT-00728,Metformin HCl,active_ingredient,SUP-0155,L,300.47,EUR,258,23,cold,31,false,89166-68-8,pending_approval
+MAT-00729,Pre-filled Syringe 1ml,packaging,SUP-0041,units,3546.91,GBP,499,14,controlled,30,true,,pending_approval
+MAT-00730,Silicon Dioxide,excipient,SUP-0101,sheets,3095.41,EUR,422,74,controlled,59,true,90807-69-7,active
+MAT-00731,Serialization Label,label,SUP-0166,sheets,824.54,INR,100,37,cold,12,true,,active
+MAT-00732,Isopropyl Alcohol,raw_chemical,SUP-0042,rolls,140.73,JPY,55,11,cold,44,true,99208-49-3,discontinued
+MAT-00733,Magnesium Stearate,excipient,SUP-0146,kg,1202.06,JPY,23,75,ambient,8,true,41282-21-4,active
+MAT-00734,Carton Box Small,packaging,SUP-0050,units,4793.72,GBP,385,53,controlled,28,true,,pending_approval
+MAT-00735,Sertraline HCl,active_ingredient,SUP-0026,rolls,2036.73,JPY,414,22,cold,43,false,62565-85-0,active
+MAT-00736,Magnesium Stearate,excipient,SUP-0161,L,3412.03,USD,488,32,cold,57,true,94232-30-8,discontinued
+MAT-00737,Hydrochloric Acid,raw_chemical,SUP-0087,rolls,2237.68,GBP,185,82,ambient,8,false,31390-36-9,discontinued
+MAT-00738,Clopidogrel Bisulfate,active_ingredient,SUP-0025,L,2834.72,USD,74,42,controlled,57,true,65443-22-7,active
+MAT-00739,Stearic Acid,excipient,SUP-0148,units,807.78,GBP,181,14,cold,17,false,33859-70-4,active
+MAT-00740,Gelatin Capsule Shell,excipient,SUP-0011,g,4858.42,GBP,440,39,ambient,32,true,57830-56-8,discontinued
+MAT-00741,Pre-filled Syringe 1ml,packaging,SUP-0130,rolls,417.91,INR,135,90,cold,45,true,,pending_approval
+MAT-00742,Croscarmellose Sodium,excipient,SUP-0075,kg,773.23,INR,82,75,ambient,60,true,29285-59-7,pending_approval
+MAT-00743,Escitalopram Oxalate,active_ingredient,SUP-0120,rolls,2329.66,USD,44,26,controlled,12,false,56819-35-6,active
+MAT-00744,Duloxetine HCl,active_ingredient,SUP-0125,rolls,1712.45,EUR,360,63,cold,23,false,5067-79-2,active
+MAT-00745,Lactose Monohydrate,excipient,SUP-0154,mL,1601.27,INR,32,49,ambient,36,true,7138-37-0,pending_approval
+MAT-00746,Carton Print Sheet,label,SUP-0022,units,1260.73,EUR,36,38,ambient,11,false,,pending_approval
+MAT-00747,Leaflet Insert A4,label,SUP-0048,sheets,2624.13,USD,48,57,ambient,54,false,,active
+MAT-00748,Gelatin Capsule Shell,excipient,SUP-0122,rolls,4709.74,JPY,353,23,controlled,33,false,90869-83-6,active
+MAT-00749,Glycerin USP,raw_chemical,SUP-0149,mL,389.5,JPY,75,44,controlled,58,false,1909-29-7,active
+MAT-00750,Tamper Evident Seal,label,SUP-0068,rolls,568.48,JPY,370,3,ambient,59,true,,pending_approval
+MAT-00751,Leaflet Insert A5,label,SUP-0108,g,182.91,JPY,397,24,controlled,30,true,,active
+MAT-00752,Coating Opadry Blue,excipient,SUP-0004,mL,4858.74,GBP,417,49,cold,25,false,65859-25-7,pending_approval
+MAT-00753,Serialization Label,label,SUP-0139,sheets,2052.23,INR,268,45,cold,17,false,,active
+MAT-00754,HDPE Bottle 60cc,packaging,SUP-0139,L,2763.99,INR,196,39,controlled,50,false,,pending_approval
+MAT-00755,Child-Resistant Cap,packaging,SUP-0027,g,4976.82,USD,333,5,controlled,32,true,,active
+MAT-00756,Sodium Chloride,raw_chemical,SUP-0149,g,3167.81,USD,342,40,ambient,19,true,59639-80-6,active
+MAT-00757,Sodium Lauryl Sulfate,excipient,SUP-0119,pcs,4752.78,INR,465,85,controlled,56,false,1046-57-3,discontinued
+MAT-00758,Glass Vial 10ml,packaging,SUP-0079,units,4398.1,INR,345,33,cold,32,true,,active
+MAT-00759,Sertraline HCl,active_ingredient,SUP-0190,L,3952.66,JPY,163,45,cold,42,false,31747-81-6,active
+MAT-00760,Tween 80,raw_chemical,SUP-0148,sheets,4142.84,INR,66,84,ambient,52,true,52887-50-8,active
+MAT-00761,Carton Print Sheet,label,SUP-0130,mL,498.34,USD,324,76,ambient,59,false,,discontinued
+MAT-00762,Magnesium Stearate,excipient,SUP-0007,rolls,1019.21,INR,6,83,controlled,15,true,81065-79-1,discontinued
+MAT-00763,Carton Print Sheet,label,SUP-0117,kg,3711.83,GBP,96,33,controlled,20,false,,active
+MAT-00764,Tween 80,raw_chemical,SUP-0097,mL,3631.7,GBP,338,9,ambient,11,true,82289-12-9,active
+MAT-00765,Omeprazole Magnesium,active_ingredient,SUP-0028,pcs,4636.03,EUR,145,36,cold,11,true,64831-56-3,active
+MAT-00766,Cetirizine HCl,active_ingredient,SUP-0019,pcs,3977.31,INR,492,83,cold,19,false,49235-50-7,active
+MAT-00767,Hypromellose,excipient,SUP-0169,units,51.2,JPY,324,80,cold,13,false,45503-71-9,discontinued
+MAT-00768,Propylene Glycol,raw_chemical,SUP-0066,kg,792.36,USD,99,80,cold,40,true,67944-75-2,active
+MAT-00769,Blister Alu-Alu,packaging,SUP-0084,g,4492.91,EUR,113,13,controlled,50,true,,active
+MAT-00770,Blister PVC/Alu,packaging,SUP-0090,pcs,996.59,JPY,334,40,ambient,53,false,,active
+MAT-00771,Isopropyl Alcohol,raw_chemical,SUP-0045,sheets,4611.78,EUR,352,38,ambient,12,false,21762-36-7,active
+MAT-00772,Leaflet Insert A4,label,SUP-0082,sheets,2981.85,JPY,56,80,ambient,33,true,,discontinued
+MAT-00773,Dropper Assembly,packaging,SUP-0017,rolls,4489.52,INR,86,7,controlled,22,false,,active
+MAT-00774,Purified Water USP,raw_chemical,SUP-0047,rolls,1991.83,GBP,220,26,ambient,21,true,28254-94-5,active
+MAT-00775,Hydroxypropyl Cellulose,excipient,SUP-0177,rolls,611.96,USD,368,45,cold,35,false,30543-81-1,active
+MAT-00776,Blister PVC/Alu,packaging,SUP-0144,mL,2636.55,GBP,367,80,controlled,10,false,,pending_approval
+MAT-00777,Leaflet Insert A5,label,SUP-0051,rolls,4067.07,USD,411,66,ambient,8,false,,active
+MAT-00778,Duloxetine HCl,active_ingredient,SUP-0084,g,2264.2,JPY,197,33,controlled,7,false,2387-92-9,active
+MAT-00779,Tamper Evident Seal,label,SUP-0010,units,655.72,JPY,471,70,cold,27,true,,active
+MAT-00780,Tamper Evident Seal,label,SUP-0186,g,4149.34,GBP,141,43,ambient,31,true,,discontinued
+MAT-00781,Pre-filled Syringe 1ml,packaging,SUP-0077,pcs,3061.8,INR,253,85,cold,59,false,,discontinued
+MAT-00782,Amoxicillin Trihydrate,active_ingredient,SUP-0036,kg,1120.46,USD,166,58,cold,16,true,25105-57-8,active
+MAT-00783,Metformin HCl,active_ingredient,SUP-0029,units,4416.66,USD,485,41,cold,22,false,90217-88-6,active
+MAT-00784,Croscarmellose Sodium,excipient,SUP-0033,L,2917.47,GBP,442,21,controlled,60,false,83530-67-1,discontinued
+MAT-00785,Glycerin USP,raw_chemical,SUP-0126,mL,2889.63,GBP,165,64,cold,11,false,38878-20-5,discontinued
+MAT-00786,Magnesium Stearate,excipient,SUP-0127,mL,3474.98,USD,109,4,controlled,19,false,50520-34-7,active
+MAT-00787,Child-Resistant Cap,packaging,SUP-0136,mL,4070.07,JPY,440,43,ambient,51,false,,pending_approval
+MAT-00788,Silicon Dioxide,excipient,SUP-0094,g,4570.67,INR,500,60,controlled,38,true,52505-34-1,active
+MAT-00789,Barcode Label Roll,label,SUP-0166,L,3431.49,USD,76,62,cold,53,true,,active
+MAT-00790,Amoxicillin Trihydrate,active_ingredient,SUP-0122,pcs,935.56,JPY,232,48,ambient,13,true,46505-65-3,active
+MAT-00791,Primary Label A4,label,SUP-0113,sheets,2539.88,GBP,190,15,cold,47,false,,pending_approval
+MAT-00792,Tamper Evident Seal,label,SUP-0046,mL,1470.38,JPY,142,70,controlled,37,false,,active
+MAT-00793,Simvastatin,active_ingredient,SUP-0030,mL,4794.88,USD,459,7,controlled,23,true,8680-78-1,active
+MAT-00794,Croscarmellose Sodium,excipient,SUP-0057,sheets,1959.84,GBP,254,29,cold,56,true,45614-91-4,pending_approval
+MAT-00795,Purified Water USP,raw_chemical,SUP-0048,units,3669.54,JPY,465,82,ambient,53,false,90219-40-2,active
+MAT-00796,Gabapentin,active_ingredient,SUP-0037,L,937.13,USD,342,63,ambient,27,true,23317-43-1,active
+MAT-00797,Fluoxetine HCl,active_ingredient,SUP-0001,rolls,4847.72,INR,448,34,ambient,13,true,2329-82-4,active
+MAT-00798,Tween 80,raw_chemical,SUP-0025,L,3775.08,USD,156,45,ambient,37,false,71577-42-7,active
+MAT-00799,Glass Vial 20ml,packaging,SUP-0078,pcs,68.3,GBP,457,69,controlled,60,false,,active
+MAT-00800,Pre-filled Syringe 1ml,packaging,SUP-0057,kg,739.93,EUR,183,66,cold,21,false,,active
+MAT-00801,Titanium Dioxide,excipient,SUP-0164,g,969.61,USD,495,38,controlled,49,false,69112-32-4,pending_approval
+MAT-00802,Pre-filled Syringe 1ml,packaging,SUP-0071,rolls,1955.44,GBP,98,8,controlled,39,false,,discontinued
+MAT-00803,Fluoxetine HCl,active_ingredient,SUP-0089,sheets,3976.77,GBP,57,4,ambient,49,true,61171-97-2,discontinued
+MAT-00804,Glass Vial 10ml,packaging,SUP-0017,L,1518.58,GBP,8,61,cold,19,false,,discontinued
+MAT-00805,Amoxicillin Trihydrate,active_ingredient,SUP-0111,kg,2442.09,GBP,339,3,cold,22,true,45953-46-8,pending_approval
+MAT-00806,Propylene Glycol,raw_chemical,SUP-0070,L,4768.45,EUR,376,28,ambient,43,true,38166-38-0,active
+MAT-00807,Carton Box Large,packaging,SUP-0099,mL,4058.64,INR,205,15,ambient,25,false,,active
+MAT-00808,Methanol AR Grade,raw_chemical,SUP-0149,sheets,3394.78,EUR,350,28,ambient,14,false,72701-35-4,active
+MAT-00809,Gabapentin,active_ingredient,SUP-0140,units,2833.54,EUR,193,58,cold,14,false,91031-50-8,pending_approval
+MAT-00810,Ampoule 5ml,packaging,SUP-0108,pcs,1771.29,INR,237,6,controlled,7,false,,active
+MAT-00811,Coating Opadry Blue,excipient,SUP-0132,units,3933.27,GBP,66,82,controlled,42,false,7067-60-2,active
+MAT-00812,Sertraline HCl,active_ingredient,SUP-0118,pcs,4037.5,USD,44,10,ambient,59,true,43760-86-1,active
+MAT-00813,Span 60,raw_chemical,SUP-0016,pcs,3453.12,USD,380,77,controlled,38,true,92006-36-8,active
+MAT-00814,Benzyl Alcohol,raw_chemical,SUP-0173,pcs,682.45,EUR,155,83,ambient,52,true,63614-89-3,active
+MAT-00815,Omeprazole Magnesium,active_ingredient,SUP-0134,kg,765.53,USD,127,29,cold,36,true,66346-66-6,active
+MAT-00816,Amlodipine Besylate,active_ingredient,SUP-0061,units,2023.08,JPY,134,81,controlled,34,true,56719-28-0,active
+MAT-00817,Coating Opadry White,excipient,SUP-0052,mL,854.29,INR,246,40,ambient,48,true,77220-73-5,pending_approval
+MAT-00818,Child-Resistant Cap,packaging,SUP-0028,sheets,1929.41,INR,214,57,cold,7,false,,active
+MAT-00819,Azithromycin Dihydrate,active_ingredient,SUP-0009,sheets,55.59,JPY,228,8,ambient,14,false,94823-68-4,active
+MAT-00820,HPMC Capsule Shell,excipient,SUP-0054,rolls,2503.44,GBP,463,70,ambient,38,true,22921-93-2,active
+MAT-00821,Span 60,raw_chemical,SUP-0036,rolls,2297.68,GBP,402,87,ambient,31,true,84609-71-6,active
+MAT-00822,Benzyl Alcohol,raw_chemical,SUP-0130,L,2880.41,JPY,133,19,controlled,26,false,76660-89-6,active
+MAT-00823,Amlodipine Besylate,active_ingredient,SUP-0060,kg,4260.23,USD,341,16,ambient,49,false,42472-39-3,active
+MAT-00824,Iron Oxide Yellow,excipient,SUP-0017,sheets,3779.19,USD,314,35,cold,8,true,57922-57-9,pending_approval
+MAT-00825,Gabapentin,active_ingredient,SUP-0097,L,1606.14,EUR,327,76,controlled,18,true,33145-72-7,pending_approval
+MAT-00826,HDPE Bottle 60cc,packaging,SUP-0112,mL,1006.36,JPY,415,27,cold,43,true,,pending_approval
+MAT-00827,Lisinopril Dihydrate,active_ingredient,SUP-0002,mL,166.68,GBP,397,55,controlled,40,true,44707-33-8,active
+MAT-00828,Gelatin Capsule Shell,excipient,SUP-0129,mL,2852.07,GBP,183,82,controlled,60,true,8852-66-6,pending_approval
+MAT-00829,Carton Print Sheet,label,SUP-0133,g,2845.98,GBP,52,18,ambient,20,true,,discontinued
+MAT-00830,Span 60,raw_chemical,SUP-0075,rolls,113.2,GBP,200,48,cold,16,false,9851-78-9,active
+MAT-00831,Ethanol 96%,raw_chemical,SUP-0140,units,1996.4,USD,299,63,ambient,47,true,4280-53-6,active
+MAT-00832,Lactose Monohydrate,excipient,SUP-0036,rolls,4440.2,EUR,281,45,controlled,9,true,64741-19-9,discontinued
+MAT-00833,Cetirizine HCl,active_ingredient,SUP-0154,rolls,4905.29,JPY,476,13,controlled,36,true,35506-15-1,active
+MAT-00834,Tamper Evident Seal,label,SUP-0123,mL,3251.86,GBP,401,32,cold,9,true,,active
+MAT-00835,Propylene Glycol,raw_chemical,SUP-0005,sheets,3409.87,JPY,247,9,ambient,55,false,91202-26-6,pending_approval
+MAT-00836,Primary Label A5,label,SUP-0158,L,578.36,GBP,181,27,ambient,33,true,,active
+MAT-00837,Silicon Dioxide,excipient,SUP-0106,g,2943.29,JPY,291,8,cold,52,true,7505-19-0,active
+MAT-00838,Serialization Label,label,SUP-0090,L,1413.34,JPY,336,34,ambient,14,false,,active
+MAT-00839,Escitalopram Oxalate,active_ingredient,SUP-0053,g,382.35,INR,362,48,cold,34,false,48144-80-4,pending_approval
+MAT-00840,Coating Opadry White,excipient,SUP-0129,units,1594.64,USD,28,47,ambient,51,false,36721-20-3,active
+MAT-00841,Sodium Chloride,raw_chemical,SUP-0054,mL,1525.04,USD,191,21,cold,21,false,85234-68-1,active
+MAT-00842,Barcode Label Roll,label,SUP-0099,kg,1351.86,GBP,424,13,cold,23,false,,active
+MAT-00843,Metformin HCl,active_ingredient,SUP-0058,sheets,1923.62,EUR,195,26,controlled,33,true,86610-49-0,discontinued
+MAT-00844,Child-Resistant Cap,packaging,SUP-0087,kg,4550.31,GBP,415,78,cold,54,true,,active
+MAT-00845,Tween 80,raw_chemical,SUP-0187,sheets,4328.78,USD,414,16,controlled,30,false,70142-69-6,discontinued
+MAT-00846,Acetone AR Grade,raw_chemical,SUP-0120,units,813.16,EUR,68,4,ambient,57,false,11261-41-8,active
+MAT-00847,Glass Vial 10ml,packaging,SUP-0093,sheets,193.51,GBP,338,35,controlled,57,true,,active
+MAT-00848,Dropper Assembly,packaging,SUP-0046,rolls,4180.08,INR,237,5,ambient,6,false,,active
+MAT-00849,Carton Box Small,packaging,SUP-0056,pcs,3188.9,INR,30,77,cold,23,false,,active
+MAT-00850,Leaflet Insert A4,label,SUP-0067,L,1290.41,INR,66,32,controlled,17,true,,discontinued
+MAT-00851,Metformin HCl,active_ingredient,SUP-0048,mL,572.68,JPY,441,59,controlled,26,true,72586-39-0,pending_approval
+MAT-00852,Dropper Assembly,packaging,SUP-0091,units,81.08,JPY,368,8,controlled,21,false,,active
+MAT-00853,Atorvastatin Calcium,active_ingredient,SUP-0061,pcs,566.36,EUR,167,76,ambient,59,false,9407-92-6,active
+MAT-00854,Sodium Lauryl Sulfate,excipient,SUP-0086,kg,1633.04,INR,460,86,ambient,36,false,81565-13-2,active
+MAT-00855,Fluoxetine HCl,active_ingredient,SUP-0007,units,4651.58,USD,312,30,ambient,38,false,28213-58-9,active
+MAT-00856,Magnesium Stearate,excipient,SUP-0020,sheets,3813.18,EUR,290,67,controlled,46,false,70693-25-8,active
+MAT-00857,Sodium Chloride,raw_chemical,SUP-0113,pcs,3296.16,GBP,138,27,controlled,24,true,43131-41-5,active
+MAT-00858,Primary Label A5,label,SUP-0178,rolls,3741.07,EUR,228,55,ambient,11,false,,discontinued
+MAT-00859,Glycerin USP,raw_chemical,SUP-0124,g,4573.22,JPY,118,60,ambient,20,true,70516-41-6,pending_approval
+MAT-00860,Tween 80,raw_chemical,SUP-0074,L,3027.93,GBP,161,18,cold,32,false,66244-28-9,active
+MAT-00861,Microcrystalline Cellulose,excipient,SUP-0043,L,4382.09,USD,215,36,controlled,51,false,97417-22-2,active
+MAT-00862,Primary Label A5,label,SUP-0034,kg,3450.39,JPY,444,70,ambient,33,false,,active
+MAT-00863,Primary Label A5,label,SUP-0087,mL,3560.06,GBP,303,80,controlled,12,true,,active
+MAT-00864,Carton Box Large,packaging,SUP-0116,pcs,4553.42,INR,149,64,controlled,14,true,,pending_approval
+MAT-00865,Ethanol 96%,raw_chemical,SUP-0152,g,761.71,JPY,190,89,controlled,35,false,42050-66-2,discontinued
+MAT-00866,Purified Water USP,raw_chemical,SUP-0060,units,4723.87,GBP,253,46,cold,42,false,37439-51-6,active
+MAT-00867,Talc Powder,excipient,SUP-0111,L,210.15,JPY,143,76,controlled,26,true,45577-46-2,active
+MAT-00868,HDPE Bottle 120cc,packaging,SUP-0044,units,2433.44,GBP,481,36,controlled,54,true,,active
+MAT-00869,Carton Box Small,packaging,SUP-0131,L,480.33,EUR,15,79,cold,40,true,,active
+MAT-00870,Leaflet Insert A4,label,SUP-0147,kg,1848.02,INR,375,59,controlled,14,false,,active
+MAT-00871,Cetirizine HCl,active_ingredient,SUP-0127,g,2222.3,GBP,45,20,ambient,52,true,46412-20-3,pending_approval
+MAT-00872,Ibuprofen,active_ingredient,SUP-0071,rolls,784.06,INR,323,68,controlled,55,true,92692-98-5,active
+MAT-00873,Shipping Label,label,SUP-0082,g,4661.87,EUR,431,74,controlled,59,true,,pending_approval
+MAT-00874,Aspirin Fine Powder,active_ingredient,SUP-0057,mL,684.8,EUR,136,63,cold,37,true,96199-73-4,active
+MAT-00875,Talc Powder,excipient,SUP-0001,g,4754.19,INR,35,65,controlled,45,true,93109-32-0,active
+MAT-00876,HDPE Bottle 120cc,packaging,SUP-0164,sheets,3155.32,GBP,248,70,controlled,17,false,,active
+MAT-00877,Carton Box Large,packaging,SUP-0101,pcs,2451.36,JPY,183,72,ambient,24,true,,active
+MAT-00878,Gabapentin,active_ingredient,SUP-0084,units,2098.26,EUR,340,57,cold,17,false,41849-94-1,active
+MAT-00879,Hologram Sticker,label,SUP-0126,L,3868.52,JPY,211,90,cold,7,false,,active
+MAT-00880,Tween 80,raw_chemical,SUP-0105,mL,4449.11,USD,288,44,ambient,49,false,53950-60-7,active
+MAT-00881,Leaflet Insert A4,label,SUP-0125,units,4561.89,EUR,174,84,cold,25,false,,active
+MAT-00882,Croscarmellose Sodium,excipient,SUP-0158,L,2680.3,JPY,169,19,controlled,40,true,94713-12-6,active
+MAT-00883,Carton Box Small,packaging,SUP-0017,rolls,3834.33,USD,266,29,ambient,40,true,,active
+MAT-00884,Sodium Hydroxide,raw_chemical,SUP-0075,sheets,4298.68,EUR,467,50,ambient,32,true,72526-41-0,active
+MAT-00885,Clopidogrel Bisulfate,active_ingredient,SUP-0011,g,2507.75,EUR,145,41,cold,20,true,4477-44-1,active
+MAT-00886,Leaflet Insert A4,label,SUP-0022,L,4091.57,USD,38,67,controlled,51,false,,active
+MAT-00887,Fluoxetine HCl,active_ingredient,SUP-0101,L,478.24,EUR,426,80,ambient,56,false,55775-75-0,active
+MAT-00888,Glass Vial 10ml,packaging,SUP-0168,pcs,1013.73,JPY,242,51,ambient,33,true,,active
+MAT-00889,Shipping Label,label,SUP-0130,units,2417.01,EUR,196,5,ambient,52,false,,active
+MAT-00890,Potassium Chloride,raw_chemical,SUP-0007,g,2261.63,INR,395,32,ambient,29,false,73863-23-4,active
+MAT-00891,Hypromellose,excipient,SUP-0054,g,477.4,INR,304,34,cold,15,false,80854-70-8,pending_approval
+MAT-00892,Phosphoric Acid,raw_chemical,SUP-0065,mL,295.14,INR,160,46,cold,8,false,90358-82-9,active
+MAT-00893,Escitalopram Oxalate,active_ingredient,SUP-0126,units,3452.14,JPY,256,43,controlled,21,false,60522-71-8,discontinued
+MAT-00894,Atorvastatin Calcium,active_ingredient,SUP-0097,g,2128.8,EUR,388,4,cold,39,true,21833-35-7,active
+MAT-00895,Sertraline HCl,active_ingredient,SUP-0125,sheets,2476.18,EUR,384,73,ambient,31,true,38945-25-6,active
+MAT-00896,Glass Vial 20ml,packaging,SUP-0145,rolls,3075.69,EUR,73,40,controlled,49,true,,discontinued
+MAT-00897,HDPE Bottle 120cc,packaging,SUP-0085,units,2360.81,EUR,85,70,controlled,59,false,,active
+MAT-00898,Ampoule 5ml,packaging,SUP-0018,sheets,896.54,USD,160,27,cold,50,true,,discontinued
+MAT-00899,Barcode Label Roll,label,SUP-0120,rolls,474.03,JPY,81,11,ambient,46,true,,active
+MAT-00900,Cetirizine HCl,active_ingredient,SUP-0150,mL,1373.27,GBP,189,82,ambient,22,true,10204-85-2,active
+MAT-00901,Coating Opadry Blue,excipient,SUP-0027,units,892.04,EUR,409,69,controlled,47,false,43324-83-9,discontinued
+MAT-00902,Blister Alu-Alu,packaging,SUP-0060,pcs,1046.93,EUR,47,81,cold,15,true,,active
+MAT-00903,Metformin HCl,active_ingredient,SUP-0036,rolls,389.4,JPY,414,59,ambient,48,false,42922-48-8,active
+MAT-00904,Titanium Dioxide,excipient,SUP-0181,sheets,1886.86,INR,182,42,controlled,26,true,79398-37-2,pending_approval
+MAT-00905,Carton Box Small,packaging,SUP-0114,L,4199.46,INR,356,35,controlled,13,false,,pending_approval
+MAT-00906,Glass Vial 20ml,packaging,SUP-0120,L,126.97,GBP,373,57,cold,45,true,,active
+MAT-00907,Blister Alu-Alu,packaging,SUP-0051,L,4666.0,INR,185,70,cold,6,false,,active
+MAT-00908,Sertraline HCl,active_ingredient,SUP-0004,rolls,4579.08,JPY,140,7,controlled,23,false,52255-15-4,active
+MAT-00909,Clopidogrel Bisulfate,active_ingredient,SUP-0156,kg,4316.0,INR,252,25,ambient,53,true,5056-57-0,discontinued
+MAT-00910,Povidone K30,excipient,SUP-0022,L,4354.63,INR,428,18,cold,34,true,41237-22-8,active
+MAT-00911,Hydroxypropyl Cellulose,excipient,SUP-0182,kg,1663.66,EUR,464,78,controlled,29,true,87146-61-6,pending_approval
+MAT-00912,Sertraline HCl,active_ingredient,SUP-0038,g,965.1,GBP,43,25,ambient,8,false,79811-35-8,active
+MAT-00913,Coating Opadry White,excipient,SUP-0090,kg,1556.17,USD,175,62,controlled,59,true,74261-69-1,active
+MAT-00914,Amlodipine Besylate,active_ingredient,SUP-0082,L,3647.89,JPY,321,5,cold,56,true,28561-91-5,active
+MAT-00915,Losartan Potassium,active_ingredient,SUP-0192,mL,1539.26,EUR,159,9,ambient,51,false,23381-45-2,discontinued
+MAT-00916,HDPE Bottle 120cc,packaging,SUP-0070,sheets,1130.19,EUR,91,40,ambient,50,false,,active
+MAT-00917,Paracetamol DC,active_ingredient,SUP-0090,pcs,1776.09,JPY,231,83,controlled,59,true,4864-84-6,active
+MAT-00918,Acetone AR Grade,raw_chemical,SUP-0089,mL,4968.78,GBP,107,46,controlled,38,false,11945-75-3,active
+MAT-00919,Croscarmellose Sodium,excipient,SUP-0133,pcs,1304.6,EUR,244,20,ambient,43,false,48845-82-6,pending_approval
+MAT-00920,Purified Water USP,raw_chemical,SUP-0162,kg,1612.2,GBP,446,4,cold,32,false,43921-53-1,active
+MAT-00921,Carton Box Small,packaging,SUP-0048,units,814.15,USD,225,81,ambient,43,false,,pending_approval
+MAT-00922,Leaflet Insert A4,label,SUP-0186,pcs,4170.57,GBP,308,46,ambient,49,false,,active
+MAT-00923,Sertraline HCl,active_ingredient,SUP-0028,mL,3815.98,INR,219,37,controlled,31,true,21549-75-2,active
+MAT-00924,Potassium Chloride,raw_chemical,SUP-0193,mL,4757.49,EUR,67,87,ambient,56,true,11898-49-2,active
+MAT-00925,Primary Label A4,label,SUP-0169,sheets,827.13,EUR,103,25,ambient,25,true,,active
+MAT-00926,Silicon Dioxide,excipient,SUP-0040,mL,2183.03,JPY,433,50,cold,36,true,45232-22-7,discontinued
+MAT-00927,Tamper Evident Seal,label,SUP-0119,mL,4564.21,EUR,391,15,ambient,14,false,,active
+MAT-00928,Tamper Evident Seal,label,SUP-0153,rolls,4490.16,INR,274,12,ambient,37,true,,active
+MAT-00929,Methanol AR Grade,raw_chemical,SUP-0093,L,3839.34,GBP,257,3,controlled,44,false,10177-92-3,active
+MAT-00930,Leaflet Insert A4,label,SUP-0112,mL,221.72,USD,174,52,controlled,17,false,,active
+MAT-00931,Dropper Assembly,packaging,SUP-0124,units,1934.38,USD,134,56,cold,16,false,,pending_approval
+MAT-00932,Purified Water USP,raw_chemical,SUP-0089,g,2324.88,USD,336,54,cold,16,false,16924-83-8,active
+MAT-00933,Tamper Evident Seal,label,SUP-0109,kg,2430.95,USD,156,57,ambient,53,true,,discontinued
+MAT-00934,Serialization Label,label,SUP-0137,rolls,3905.13,GBP,58,25,ambient,40,false,,pending_approval
+MAT-00935,Fluoxetine HCl,active_ingredient,SUP-0067,L,35.28,EUR,264,81,controlled,35,false,6412-69-4,active
+MAT-00936,Metformin HCl,active_ingredient,SUP-0154,pcs,2301.52,GBP,130,57,ambient,49,false,3134-79-4,active
+MAT-00937,Ampoule 5ml,packaging,SUP-0084,rolls,2085.59,GBP,326,7,controlled,13,false,,pending_approval
+MAT-00938,Atorvastatin Calcium,active_ingredient,SUP-0137,sheets,1243.51,USD,65,21,controlled,37,false,36054-54-7,pending_approval
+MAT-00939,Benzyl Alcohol,raw_chemical,SUP-0188,mL,4593.92,JPY,292,61,cold,10,false,48913-14-2,discontinued
+MAT-00940,Atorvastatin Calcium,active_ingredient,SUP-0087,sheets,2563.41,GBP,217,54,cold,17,false,94630-93-1,active
+MAT-00941,Azithromycin Dihydrate,active_ingredient,SUP-0158,mL,2854.69,JPY,277,34,controlled,57,true,49101-83-7,active
+MAT-00942,Carton Print Sheet,label,SUP-0071,units,3734.48,JPY,344,8,controlled,31,true,,pending_approval
+MAT-00943,HDPE Bottle 120cc,packaging,SUP-0005,units,25.75,INR,337,19,ambient,23,false,,discontinued
+MAT-00944,Blister Alu-Alu,packaging,SUP-0182,g,1107.01,GBP,114,11,controlled,24,false,,discontinued
+MAT-00945,Hologram Sticker,label,SUP-0143,rolls,2707.52,USD,176,46,ambient,28,false,,active
+MAT-00946,Carton Print Sheet,label,SUP-0173,pcs,1053.58,INR,131,54,cold,48,true,,pending_approval
+MAT-00947,Shipping Label,label,SUP-0095,rolls,415.92,GBP,150,43,ambient,49,false,,active
+MAT-00948,Coating Opadry Blue,excipient,SUP-0111,L,3121.51,INR,392,5,ambient,41,false,30815-58-8,active
+MAT-00949,Leaflet Insert A5,label,SUP-0055,g,485.35,USD,293,40,cold,16,false,,discontinued
+MAT-00950,Tamper Evident Seal,label,SUP-0154,rolls,3756.53,GBP,164,49,controlled,12,false,,discontinued
+MAT-00951,Acetone AR Grade,raw_chemical,SUP-0127,sheets,1125.88,INR,147,60,cold,17,false,37852-10-8,active
+MAT-00952,Primary Label A5,label,SUP-0099,L,3416.92,JPY,335,56,ambient,32,true,,pending_approval
+MAT-00953,Duloxetine HCl,active_ingredient,SUP-0129,mL,693.29,USD,307,76,controlled,32,true,42651-88-3,active
+MAT-00954,Methanol AR Grade,raw_chemical,SUP-0006,pcs,3421.97,JPY,453,86,ambient,41,true,21202-68-5,pending_approval
+MAT-00955,Talc Powder,excipient,SUP-0083,L,2361.11,EUR,151,11,cold,19,false,60237-41-9,active
+MAT-00956,HPMC Capsule Shell,excipient,SUP-0165,L,4864.04,USD,412,80,ambient,16,true,60633-18-0,pending_approval
+MAT-00957,Clopidogrel Bisulfate,active_ingredient,SUP-0099,sheets,4335.38,USD,401,56,ambient,51,true,93870-87-8,pending_approval
+MAT-00958,Metformin HCl,active_ingredient,SUP-0075,pcs,2404.3,INR,425,8,ambient,31,false,56225-25-1,active
+MAT-00959,Glass Vial 20ml,packaging,SUP-0106,g,3610.11,GBP,73,34,ambient,19,false,,active
+MAT-00960,Shrink Wrap Film,packaging,SUP-0126,g,2291.48,EUR,388,36,ambient,24,false,,active
+MAT-00961,Barcode Label Roll,label,SUP-0010,units,2841.37,EUR,76,69,ambient,7,true,,active
+MAT-00962,Isopropyl Alcohol,raw_chemical,SUP-0184,rolls,3569.16,EUR,291,84,ambient,36,false,88297-47-2,pending_approval
+MAT-00963,Titanium Dioxide,excipient,SUP-0066,L,3037.44,EUR,15,30,controlled,25,true,76626-11-4,active
+MAT-00964,Benzyl Alcohol,raw_chemical,SUP-0044,sheets,2385.13,GBP,330,22,controlled,60,false,68644-57-6,active
+MAT-00965,Titanium Dioxide,excipient,SUP-0004,pcs,877.35,USD,176,31,ambient,19,true,19722-45-9,pending_approval
+MAT-00966,Gabapentin,active_ingredient,SUP-0146,mL,1782.83,USD,431,70,cold,53,true,47702-95-0,active
+MAT-00967,Ciprofloxacin HCl,active_ingredient,SUP-0142,rolls,2537.33,JPY,434,71,cold,57,true,58591-82-8,active
+MAT-00968,Hypromellose,excipient,SUP-0177,units,3986.45,EUR,117,61,cold,8,false,72398-45-1,pending_approval
+MAT-00969,Povidone K30,excipient,SUP-0134,g,4530.75,GBP,32,29,cold,21,false,60902-22-8,active
+MAT-00970,Blister PVC/Alu,packaging,SUP-0114,g,982.53,USD,244,28,cold,40,true,,discontinued
+MAT-00971,Barcode Label Roll,label,SUP-0111,units,2846.86,USD,369,59,controlled,18,false,,active
+MAT-00972,Ampoule 5ml,packaging,SUP-0162,sheets,3006.97,EUR,169,67,ambient,38,false,,pending_approval
+MAT-00973,HDPE Bottle 120cc,packaging,SUP-0088,units,4336.37,GBP,348,74,controlled,25,false,,active
+MAT-00974,HPMC Capsule Shell,excipient,SUP-0121,pcs,33.08,INR,84,25,cold,54,false,88258-48-1,active
+MAT-00975,Blister PVC/Alu,packaging,SUP-0196,L,968.38,EUR,110,42,controlled,25,false,,discontinued
+MAT-00976,Barcode Label Roll,label,SUP-0054,g,3423.89,JPY,345,22,ambient,16,true,,active
+MAT-00977,Hypromellose,excipient,SUP-0084,L,3050.81,JPY,243,86,controlled,56,false,95269-44-3,active
+MAT-00978,Leaflet Insert A4,label,SUP-0086,units,1854.27,GBP,425,43,ambient,25,false,,discontinued
+MAT-00979,Tamper Evident Seal,label,SUP-0015,sheets,28.86,INR,182,85,cold,35,false,,active
+MAT-00980,Stearic Acid,excipient,SUP-0076,mL,3310.44,GBP,13,44,ambient,56,false,42738-81-8,pending_approval
+MAT-00981,Iron Oxide Red,excipient,SUP-0071,mL,3087.97,USD,39,34,cold,26,false,94587-85-7,active
+MAT-00982,Barcode Label Roll,label,SUP-0151,pcs,1249.61,INR,31,15,cold,46,false,,active
+MAT-00983,Isopropyl Alcohol,raw_chemical,SUP-0029,rolls,2190.9,INR,69,12,ambient,55,false,19943-29-9,active
+MAT-00984,Phosphoric Acid,raw_chemical,SUP-0063,mL,2809.4,GBP,294,72,controlled,22,false,90433-12-2,active
+MAT-00985,Ampoule 5ml,packaging,SUP-0192,rolls,4525.56,EUR,95,44,ambient,20,false,,active
+MAT-00986,Shrink Wrap Film,packaging,SUP-0067,mL,3388.51,GBP,310,5,cold,13,false,,active
+MAT-00987,Shipping Label,label,SUP-0016,pcs,3990.59,JPY,192,5,controlled,33,true,,discontinued
+MAT-00988,Glass Vial 20ml,packaging,SUP-0163,pcs,1413.59,USD,377,12,controlled,11,true,,discontinued
+MAT-00989,Iron Oxide Red,excipient,SUP-0157,g,2869.84,EUR,385,12,controlled,33,false,61092-67-2,pending_approval
+MAT-00990,Carton Box Medium,packaging,SUP-0087,g,908.78,INR,271,58,cold,31,false,,active
+MAT-00991,Sodium Hydroxide,raw_chemical,SUP-0083,sheets,94.85,INR,78,36,cold,43,false,69828-68-3,discontinued
+MAT-00992,HDPE Bottle 60cc,packaging,SUP-0053,L,944.64,GBP,93,15,cold,40,true,,active
+MAT-00993,Methanol AR Grade,raw_chemical,SUP-0081,rolls,4773.33,EUR,337,29,cold,25,true,55661-44-3,active
+MAT-00994,Nasal Spray Pump,packaging,SUP-0113,kg,686.99,USD,428,51,cold,34,true,,active
+MAT-00995,Losartan Potassium,active_ingredient,SUP-0053,pcs,2193.01,INR,303,18,cold,17,true,21399-36-1,active
+MAT-00996,Methanol AR Grade,raw_chemical,SUP-0107,rolls,3748.54,EUR,108,14,controlled,29,false,33510-75-1,active
+MAT-00997,Cetirizine HCl,active_ingredient,SUP-0103,kg,1900.46,USD,182,49,ambient,59,true,56954-93-4,active
+MAT-00998,Amoxicillin Trihydrate,active_ingredient,SUP-0071,sheets,4379.77,GBP,24,21,cold,17,true,16820-76-2,active
+MAT-00999,Leaflet Insert A5,label,SUP-0190,kg,306.38,GBP,191,82,ambient,58,true,,active
+MAT-01000,Povidone K30,excipient,SUP-0190,L,4681.49,EUR,187,17,cold,7,false,26798-49-6,pending_approval

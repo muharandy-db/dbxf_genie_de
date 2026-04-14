@@ -1,0 +1,501 @@
+outlet_id,outlet_name,outlet_type,address,city,state,country,zip_code,phone,license_number,owner_name,chain_name,opened_date,status,tier
+OUT-0001,"Camacho, Hernandez and Mejia Pharmacy",pharmacy,2108 Kimberly Plains,Stephaniemouth,Wisconsin,United States,41832,733.242.6433,RPH-912775,Steven Gonzales,Independent,2017-06-30,closed,gold
+OUT-0002,Johnson-Dillon Hospital,hospital,0776 Jamie Light,North Tanyahaven,Arizona,United States,76300,001-381-723-1795x5633,RPH-293169,Jordan Duffy,Walgreens,2012-09-06,suspended,silver
+OUT-0003,Smith Group Clinic,clinic,55416 Perez Squares Apt. 670,Jessicamouth,Oregon,United States,06447,(932)290-2822,RPH-268010,Robert Cline,Walgreens,2019-02-14,suspended,silver
+OUT-0004,"Carter, Williamson and Morrow Distributors",distributor,28225 Kristin Burgs Suite 346,Reginaview,Virginia,United States,82016,400-450-7026x08698,RPH-434050,Gregory Walker,Pharmasave,2018-06-07,active,platinum
+OUT-0005,Mcneil-Rodriguez Pharmacy,pharmacy,6872 Larry Mountains Suite 258,Summerville,Colorado,United States,63125,393.523.8223x1164,RPH-316283,Cody Hopkins,Shoppers Drug Mart,2014-10-13,suspended,gold
+OUT-0006,Page-Murray Clinic,clinic,56529 Julie Union Suite 032,East Cynthiabury,North Carolina,United States,21719,(650)997-7539x6737,RPH-449785,Douglas Mack,Boots Pharmacy,2011-01-06,active,platinum
+OUT-0007,Rogers-Stafford Pharmacy,pharmacy,7871 Hines Greens Apt. 560,North Jeremy,New Jersey,United States,60457,318-442-5476,RPH-604559,Todd Lutz,LloydsPharmacy,2012-04-18,closed,silver
+OUT-0008,Thomas Ltd Clinic,clinic,35892 Lauren Lake,Lake Stacey,Ohio,United States,70083,(852)512-9328,RPH-854534,Tyler Rush,Pharmasave,2021-05-05,suspended,silver
+OUT-0009,Price-Boyd Pharmacy,pharmacy,7524 Charles Station Suite 399,North Karinaberg,Massachusetts,United States,19348,623.462.6693x3513,RPH-128978,Becky Singh,MedPlus,2016-06-18,active,silver
+OUT-0010,"Hernandez, Ramos and Chambers Pharmacy",pharmacy,18481 Hall Mill Suite 189,Hernandezmouth,Minnesota,United States,36166,6645176927,RPH-587640,Ann Dennis,CVS Health,2022-05-01,active,silver
+OUT-0011,"Grimes, Allen and Horn Distributors",distributor,660 Michelle Harbors Suite 485,Estradaview,California,United States,47249,801-673-9739,RPH-576489,Richard Erickson,None,2021-06-14,active,silver
+OUT-0012,"Obrien, Cunningham and Obrien Distributors",distributor,91919 David Track Apt. 599,Ochoaton,North Carolina,United States,46022,+1-777-398-0660x3920,RPH-856028,Jason Johnson,Independent,2021-01-25,active,silver
+OUT-0013,Atkinson-King Clinic,clinic,3470 Ellis Roads Suite 238,Joystad,Washington,United States,23052,915.459.8354x1165,RPH-137122,Christina Chase,Boots Pharmacy,2008-10-26,suspended,bronze
+OUT-0014,Bell-Shaffer Clinic,clinic,25013 Stout Squares Suite 882,Montgomeryland,Missouri,United States,26534,819-464-2585,RPH-284896,Ashley Blanchard,Pharmasave,2018-11-06,active,gold
+OUT-0015,Austin-Arellano Hospital,hospital,70382 Johnson Fork Apt. 337,East Alexander,California,United States,32440,8974768893,RPH-783223,Lauren Burton,Costco Pharmacy,2022-04-18,suspended,silver
+OUT-0016,Francis-Mann Hospital,hospital,6553 Fernandez Club Apt. 538,North Tina,Texas,United States,67013,001-278-951-9358x374,RPH-707021,Kathleen Graham,Boots Pharmacy,2012-06-23,suspended,bronze
+OUT-0017,Johnson Group Pharmacy,pharmacy,7215 Stephanie Harbor,Staceytown,New York,United States,94035,+1-876-426-3748x453,RPH-926393,Veronica Matthews,Kroger Pharmacy,2020-03-22,active,bronze
+OUT-0018,Arellano Inc Clinic,clinic,119 Alyssa Stream Apt. 339,Port Howard,Indiana,United States,85620,415.311.6966x6725,RPH-971795,Christopher Jordan,Kroger Pharmacy,2016-08-23,active,gold
+OUT-0019,Porter-Lopez Clinic,clinic,35157 Alexandria Brooks Apt. 805,East Aaronhaven,Massachusetts,United States,02149,4565409951,RPH-241440,Kathleen Nichols,Shoppers Drug Mart,2011-05-11,active,silver
+OUT-0020,Davis-Vega Hospital,hospital,592 Mccarthy Trail,New Eduardo,Michigan,United States,58841,4904814415,RPH-933454,Kathleen Munoz,None,2011-12-14,suspended,bronze
+OUT-0021,"Mora, Pace and Mcfarland Hospital",hospital,1815 Michael Garden Suite 360,Brianfort,Tennessee,United States,86963,001-591-681-5899x886,RPH-453964,Jerome Gonzalez,Pharmasave,2008-01-01,active,gold
+OUT-0022,"Simmons, Graham and Miller Hospital",hospital,1587 Torres Turnpike,Kelliton,Michigan,United States,69648,2312499825,RPH-584966,Eric Lopez,Pharmasave,2008-07-07,active,silver
+OUT-0023,"Williams, Bryan and Russo Pharmacy",pharmacy,503 Stephen Ferry,Lake Luke,Missouri,United States,94090,373.699.0063,RPH-747958,David Cervantes,Guardian Pharmacy,2023-07-18,closed,gold
+OUT-0024,Joyce-Benitez Hospital,hospital,6022 Christy Green,Beckerport,Maryland,United States,27354,+1-846-206-6643x7490,RPH-461242,Joann Alvarado,Shoppers Drug Mart,2011-01-08,suspended,gold
+OUT-0025,Jones Inc Hospital,hospital,71285 Sherry Glens,Mitchellport,Tennessee,United States,37817,001-541-416-3187,RPH-206358,Amanda Mendoza,Guardian Pharmacy,2018-06-05,active,silver
+OUT-0026,Perez Group Pharmacy,pharmacy,13695 Rodgers Mills,Lake Sarahborough,Massachusetts,United States,28082,001-850-890-2542x5730,RPH-541149,Edgar Brown,Apollo Pharmacy,2014-11-18,active,silver
+OUT-0027,Burton LLC Pharmacy,pharmacy,71398 Hawkins Divide Suite 011,Holmestown,Massachusetts,United States,81580,001-825-350-2130x6090,RPH-142848,Pamela Johnson,None,2006-01-11,active,bronze
+OUT-0028,"Jones, Banks and Bartlett Distributors",distributor,9673 Salazar Key Suite 727,Jeffreyport,Louisiana,United States,84006,001-526-842-5064x2076,RPH-507842,Mark Clark,Shoppers Drug Mart,2010-05-09,active,silver
+OUT-0029,Fisher-Butler Hospital,hospital,6755 Ortega Dale Apt. 333,Port Jessica,California,United States,81618,(978)665-4362x718,RPH-634917,Tina Berg,Boots Pharmacy,2015-06-24,active,gold
+OUT-0030,Williams-Robinson Pharmacy,pharmacy,686 Sherry Burg,South Ashley,New York,United States,23090,992-769-3265x732,RPH-865441,Pamela Schmidt,Shoppers Drug Mart,2019-08-21,active,gold
+OUT-0031,"Liu, Lowe and Buchanan Pharmacy",pharmacy,00515 Harris Drive,West Mary,Kentucky,United States,48072,+1-459-477-5244x182,RPH-998920,Joseph Montgomery,Boots Pharmacy,2009-06-15,active,bronze
+OUT-0032,Hoffman Ltd Clinic,clinic,431 Regina Court Apt. 267,Woodstown,New Jersey,United States,77332,001-357-799-2707x955,RPH-403657,Chad Evans,Apollo Pharmacy,2020-11-24,suspended,bronze
+OUT-0033,Rangel-Rodriguez Hospital,hospital,541 Morrison Union,Smithshire,Colorado,United States,55254,(754)438-4807,RPH-523311,David Parker,Costco Pharmacy,2023-06-11,active,silver
+OUT-0034,Ferrell-Morgan Distributors,distributor,715 David Road Apt. 904,Gonzalezfort,Utah,United States,50310,(504)965-5866x5254,RPH-505464,Bradley Cole,Independent,2014-09-13,suspended,gold
+OUT-0035,"Miller, Wade and Flores Clinic",clinic,21312 Brown Ports,Port Christopher,California,United States,10385,3053912975,RPH-946708,Charles Hardin,Shoppers Drug Mart,2017-08-13,active,gold
+OUT-0036,Lopez Ltd Pharmacy,pharmacy,63301 Flores Pines,South Lisa,New Jersey,United States,93331,592.674.9072x8012,RPH-412619,Joshua Kaufman,MedPlus,2006-04-04,active,silver
+OUT-0037,"Martinez, Gill and Lopez Distributors",distributor,26949 Hunter Heights Apt. 645,New Adrian,South Carolina,United States,90092,942-210-1750x961,RPH-893624,Megan Flores,Shoppers Drug Mart,2022-01-27,active,silver
+OUT-0038,Wolfe-Jacobs Pharmacy,pharmacy,457 Harmon Neck,Victorfort,Oregon,United States,41588,+1-933-792-0567,RPH-435646,Sarah Compton,MedPlus,2023-02-15,suspended,platinum
+OUT-0039,Melton-Marshall Clinic,clinic,66025 Fritz Roads,South Michael,Arizona,United States,57436,+1-222-992-3106x72453,RPH-803845,Eric Moses,Boots Pharmacy,2010-10-14,active,silver
+OUT-0040,"Ramirez, Lee and Lawson Distributors",distributor,6270 Ali Cliff Suite 794,East April,Pennsylvania,United States,65280,867.304.2549,RPH-973663,Kendra Peterson,Pharmasave,2007-12-08,active,silver
+OUT-0041,Roman-Shields Pharmacy,pharmacy,710 Wood Gateway Apt. 535,Buchananside,Indiana,United States,45164,001-553-525-9399,RPH-880343,John Smith MD,Independent,2018-02-20,suspended,silver
+OUT-0042,Cruz and Sons Hospital,hospital,87794 Shannon Tunnel Apt. 425,South Johntown,Florida,United States,43389,(597)382-4575x983,RPH-610201,Antonio Dyer,Kroger Pharmacy,2009-11-07,active,bronze
+OUT-0043,"Lindsey, Campbell and Gibbs Distributors",distributor,044 Douglas Burg Apt. 615,Parsonsberg,South Carolina,United States,59048,+1-968-629-7514x7439,RPH-276639,Carl Blanchard,Costco Pharmacy,2008-07-07,suspended,bronze
+OUT-0044,Williams LLC Pharmacy,pharmacy,2568 Cristina Rue Suite 625,Lake Justinshire,Massachusetts,United States,99655,001-408-302-7112,RPH-682594,Teresa Young,Independent,2011-01-12,suspended,gold
+OUT-0045,Compton-Morgan Hospital,hospital,1768 Alicia Row Suite 281,South Erik,Connecticut,United States,34678,230.580.0370,RPH-992265,Tiffany Best,None,2023-05-06,active,silver
+OUT-0046,Mason LLC Clinic,clinic,608 Vasquez Skyway Suite 810,New Barry,Utah,United States,30582,001-870-551-9582,RPH-417459,Adam Burton,Costco Pharmacy,2020-08-31,active,bronze
+OUT-0047,"Campbell, Hawkins and Dixon Hospital",hospital,94535 Long Run,Shannonmouth,Michigan,United States,79585,+1-586-632-1061x3394,RPH-267641,Anthony Sims,LloydsPharmacy,2020-04-16,active,gold
+OUT-0048,"Zamora, Bridges and Robinson Pharmacy",pharmacy,0325 Victor Stravenue,Cortezmouth,New York,United States,51717,+1-227-278-9431x910,RPH-922788,Theresa Conrad,Boots Pharmacy,2006-02-06,active,platinum
+OUT-0049,Wallace-Daniel Pharmacy,pharmacy,05336 Jones Mall,West Kayleeville,Texas,United States,40091,(347)331-0720,RPH-115142,Jordan Tanner,MedPlus,2008-11-13,active,silver
+OUT-0050,"Grant, Nelson and Warner Pharmacy",pharmacy,23166 Benjamin Meadows Suite 620,Lake Bryanview,Georgia,United States,93549,973-540-4337x0096,RPH-175793,Natalie Mitchell,Walgreens,2011-09-17,active,bronze
+OUT-0051,George Group Clinic,clinic,255 Malik Route Suite 629,Watsonstad,Massachusetts,United States,38832,(478)765-6194,RPH-594529,Maria Hayes,Walgreens,2007-06-26,closed,silver
+OUT-0052,"Hensley, Martin and Williams Pharmacy",pharmacy,582 Tiffany Turnpike,Port Heather,Minnesota,United States,11215,(918)380-8190x48235,RPH-239199,Russell Brooks,None,2006-12-19,active,gold
+OUT-0053,Mills-Weiss Distributors,distributor,561 Danielle Motorway,Port Heather,Massachusetts,United States,99240,808.617.2143,RPH-109554,Kimberly Davis,Walmart Pharmacy,2018-02-19,closed,bronze
+OUT-0054,Johnson Inc Pharmacy,pharmacy,32114 Tapia Manors Suite 609,Matthewstad,Georgia,United States,27822,269-697-9907x0755,RPH-259488,Shannon Reyes,Independent,2018-12-19,active,platinum
+OUT-0055,"Carrillo, Henderson and Matthews Hospital",hospital,706 Sydney Trace Apt. 748,North Johnville,Pennsylvania,United States,60097,(353)297-0548x7396,RPH-484324,Linda Leonard,Independent,2010-03-19,active,bronze
+OUT-0056,Walls Group Hospital,hospital,274 Solis Plain,West Brendahaven,Florida,United States,64870,(374)420-4956,RPH-454588,Angela Olson,None,2013-01-20,closed,bronze
+OUT-0057,Smith Ltd Pharmacy,pharmacy,0423 Glenn Prairie,Perezmouth,Indiana,United States,92353,912-722-9907,RPH-162734,Jessica Erickson,Independent,2008-02-11,active,gold
+OUT-0058,"Richardson, Stephens and Barnes Clinic",clinic,6861 Christopher Wells,Thomashaven,Missouri,United States,32381,(710)621-9237,RPH-542925,Wesley Douglas,Independent,2008-11-20,closed,gold
+OUT-0059,"Gutierrez, Castro and Hall Distributors",distributor,2605 William Bridge,New Elizabethshire,Virginia,United States,70037,9429537337,RPH-798821,Christopher Tran,Costco Pharmacy,2006-12-25,active,silver
+OUT-0060,"Weaver, Lara and Thomas Pharmacy",pharmacy,217 Ashlee Gateway,Francostad,Arizona,United States,30037,560-460-5603x567,RPH-259018,Travis Hicks,Boots Pharmacy,2022-02-21,suspended,gold
+OUT-0061,Lucas-Campos Hospital,hospital,98471 Greene Mall,New Christopherberg,Utah,United States,84570,7546647548,RPH-900547,Julie Freeman,CVS Health,2014-02-12,active,silver
+OUT-0062,"Lawrence, Castro and Fleming Pharmacy",pharmacy,5175 John Grove,Nancyhaven,Michigan,United States,30364,853-593-5435x86449,RPH-735778,Stephanie Taylor,MedPlus,2014-01-11,active,silver
+OUT-0063,"Phillips, Mcdaniel and Ward Hospital",hospital,79821 Little Ford Suite 275,South Todd,Maryland,United States,35987,001-378-852-4914,RPH-576969,Victoria Smith,Costco Pharmacy,2012-10-30,active,silver
+OUT-0064,Burnett LLC Clinic,clinic,8948 Gonzalez Center Suite 791,Kimmouth,Michigan,United States,16156,(621)450-0141,RPH-695144,Tammy Mcdaniel,Costco Pharmacy,2009-04-09,active,gold
+OUT-0065,Williams Ltd Hospital,hospital,15944 Allen Forges,Sarahstad,Arizona,United States,31481,(208)495-3263,RPH-113458,Patrick Irwin,Apollo Pharmacy,2022-06-06,active,bronze
+OUT-0066,Pacheco-Martinez Pharmacy,pharmacy,3379 Patricia Forges,Danielbury,Tennessee,United States,88471,469-896-7331x1677,RPH-780970,Nicole Johnson,Walgreens,2008-09-29,active,bronze
+OUT-0067,Harris-Nunez Pharmacy,pharmacy,550 Romero Loaf Suite 935,Lake Chris,Kentucky,United States,92111,+1-962-263-3556x43436,RPH-315030,Kristine Brewer,Independent,2017-11-19,active,gold
+OUT-0068,Chavez Inc Hospital,hospital,556 Travis Stream Suite 616,Michaelview,Florida,United States,48551,772-223-9898x306,RPH-452618,Ann Moon,Guardian Pharmacy,2015-01-10,active,gold
+OUT-0069,Gilbert PLC Distributors,distributor,1847 Kelly Walks,Ramirezburgh,North Carolina,United States,30528,(842)481-3190x92487,RPH-193919,Robert Gonzalez,Rite Aid,2015-11-25,suspended,silver
+OUT-0070,"Jones, Mejia and Adams Hospital",hospital,178 Cummings Drives,East Kristin,Kentucky,United States,43162,(448)208-8062,RPH-899630,Ryan Allen,Pharmasave,2012-02-14,active,platinum
+OUT-0071,"Flowers, Berry and Ramirez Pharmacy",pharmacy,2132 Carlos Lane,North Justin,Maryland,United States,69824,868.486.8785x9964,RPH-677142,Kathryn Ballard,Walmart Pharmacy,2018-09-05,active,bronze
+OUT-0072,Jones LLC Clinic,clinic,96664 Johnson Oval Apt. 036,South Michelle,Oregon,United States,98703,(946)832-0374,RPH-129327,John Khan,None,2006-02-14,active,silver
+OUT-0073,Anderson-Moyer Hospital,hospital,14505 Blankenship Shoal,Millerport,Virginia,United States,47001,487.607.1553x48201,RPH-900382,Jordan Mccoy,Walgreens,2018-11-23,active,gold
+OUT-0074,Johnson-Powell Pharmacy,pharmacy,9545 Laurie Prairie Apt. 776,Lake Kimberlyshire,Massachusetts,United States,66816,326-857-4223,RPH-840974,Daniel Williams,Boots Pharmacy,2014-06-10,suspended,silver
+OUT-0075,Mckay and Sons Distributors,distributor,362 Payne Glens Apt. 012,West Jessicaland,Illinois,United States,29218,727.711.7595x749,RPH-301935,Mary Conley,Rite Aid,2023-11-10,active,gold
+OUT-0076,"Meyer, Ramirez and Wheeler Hospital",hospital,06745 Porter Stream,Williamsshire,Wisconsin,United States,39867,712-883-3372x188,RPH-870591,Jennifer Rivera,Shoppers Drug Mart,2016-10-29,active,silver
+OUT-0077,Sanchez PLC Clinic,clinic,150 Sullivan Meadows Apt. 670,Sharonville,New York,United States,40872,677.569.3663,RPH-608298,Carmen Moore,Costco Pharmacy,2023-03-30,active,bronze
+OUT-0078,Watkins-Castaneda Pharmacy,pharmacy,10286 Mosley Underpass,North Aaron,Florida,United States,23775,6247559102,RPH-706586,Zachary Miller,Boots Pharmacy,2021-08-28,suspended,gold
+OUT-0079,Mendez and Sons Pharmacy,pharmacy,7149 Gilbert Pine,Port Cheyenneberg,Texas,United States,09013,794.428.1793x406,RPH-706765,Rhonda Howard,CVS Health,2005-06-03,closed,silver
+OUT-0080,"Torres, Valdez and Briggs Pharmacy",pharmacy,45337 Jacqueline Camp Apt. 091,North Whitney,Georgia,United States,17030,(814)355-9376,RPH-622814,Mary Powers,CVS Health,2017-12-31,active,bronze
+OUT-0081,"Matthews, Pineda and Clark Distributors",distributor,052 Lee Circles Apt. 046,Port Tyler,Massachusetts,United States,86789,(357)925-6592x0246,RPH-293461,Felicia Williams,Apollo Pharmacy,2010-11-23,closed,gold
+OUT-0082,Allen PLC Clinic,clinic,3260 Crystal Station Suite 955,North Timothyhaven,Michigan,United States,26939,525.884.8689,RPH-608501,Monique Williams,MedPlus,2013-01-23,closed,silver
+OUT-0083,"Garza, Roberts and Shea Clinic",clinic,45069 Thomas Wells Suite 799,West Mary,Massachusetts,United States,29716,244.503.9464x083,RPH-948853,Joann Sanders,Independent,2007-12-31,active,bronze
+OUT-0084,Williams-Jones Distributors,distributor,860 Mack Shore Apt. 793,Kimberlybury,South Carolina,United States,51491,+1-552-983-0615,RPH-538364,Carlos Curry,Walgreens,2018-11-11,closed,bronze
+OUT-0085,Jackson-Carter Clinic,clinic,2632 Davis Heights Suite 881,East Morgantown,Washington,United States,31899,942-317-5188,RPH-598338,Mr. Richard Kelly,Shoppers Drug Mart,2008-08-01,active,bronze
+OUT-0086,Gomez Group Pharmacy,pharmacy,409 Victoria Estates,West Ethan,Kentucky,United States,90879,+1-837-550-5661,RPH-644037,Marc Webb,MedPlus,2009-01-29,suspended,gold
+OUT-0087,"Adkins, Jones and Kaiser Pharmacy",pharmacy,787 Morris Land,North Benjamin,New York,United States,25153,9953055605,RPH-563010,Brendan Meyer,Apollo Pharmacy,2022-06-22,active,bronze
+OUT-0088,Watkins Group Hospital,hospital,851 Kristi Route Suite 348,Carterville,Missouri,United States,07698,624-662-4561x8517,RPH-613676,Alexander Mitchell,Costco Pharmacy,2015-03-29,active,bronze
+OUT-0089,Joseph and Sons Pharmacy,pharmacy,1145 Beasley Falls,New Lauren,Connecticut,United States,30846,6446881898,RPH-808870,Jamie Galvan,Guardian Pharmacy,2006-08-18,active,gold
+OUT-0090,Ellison-Fisher Clinic,clinic,0211 Daniel Neck Apt. 756,West Erikside,Utah,United States,32951,452-429-1073,RPH-727867,Samantha Fleming,Walmart Pharmacy,2015-02-27,closed,bronze
+OUT-0091,Mayo Inc Clinic,clinic,378 Brian Forest Suite 384,Derekshire,Utah,United States,54442,001-944-239-1649,RPH-417044,Jennifer Lee,Apollo Pharmacy,2023-01-22,active,gold
+OUT-0092,Vazquez-Ray Distributors,distributor,320 Whitney Summit,Lake Charlesfurt,Indiana,United States,17928,341.790.3106,RPH-467796,Charles Ramsey,Walgreens,2011-05-21,active,silver
+OUT-0093,Melton LLC Clinic,clinic,8473 Jamie Knoll Apt. 377,Samuelview,Connecticut,United States,00901,(672)400-7843x61424,RPH-269239,Adam Floyd,Walgreens,2012-04-11,active,bronze
+OUT-0094,"Brown, Gibson and Turner Distributors",distributor,3476 Martin Forges,Conwaytown,Ohio,United States,31227,+1-676-638-8214x5841,RPH-205453,Alicia Bradley,Walgreens,2021-09-13,active,silver
+OUT-0095,Allen LLC Hospital,hospital,89982 Madden Alley Apt. 058,Bradleytown,New Jersey,United States,63549,821.746.4493,RPH-463603,John Gonzalez,Boots Pharmacy,2019-05-07,active,bronze
+OUT-0096,Nguyen LLC Distributors,distributor,3857 Ryan Points Apt. 119,East Robert,Ohio,United States,06252,576.581.1872,RPH-368909,Brent Scott,MedPlus,2014-01-16,active,platinum
+OUT-0097,"Ortiz, Esparza and Day Pharmacy",pharmacy,15391 Linda Turnpike Apt. 074,Lake Katherine,Ohio,United States,96008,5736651189,RPH-355512,Michael Michael,Independent,2020-06-08,active,gold
+OUT-0098,Hawkins-Martin Clinic,clinic,904 George Estate,Lake Brandon,New York,United States,24014,433.224.7073,RPH-833372,Thomas Harris,Walmart Pharmacy,2021-12-27,active,gold
+OUT-0099,"Sherman, Juarez and Davenport Pharmacy",pharmacy,12760 Nicholas Place Apt. 611,East Charles,Oklahoma,United States,54902,763-924-8889,RPH-334906,Zachary Patel,Costco Pharmacy,2011-03-17,active,silver
+OUT-0100,"Lewis, Cole and Jackson Pharmacy",pharmacy,5493 James Hill Suite 871,Port Heatherton,Wisconsin,United States,30613,001-481-587-6920x8283,RPH-111130,Katie Lawson,MedPlus,2010-11-14,suspended,bronze
+OUT-0101,Allen PLC Pharmacy,pharmacy,8814 Rivera Dale,North Ronald,New York,United States,27410,(331)782-9716,RPH-134004,Michael Haney,Walmart Pharmacy,2013-01-13,suspended,silver
+OUT-0102,Johnson-Cannon Distributors,distributor,001 Martin Summit,North Haileyfort,California,United States,13380,685.609.0255x618,RPH-349814,Bradley Hess,MedPlus,2011-09-05,active,gold
+OUT-0103,"Barnett, Fernandez and Mitchell Pharmacy",pharmacy,24890 Gray Canyon,Mcdonaldton,Florida,United States,79040,6044365515,RPH-673124,Justin Young,CVS Health,2008-12-03,suspended,bronze
+OUT-0104,Salinas PLC Pharmacy,pharmacy,5054 Kristen Lane,New Jenniferfort,Pennsylvania,United States,07452,(433)369-9879x50982,RPH-528252,Robert Hebert,None,2005-06-05,closed,gold
+OUT-0105,King-Rice Distributors,distributor,4287 Gilmore Gateway,South Jennifer,New Jersey,United States,25101,616.843.2126x94289,RPH-822011,Alex Suarez,Shoppers Drug Mart,2023-11-06,active,gold
+OUT-0106,"Anderson, Bowen and Kirk Distributors",distributor,14417 Lynn Highway Suite 255,Michelleton,Arizona,United States,24957,(835)658-2430x1764,RPH-928467,Kayla Choi,MedPlus,2018-03-20,active,bronze
+OUT-0107,"Wagner, Hull and Ingram Hospital",hospital,3888 Maria Harbor,Jessicaberg,Maryland,United States,61538,+1-505-604-0433x335,RPH-766665,Sophia Martinez,Costco Pharmacy,2008-10-09,active,silver
+OUT-0108,"Walker, Thomas and Garcia Distributors",distributor,978 Griffith Turnpike,New Brandonborough,Missouri,United States,32101,001-213-873-2653,RPH-459072,Miranda Huber,Boots Pharmacy,2023-03-13,active,bronze
+OUT-0109,"Juarez, Crawford and Nixon Pharmacy",pharmacy,78688 Alex Ferry Apt. 009,West Kimberlyville,Pennsylvania,United States,72556,(698)603-6577,RPH-317910,Linda Horne,MedPlus,2020-02-27,active,silver
+OUT-0110,Rangel-Khan Pharmacy,pharmacy,5952 Charles Rapids,Port Davidhaven,South Carolina,United States,84293,001-494-818-4336x87509,RPH-525625,Robert Moore,Apollo Pharmacy,2023-10-03,active,gold
+OUT-0111,Obrien PLC Pharmacy,pharmacy,37455 Jones Glens,Lake Julieport,South Carolina,United States,17547,386.305.0537x66608,RPH-703469,Jessica Bradford,Shoppers Drug Mart,2014-07-24,active,gold
+OUT-0112,Acevedo Inc Pharmacy,pharmacy,6691 Paul Spur,Jonesborough,California,United States,13601,(434)855-0688,RPH-507955,Karina Boone,Shoppers Drug Mart,2016-08-18,active,gold
+OUT-0113,Hines-Schneider Hospital,hospital,384 Brady Canyon,East Kevinside,South Carolina,United States,01150,773.354.3788x26033,RPH-580355,Michael Hayes,Rite Aid,2018-06-27,suspended,bronze
+OUT-0114,"Smith, Short and Romero Clinic",clinic,4920 Braun Prairie,South Katelyn,Connecticut,United States,93059,001-996-399-6489,RPH-595363,Elizabeth Nichols,Kroger Pharmacy,2016-04-12,active,silver
+OUT-0115,Riley-Walsh Distributors,distributor,59140 Hudson Turnpike,East Pamela,Kentucky,United States,14703,(834)226-6980,RPH-982673,Kara Sanders MD,Guardian Pharmacy,2019-01-13,active,silver
+OUT-0116,Compton-Johnson Pharmacy,pharmacy,34838 Mark Shore Suite 382,Port Loriport,Virginia,United States,00903,(761)429-9650x826,RPH-555881,Derek Bowers,Walmart Pharmacy,2013-07-29,suspended,silver
+OUT-0117,Berry-Cooper Clinic,clinic,08761 Katie Valley,Ashleyville,Louisiana,United States,33522,646.282.3948,RPH-754448,Sandra Martin,Shoppers Drug Mart,2017-09-12,active,silver
+OUT-0118,Smith Ltd Pharmacy,pharmacy,661 Darryl Track Suite 831,Lake Jamesmouth,Arizona,United States,03841,3167809414,RPH-720684,Jason Thompson,Shoppers Drug Mart,2020-05-26,closed,gold
+OUT-0119,"Boyd, Wiggins and Avery Clinic",clinic,205 Dana Groves Apt. 777,Peterton,Oregon,United States,94127,926.862.9250x817,RPH-395072,Vicki Cunningham,Costco Pharmacy,2005-02-20,active,silver
+OUT-0120,"Jones, Strickland and Johnson Hospital",hospital,33373 Sharon Island Suite 235,Rodriguezside,Tennessee,United States,10875,803.521.1920x613,RPH-827184,Veronica Stewart,Walgreens,2021-10-01,active,gold
+OUT-0121,Simpson-Berry Clinic,clinic,1337 Patricia Plains Suite 449,Lake Susanshire,Connecticut,United States,42840,6262480164,RPH-495554,Daniel Wright,Guardian Pharmacy,2008-04-20,active,silver
+OUT-0122,Ross PLC Clinic,clinic,77822 Alexis Estates,South Patriciashire,Illinois,United States,70787,(713)948-6298,RPH-288512,Melissa Kim,None,2007-02-16,active,bronze
+OUT-0123,Delacruz-Hall Pharmacy,pharmacy,82856 Matthew Ports,Moyertown,Virginia,United States,65096,001-898-466-1770x673,RPH-736575,Alexis Duran,Guardian Pharmacy,2022-01-30,closed,platinum
+OUT-0124,Fernandez-Miller Pharmacy,pharmacy,35521 Shelton Shoals,Alexismouth,Tennessee,United States,71158,714.869.2182x192,RPH-484846,Nicole Friedman,Boots Pharmacy,2009-12-28,active,platinum
+OUT-0125,"Garza, Barton and Adams Pharmacy",pharmacy,984 Stephanie Crossroad Apt. 509,Lake Meagan,Colorado,United States,57274,001-394-684-2495x9881,RPH-789316,Mark Romero,Guardian Pharmacy,2012-01-29,active,gold
+OUT-0126,Dominguez Group Pharmacy,pharmacy,2386 Myers Flat,North Sarah,Pennsylvania,United States,59746,461-891-7798x768,RPH-501598,Michelle Moore,Boots Pharmacy,2013-07-29,active,gold
+OUT-0127,Flores PLC Clinic,clinic,0858 Raymond Ferry,West Brett,Wisconsin,United States,35802,2563695790,RPH-789267,Steven Thompson,Costco Pharmacy,2023-02-19,active,silver
+OUT-0128,"Cooper, Brooks and King Pharmacy",pharmacy,9632 Serrano Ridge Suite 232,Kristinebury,Illinois,United States,26003,+1-491-756-2415,RPH-268191,Tara Thompson,Boots Pharmacy,2007-04-11,closed,gold
+OUT-0129,Price-Schmitt Distributors,distributor,9335 Garcia Wall,New Jenniferstad,Minnesota,United States,48447,7789468509,RPH-381911,Donna Green,Boots Pharmacy,2006-10-02,active,gold
+OUT-0130,Lee Ltd Hospital,hospital,891 Robin Rapid,Martinborough,Pennsylvania,United States,68860,001-759-634-0153x641,RPH-132986,Gabriel Murphy,MedPlus,2014-02-01,active,silver
+OUT-0131,Robinson and Sons Clinic,clinic,367 John Meadow Suite 500,Stephanieberg,North Carolina,United States,91874,+1-914-210-5276x9819,RPH-960224,Sandy Todd,Apollo Pharmacy,2009-04-02,suspended,bronze
+OUT-0132,Nelson and Sons Distributors,distributor,885 Martin Dam,Angelachester,Utah,United States,55037,6594867874,RPH-369237,Michael Dixon,Rite Aid,2017-03-04,active,silver
+OUT-0133,"Barry, Ramirez and Chen Clinic",clinic,5942 Kevin Ridges Apt. 165,East Sarahtown,South Carolina,United States,05665,4243539313,RPH-710038,Sheena Jones,Guardian Pharmacy,2020-09-09,active,platinum
+OUT-0134,Nguyen Group Hospital,hospital,368 Evelyn Haven,Justinhaven,Illinois,United States,69286,+1-666-899-7273x677,RPH-678414,Aaron Diaz,Costco Pharmacy,2005-03-14,suspended,bronze
+OUT-0135,"Mercer, Padilla and Calhoun Hospital",hospital,18328 Jillian Field Apt. 239,Port Deanna,Washington,United States,82671,591-906-0183x6472,RPH-665699,Joseph Wang,Independent,2015-10-03,active,platinum
+OUT-0136,Stone-Miller Pharmacy,pharmacy,25775 Francis Lake Suite 726,Port Ashley,Louisiana,United States,04786,929-318-7683x16082,RPH-804902,Casey Bryant,Shoppers Drug Mart,2014-11-08,active,gold
+OUT-0137,Gonzalez Ltd Pharmacy,pharmacy,920 White Drives,Lake Robert,Oklahoma,United States,22939,465-591-4388,RPH-273229,Erika Cox,None,2012-06-14,suspended,bronze
+OUT-0138,Clarke PLC Clinic,clinic,8446 Tracy Rue,Mclaughlinfort,Arizona,United States,29188,(964)330-9544,RPH-702550,Jeremy Summers,Walmart Pharmacy,2022-07-22,active,bronze
+OUT-0139,"Gonzales, Lopez and Thompson Distributors",distributor,05397 Higgins Forest,Zimmermanmouth,Pennsylvania,United States,18625,001-788-832-2012,RPH-169562,Molly Brown,Walmart Pharmacy,2010-01-08,active,silver
+OUT-0140,Thompson Inc Pharmacy,pharmacy,797 Bailey Fords Suite 852,Lake Amanda,Oklahoma,United States,08480,001-303-704-4361x99517,RPH-974178,Carla Clark,MedPlus,2005-03-05,suspended,gold
+OUT-0141,"Duncan, Mcfarland and Davis Hospital",hospital,929 Beck Course,Jamesview,Maryland,United States,86189,001-983-309-3096x7139,RPH-802708,Ashley Sanders,Walmart Pharmacy,2007-04-04,active,silver
+OUT-0142,"Hernandez, Hernandez and Clark Distributors",distributor,767 Brian Rest,North Danielfurt,Colorado,United States,14198,(920)519-0725,RPH-303072,Marcus Blair,Shoppers Drug Mart,2020-10-05,suspended,platinum
+OUT-0143,Carter and Sons Distributors,distributor,5380 Stanley Wells Suite 812,Gregoryland,Virginia,United States,37784,4864825095,RPH-125457,Jaime Smith,MedPlus,2006-10-09,closed,platinum
+OUT-0144,"Lee, Bradford and Vang Distributors",distributor,610 Jennifer Port Suite 297,Port Coltonmouth,Colorado,United States,16052,(843)665-8585,RPH-713735,Bianca Mathis,Shoppers Drug Mart,2013-10-08,closed,gold
+OUT-0145,David-Beasley Hospital,hospital,27061 Mendez Neck,New Troy,Tennessee,United States,08405,(299)807-1669,RPH-293052,Cameron Campbell,None,2009-11-27,active,bronze
+OUT-0146,"Landry, Rodriguez and Flores Distributors",distributor,034 John Crossing,New Michaelfurt,Ohio,United States,65563,001-775-764-9157,RPH-684559,Ryan Bautista,None,2008-05-12,closed,platinum
+OUT-0147,Mendoza-Rodriguez Pharmacy,pharmacy,6010 Kayla Union Apt. 030,Spencerville,New York,United States,59395,(941)372-6808x0815,RPH-125432,Andre Cortez,Rite Aid,2016-09-25,active,silver
+OUT-0148,Bush-Ford Distributors,distributor,067 John Mountain,West Christopher,Illinois,United States,06766,858-447-4362x1300,RPH-924855,Scott Rhodes,None,2012-10-06,active,gold
+OUT-0149,Simmons-Jordan Distributors,distributor,0318 Matthew Skyway Apt. 962,Weekschester,Kentucky,United States,52094,(821)859-1832x70004,RPH-483920,Eric Rivera,Apollo Pharmacy,2013-11-22,active,bronze
+OUT-0150,"Johnson, Jones and Wilson Distributors",distributor,771 Johnson Summit Suite 938,Port Jenniferview,North Carolina,United States,75758,2536152049,RPH-288490,Linda Crawford,Boots Pharmacy,2021-05-29,active,gold
+OUT-0151,Logan-Rice Clinic,clinic,313 Garza Spur Apt. 669,Curtisfurt,Colorado,United States,13552,(537)540-7794,RPH-732172,Pamela Kim,Apollo Pharmacy,2010-04-26,active,platinum
+OUT-0152,Mclaughlin PLC Clinic,clinic,919 Roman Cliff Suite 262,East Tannerhaven,New Jersey,United States,60891,+1-321-316-0204,RPH-332121,Michael Potter,Rite Aid,2005-05-02,closed,gold
+OUT-0153,"Palmer, Gordon and Kaiser Hospital",hospital,11708 Reilly Pass Apt. 186,Kevinberg,Oregon,United States,21566,001-417-258-8397x85708,RPH-731584,Debbie Williams,Walmart Pharmacy,2021-01-10,active,silver
+OUT-0154,Flores-Estrada Pharmacy,pharmacy,69149 Davis Rue,East Williamfort,New York,United States,88888,001-842-996-8827,RPH-789716,Amber Williams,LloydsPharmacy,2011-09-22,closed,silver
+OUT-0155,Perez-Wilson Hospital,hospital,615 Williams Plaza,East Tony,Massachusetts,United States,88868,001-688-235-6517x962,RPH-396025,Tammy Miles,Pharmasave,2019-01-15,active,silver
+OUT-0156,Conley-Bennett Clinic,clinic,496 Joseph Pass,Edwardmouth,Connecticut,United States,02023,(585)816-2259,RPH-975202,Joshua Smith,Costco Pharmacy,2010-06-05,closed,platinum
+OUT-0157,"Choi, Osborne and Adams Hospital",hospital,839 Nicole Dam Suite 672,Guzmanland,Connecticut,United States,56195,5917141319,RPH-885080,Victoria Bowman,Walmart Pharmacy,2006-04-10,active,platinum
+OUT-0158,Lutz and Sons Hospital,hospital,33760 Lopez Gateway Apt. 458,South Martintown,Minnesota,United States,22203,(544)672-4191x650,RPH-450778,Richard Butler,Apollo Pharmacy,2005-06-04,active,bronze
+OUT-0159,Harrison Ltd Pharmacy,pharmacy,182 Wheeler Ports Apt. 880,Murrayside,Maryland,United States,19566,741-474-6813,RPH-267255,Lori Valentine,LloydsPharmacy,2023-05-29,suspended,silver
+OUT-0160,"Henderson, Alvarado and Williamson Pharmacy",pharmacy,969 Collins Parkways,Bradleyland,New Jersey,United States,43404,594-850-1192x92075,RPH-712446,Amanda Wilson,Guardian Pharmacy,2020-01-22,active,silver
+OUT-0161,Miller-Vega Distributors,distributor,98863 Edwards Loop,North Xavier,Virginia,United States,34567,659-406-7000x99424,RPH-901910,Thomas Lutz,Pharmasave,2007-03-28,active,gold
+OUT-0162,"Grimes, Floyd and Yang Pharmacy",pharmacy,7605 Baker Bridge Suite 565,Avilamouth,Connecticut,United States,70954,2978453389,RPH-624787,Scott Wood,Independent,2023-07-29,active,platinum
+OUT-0163,Liu-Logan Pharmacy,pharmacy,5401 Chen Rapids,Jeremyton,Virginia,United States,01701,001-962-621-2242x767,RPH-405397,Phillip Austin,Rite Aid,2006-08-01,active,silver
+OUT-0164,Johnson-Miller Pharmacy,pharmacy,115 Ferguson Path Suite 008,North Thomashaven,New Jersey,United States,52416,978.423.1299x5704,RPH-123311,Jennifer Baker MD,MedPlus,2022-01-30,active,gold
+OUT-0165,Jones-Cross Hospital,hospital,38437 Perez Key,Delacruzside,Washington,United States,06804,585.725.4824x218,RPH-187905,Heidi Goodwin,Independent,2013-08-06,closed,gold
+OUT-0166,Williams-Lowe Pharmacy,pharmacy,4547 Singh Ways Apt. 112,East Sarah,Florida,United States,59149,989-479-1776x3342,RPH-790859,Sean Peters,Apollo Pharmacy,2014-05-11,suspended,platinum
+OUT-0167,Cohen-Weiss Pharmacy,pharmacy,0801 Rivers Views Apt. 453,South Chelseabury,Pennsylvania,United States,43099,001-388-824-9353x4001,RPH-631982,Jonathan Palmer,Rite Aid,2009-03-24,closed,silver
+OUT-0168,Kirby LLC Pharmacy,pharmacy,4454 Simmons Views,Port Amanda,Tennessee,United States,47900,001-317-499-3781x053,RPH-607969,Toni Hunt,Apollo Pharmacy,2007-09-12,active,silver
+OUT-0169,Sawyer-Moss Clinic,clinic,882 Kevin Island Suite 927,West Maryberg,Missouri,United States,33766,(530)919-8642x4238,RPH-364586,David Bradley,Pharmasave,2009-12-06,active,gold
+OUT-0170,Hernandez Inc Clinic,clinic,62932 Jennifer Point Apt. 221,Port Darylburgh,Missouri,United States,30650,(300)218-6766,RPH-324372,Katie Welch,None,2008-06-13,active,silver
+OUT-0171,"Parrish, Gillespie and Rhodes Clinic",clinic,08143 Reyes Course Suite 038,Sarahbury,Virginia,United States,84538,598-707-4682,RPH-500740,Sean Chapman,Pharmasave,2014-01-13,closed,gold
+OUT-0172,"Tyler, Johnson and Gonzalez Pharmacy",pharmacy,6205 Harding Summit,Kimland,Illinois,United States,43939,2068666411,RPH-424659,Elizabeth Miller,Shoppers Drug Mart,2017-07-29,active,silver
+OUT-0173,Padilla and Sons Hospital,hospital,78516 Barton Mountains Apt. 890,Kendraborough,Florida,United States,56848,(983)248-2689x99626,RPH-840237,Kimberly Grant,Boots Pharmacy,2007-10-16,active,silver
+OUT-0174,"Hurst, Knight and Kennedy Hospital",hospital,150 Pratt Meadow Apt. 571,Mosleytown,Virginia,United States,91361,+1-432-801-2657x898,RPH-855361,William Tran,Kroger Pharmacy,2011-04-10,active,bronze
+OUT-0175,Juarez PLC Pharmacy,pharmacy,17558 Mata Crest Suite 774,Lake Juliefort,Washington,United States,39402,(492)811-8824x1996,RPH-218541,Christopher Morrison,Apollo Pharmacy,2013-04-10,active,silver
+OUT-0176,Cook-Matthews Distributors,distributor,45421 Becker Landing Suite 056,North Megan,Maryland,United States,19052,(557)709-0016,RPH-985915,Trevor Stevens,Walmart Pharmacy,2017-01-22,suspended,silver
+OUT-0177,Wilcox LLC Pharmacy,pharmacy,82895 Smith Corners Suite 882,Lake Jose,Texas,United States,59827,912.361.6850,RPH-899043,Gregory Hart,Walgreens,2020-07-04,active,gold
+OUT-0178,"Mullins, Brown and Wilson Pharmacy",pharmacy,92711 Lopez Common Apt. 537,Port Ashleyborough,North Carolina,United States,06248,6713695007,RPH-553895,Laura Collins,MedPlus,2009-10-25,active,silver
+OUT-0179,"Murphy, Carter and Cochran Clinic",clinic,876 Michelle Loop,Davidview,Wisconsin,United States,37073,316.219.8273x4813,RPH-298883,Andrew Bell,MedPlus,2011-01-08,closed,gold
+OUT-0180,"Beck, Powell and Cohen Distributors",distributor,4357 Warren View,West Monica,Alabama,United States,20343,(680)664-8606x73983,RPH-600392,Kathy Payne,LloydsPharmacy,2021-07-03,closed,silver
+OUT-0181,Stewart and Sons Hospital,hospital,462 Mark Center Suite 740,Wardmouth,Wisconsin,United States,46695,256-723-9209,RPH-477722,Erika Williams,Pharmasave,2005-04-23,suspended,silver
+OUT-0182,"Graves, Cross and Wade Distributors",distributor,11178 Davis Spur,East Markport,Georgia,United States,92796,360.422.0695x354,RPH-497644,Dr. Mary White DVM,Kroger Pharmacy,2019-09-18,active,bronze
+OUT-0183,"Howard, Hayden and Smith Pharmacy",pharmacy,015 Matthew Wall Apt. 594,Schultzmouth,New York,United States,04694,740.771.7327x980,RPH-602659,Susan Estrada,Kroger Pharmacy,2005-03-05,suspended,bronze
+OUT-0184,Williams Group Clinic,clinic,934 James Prairie Apt. 045,North Natalie,Arizona,United States,56653,3895411849,RPH-292283,Gabrielle Gilbert DVM,Rite Aid,2013-06-29,active,bronze
+OUT-0185,"Howard, Wolf and Sanchez Pharmacy",pharmacy,952 Michael Cliffs Apt. 067,Lake Andrewshire,Maryland,United States,56661,+1-501-986-7740,RPH-871361,Melissa Martinez,Pharmasave,2020-05-06,suspended,gold
+OUT-0186,Bates PLC Hospital,hospital,9530 Philip Mount Suite 255,East Ethanstad,New York,United States,01949,673-365-4262,RPH-844980,David Perkins,Shoppers Drug Mart,2013-12-07,active,platinum
+OUT-0187,"Lopez, Valentine and Park Distributors",distributor,34511 Jo Bypass,Lake Pattychester,Alabama,United States,89206,5532088684,RPH-178347,Steven Davis,None,2021-11-27,closed,bronze
+OUT-0188,Wallace-Norton Distributors,distributor,5759 Morris Port,North George,Utah,United States,97094,001-464-226-0336,RPH-677242,Brenda Wood,None,2019-02-26,closed,platinum
+OUT-0189,"Lopez, Scott and Lucero Pharmacy",pharmacy,920 Wilson Unions,Meaganbury,Wisconsin,United States,94046,001-980-223-6219x21581,RPH-318378,Krystal Hamilton,Guardian Pharmacy,2007-09-30,closed,bronze
+OUT-0190,Gordon and Sons Pharmacy,pharmacy,8819 Carroll Mountain Suite 216,Lake Brentmouth,Tennessee,United States,31477,689.731.8692x8972,RPH-667262,Emily Brown,Boots Pharmacy,2019-07-11,active,platinum
+OUT-0191,Cowan and Sons Clinic,clinic,720 Gregory Forest,Amandabury,South Carolina,United States,18231,+1-820-741-4474x32811,RPH-362590,Michelle Haynes,Guardian Pharmacy,2017-03-08,active,silver
+OUT-0192,"Martinez, Burton and Smith Pharmacy",pharmacy,304 Jeffery Curve,Lake Scott,Arizona,United States,47578,(813)753-0281,RPH-693652,Jennifer Foster,Rite Aid,2011-11-10,closed,gold
+OUT-0193,Fleming Inc Pharmacy,pharmacy,937 Stevens Locks Apt. 983,Port Chad,Wisconsin,United States,03504,+1-529-316-1746x9029,RPH-814547,Alyssa Wright,Pharmasave,2006-11-10,active,gold
+OUT-0194,"Weaver, Hill and Harvey Pharmacy",pharmacy,29131 Tucker Parkway Apt. 568,Tanyachester,Michigan,United States,52045,206.636.2198x655,RPH-848927,Peggy Logan,CVS Health,2022-10-27,active,gold
+OUT-0195,Douglas-Alexander Clinic,clinic,3493 Ashley Key Apt. 496,South James,Michigan,United States,22644,(726)611-4243x6258,RPH-639085,Ashley Robertson,LloydsPharmacy,2012-01-27,suspended,silver
+OUT-0196,"Fields, Friedman and Ferguson Clinic",clinic,919 Hernandez Garden Suite 199,Bakerborough,Florida,United States,73862,532-247-2505x83334,RPH-262333,Cynthia Miller,Shoppers Drug Mart,2022-07-26,active,silver
+OUT-0197,Charles-Rice Pharmacy,pharmacy,54576 Porter Underpass Suite 694,Staceystad,Massachusetts,United States,31948,(459)374-6698x61634,RPH-774728,Dustin Johnson,Kroger Pharmacy,2022-09-23,active,bronze
+OUT-0198,"Odonnell, Armstrong and Schaefer Pharmacy",pharmacy,152 Carlson Islands Suite 966,Meganburgh,Alabama,United States,15291,607.442.3591,RPH-815926,Timothy Mitchell,CVS Health,2014-08-24,active,silver
+OUT-0199,"Mckay, Curtis and Silva Clinic",clinic,61454 Jennifer Centers,Knightbury,Michigan,United States,86718,001-373-710-0817x85221,RPH-580783,Jillian Hendricks,Costco Pharmacy,2011-08-24,active,silver
+OUT-0200,"Campbell, Moore and Cox Hospital",hospital,268 Green Vista Suite 017,Lake Tammie,Tennessee,United States,85449,+1-708-865-2377x72966,RPH-530862,John Rodriguez,CVS Health,2017-08-18,active,platinum
+OUT-0201,Brewer Inc Pharmacy,pharmacy,78105 Banks Shoals Apt. 002,Gatesburgh,Virginia,United States,96116,(214)625-7316,RPH-122493,Kenneth Conner,Walmart Pharmacy,2017-06-07,active,silver
+OUT-0202,Hines PLC Pharmacy,pharmacy,2031 Nicholas Key,Jennahaven,Louisiana,United States,51719,(709)729-7352,RPH-303031,Shannon Vega,Apollo Pharmacy,2014-06-28,active,silver
+OUT-0203,Hernandez and Sons Distributors,distributor,93899 Aaron Lakes Suite 353,East Rodney,New Jersey,United States,11918,950.376.1087x08269,RPH-532487,Renee Gallegos,Walmart Pharmacy,2021-09-06,suspended,platinum
+OUT-0204,James Inc Clinic,clinic,1261 Newman View,New Erica,Michigan,United States,83354,(517)764-8467,RPH-943504,Dennis Thomas,Costco Pharmacy,2007-04-18,active,bronze
+OUT-0205,Hendrix and Sons Hospital,hospital,80194 Osborn Key,Lake Lisa,Louisiana,United States,90328,+1-822-556-0629x5350,RPH-790433,Madison Bowen,MedPlus,2012-11-13,active,bronze
+OUT-0206,Jones Ltd Distributors,distributor,046 Hill Views,North Todd,Maryland,United States,41822,584.818.5201,RPH-667077,Matthew Hicks,Shoppers Drug Mart,2017-05-05,active,silver
+OUT-0207,Beck-Perez Clinic,clinic,561 Cross Turnpike Suite 055,Ashleyburgh,Arizona,United States,82579,+1-315-816-4119x55640,RPH-253855,Christine Morris,Walgreens,2010-10-24,active,bronze
+OUT-0208,"Crawford, Ballard and Brown Clinic",clinic,04262 Charles Way,Davisland,New Jersey,United States,20118,213-993-6967x8976,RPH-178164,Christopher Henry,Independent,2008-03-30,active,bronze
+OUT-0209,Hall-Yates Pharmacy,pharmacy,76075 Wong Manor,Johnborough,Florida,United States,83202,+1-794-431-9165x43089,RPH-993499,Charles Moore,Pharmasave,2011-07-21,active,bronze
+OUT-0210,"Jones, Wilkinson and Hampton Pharmacy",pharmacy,4497 Castillo Station Apt. 026,Fosterport,Washington,United States,71903,+1-767-864-9797x41636,RPH-116432,Amanda Hodge,Walmart Pharmacy,2006-09-06,active,gold
+OUT-0211,Johnson and Sons Pharmacy,pharmacy,3730 Proctor Port Suite 927,Millershire,Kentucky,United States,85707,(429)763-5305x970,RPH-108313,Christopher Martin,Rite Aid,2012-06-15,active,gold
+OUT-0212,Craig-Simmons Distributors,distributor,59489 Carr Keys,Robertchester,Maryland,United States,33008,554-543-4414x9169,RPH-275272,Theresa Green,Pharmasave,2020-12-20,closed,bronze
+OUT-0213,"Hayes, Perez and Ibarra Hospital",hospital,0882 Jeffrey Ramp Suite 862,Cummingsborough,Oregon,United States,75948,+1-488-394-1321x09720,RPH-558890,Pamela Mendoza,Guardian Pharmacy,2005-06-18,closed,bronze
+OUT-0214,Lam-Stone Pharmacy,pharmacy,6557 Michele Crossroad,East Alejandroport,Kentucky,United States,36957,001-264-261-2939,RPH-302641,Omar Kelly,Shoppers Drug Mart,2009-12-15,active,gold
+OUT-0215,Maxwell and Sons Hospital,hospital,6589 Lee Prairie Suite 708,Arellanoland,Kentucky,United States,75692,+1-531-345-8434x566,RPH-266939,Timothy Pierce,Walgreens,2016-04-17,suspended,silver
+OUT-0216,Dyer LLC Clinic,clinic,62203 Kyle Highway,West Richard,North Carolina,United States,86487,204-237-9686,RPH-498293,Stephanie Herring,CVS Health,2009-10-29,active,silver
+OUT-0217,Page-Prince Hospital,hospital,9021 Kim Heights Apt. 743,West Jaredmouth,Connecticut,United States,08161,(638)850-2289,RPH-301618,Christopher Walton,Rite Aid,2023-05-27,closed,gold
+OUT-0218,"Wiggins, Nielsen and Moore Pharmacy",pharmacy,82930 Allen Isle,Berryville,Indiana,United States,28750,903.303.3467,RPH-500229,Barbara Santana,Kroger Pharmacy,2013-12-26,closed,gold
+OUT-0219,Diaz-Cabrera Hospital,hospital,2799 Potter Island Apt. 024,Jasonland,Utah,United States,23181,698.447.2303,RPH-204269,Joshua Ellis,Apollo Pharmacy,2011-11-28,suspended,silver
+OUT-0220,"Pacheco, Robles and Lowery Clinic",clinic,72224 Nicole Centers,Olsenchester,Arizona,United States,34441,+1-287-817-7546x19924,RPH-702483,Joshua Herrera,Costco Pharmacy,2005-10-19,suspended,silver
+OUT-0221,Moore-Byrd Pharmacy,pharmacy,8122 George Unions,Paulside,Missouri,United States,37430,001-348-423-7337x912,RPH-421325,William Wilson,Pharmasave,2012-08-24,active,platinum
+OUT-0222,Church-Williams Clinic,clinic,869 Elizabeth Cliffs Suite 074,Port Crystalbury,Louisiana,United States,78916,(751)399-9452,RPH-417330,Christopher Thomas MD,Walmart Pharmacy,2023-09-15,active,silver
+OUT-0223,Goodman-Wright Pharmacy,pharmacy,20542 Daniel Fall Suite 549,Hornborough,Massachusetts,United States,26099,001-908-733-4447x0488,RPH-427560,John Brock,Walmart Pharmacy,2017-04-10,active,silver
+OUT-0224,Dalton PLC Hospital,hospital,519 Lopez Springs Suite 749,South Ronald,California,United States,86737,929.956.3427,RPH-108995,Christopher Barr,LloydsPharmacy,2012-09-22,active,silver
+OUT-0225,"Hernandez, Barnes and Blackwell Pharmacy",pharmacy,129 Anthony Land Apt. 294,North Marcuschester,Texas,United States,29122,5299559636,RPH-904459,Robin Brewer,Kroger Pharmacy,2006-09-08,suspended,silver
+OUT-0226,Serrano Ltd Clinic,clinic,206 Jones Shore Suite 980,Coltonborough,Pennsylvania,United States,95377,438-300-4983,RPH-449744,Angela Jefferson,LloydsPharmacy,2022-11-18,suspended,silver
+OUT-0227,Herring and Sons Hospital,hospital,4815 Molly Plains,Nicholsfurt,Louisiana,United States,39554,2198185488,RPH-414412,Eric Anderson,Shoppers Drug Mart,2016-06-18,active,silver
+OUT-0228,"Smith, Norton and Thompson Pharmacy",pharmacy,8735 Parsons Loaf Suite 464,New Ryanberg,Wisconsin,United States,29036,321-292-6221x3204,RPH-148012,Logan Patel,Costco Pharmacy,2016-10-30,suspended,gold
+OUT-0229,Campbell Group Distributors,distributor,79726 Johnston Pine,Lake Eugeneborough,Indiana,United States,15036,001-780-503-6660x2000,RPH-473725,Kimberly Lee,Walmart Pharmacy,2015-07-07,active,silver
+OUT-0230,Lopez-Davis Distributors,distributor,052 Sanchez Pines Apt. 805,South Megan,Louisiana,United States,81234,(499)900-7686,RPH-490680,Taylor Hodge,Boots Pharmacy,2005-11-07,active,bronze
+OUT-0231,Anthony and Sons Pharmacy,pharmacy,337 Mccullough Corner Suite 186,South Spencer,Tennessee,United States,32984,(384)510-1328x23392,RPH-766684,Cody Mclaughlin,Kroger Pharmacy,2016-12-04,suspended,gold
+OUT-0232,"Chase, Rice and Nguyen Clinic",clinic,7761 Roberto Roads,Margaretburgh,Maryland,United States,01323,+1-388-914-3192x7976,RPH-558723,Melissa Gomez,CVS Health,2022-04-02,active,gold
+OUT-0233,"Barnes, Castaneda and Day Pharmacy",pharmacy,7202 Bennett Square Suite 862,Baileyville,New York,United States,18636,873-249-8992x55394,RPH-889926,Nancy Tanner,Kroger Pharmacy,2014-06-17,closed,platinum
+OUT-0234,"Hensley, Johnson and Adams Clinic",clinic,96694 Kathy Ports Suite 708,New Kimberlymouth,Michigan,United States,40739,+1-674-385-9946x41839,RPH-131272,David Combs,Costco Pharmacy,2010-11-25,active,silver
+OUT-0235,"Acevedo, Cooper and Ross Clinic",clinic,4980 Roberts Branch,Lake Danielle,Oklahoma,United States,52208,2528102627,RPH-235847,Juan Winters,Costco Pharmacy,2007-07-29,closed,silver
+OUT-0236,Larsen and Sons Pharmacy,pharmacy,458 Kayla Alley Apt. 057,Elizabethside,Louisiana,United States,72730,599.274.1856,RPH-110963,Tyler Kramer,CVS Health,2012-03-02,closed,bronze
+OUT-0237,Williams and Sons Hospital,hospital,566 Brittany Ways,Deannatown,Illinois,United States,47350,(241)984-9378x4679,RPH-939118,Susan Valdez,Shoppers Drug Mart,2014-11-14,active,silver
+OUT-0238,"Kennedy, Perry and Day Distributors",distributor,13651 Jerry Hill,Stephanieview,Pennsylvania,United States,17740,+1-690-267-4568x652,RPH-571955,Richard Martinez,Costco Pharmacy,2012-10-28,active,bronze
+OUT-0239,Kent-Carr Pharmacy,pharmacy,2562 Sheila Falls Apt. 905,East Sarah,Georgia,United States,85372,+1-547-804-7476x48455,RPH-875470,Brent Holloway,Pharmasave,2020-08-06,closed,gold
+OUT-0240,Ferguson LLC Pharmacy,pharmacy,1245 Robinson Expressway,North Joycefurt,Massachusetts,United States,17242,+1-521-717-3277x26488,RPH-856792,Michelle Morris,Costco Pharmacy,2009-01-14,suspended,silver
+OUT-0241,Jackson-Silva Clinic,clinic,52516 Tiffany Islands Suite 591,Jonesmouth,Wisconsin,United States,07346,505.749.1477x44735,RPH-475907,Elizabeth Russo,Apollo Pharmacy,2014-10-03,active,bronze
+OUT-0242,"Paul, Oconnor and Rodriguez Pharmacy",pharmacy,59497 Jordan Vista Apt. 053,Dixontown,New Jersey,United States,29631,418.836.1133,RPH-705319,Kayla Hunter,Independent,2021-04-28,suspended,silver
+OUT-0243,Burnett PLC Clinic,clinic,2787 Alec Views,Whiteland,Florida,United States,41586,(917)246-5353,RPH-463887,Justin Rodriguez,Walgreens,2006-06-25,suspended,platinum
+OUT-0244,Jennings-Lopez Pharmacy,pharmacy,7177 Mahoney Ramp Suite 914,East Lisa,Texas,United States,18399,001-299-246-6450,RPH-253789,Joseph Spencer,Rite Aid,2013-10-05,suspended,bronze
+OUT-0245,Perez-Smith Distributors,distributor,521 Amber Lodge,Rebeccaburgh,Georgia,United States,85770,764-988-4997x9572,RPH-125298,Michael Bailey,None,2021-05-23,active,silver
+OUT-0246,"Martinez, Holmes and Rodriguez Clinic",clinic,21797 Lori Hills,Lake Charlene,Minnesota,United States,59726,370-659-8445,RPH-916407,Christine Crawford,MedPlus,2018-01-22,suspended,gold
+OUT-0247,Mills Group Pharmacy,pharmacy,23038 Walton Vista,Port Christopherbury,Georgia,United States,80422,981.245.9009x9217,RPH-296136,Charles Hensley,LloydsPharmacy,2014-07-08,active,gold
+OUT-0248,Richards-Walker Clinic,clinic,58807 Kayla Skyway Suite 326,Lake Julieville,Georgia,United States,75955,691.403.8297,RPH-434237,Emily Martinez,Independent,2016-01-16,suspended,bronze
+OUT-0249,"Simmons, Berry and Vaughn Pharmacy",pharmacy,181 Justin Circle Apt. 437,South Chad,Indiana,United States,45491,001-887-536-6271x358,RPH-983579,David Montgomery,None,2023-10-20,active,gold
+OUT-0250,"Smith, Cook and Morris Pharmacy",pharmacy,54731 Valencia View Suite 397,West Michael,New Jersey,United States,15664,564-936-9028,RPH-219663,Mr. Scott Stephens,Independent,2021-10-02,active,gold
+OUT-0251,Barajas-Santos Hospital,hospital,53428 Nicholas Glens Suite 161,North Cindymouth,Colorado,United States,42880,+1-235-484-6405x1038,RPH-559542,Daniel Baker MD,MedPlus,2012-10-29,active,bronze
+OUT-0252,Henderson PLC Hospital,hospital,4471 Brittany Underpass,North Barbara,Connecticut,United States,75884,4676649092,RPH-654400,Katrina Hubbard,Guardian Pharmacy,2008-01-23,active,gold
+OUT-0253,Webster-Bell Distributors,distributor,8727 Shawn Flat,Lake Tammyside,Tennessee,United States,73894,316-940-3439,RPH-270192,John Pearson,Walmart Pharmacy,2021-12-22,active,silver
+OUT-0254,Nixon-Walker Pharmacy,pharmacy,64770 Davis Stravenue,New Alexanderville,New Jersey,United States,46259,786.602.8262,RPH-294902,Tracy Bradshaw,Apollo Pharmacy,2005-09-16,suspended,bronze
+OUT-0255,Rios and Sons Clinic,clinic,90577 Adrian Trace,Carlton,Maryland,United States,93205,001-379-241-9324x538,RPH-970699,Michelle Collins,LloydsPharmacy,2009-03-31,active,silver
+OUT-0256,"Mclean, Thomas and Hill Distributors",distributor,98726 Glenn Ports Suite 322,Christianfort,Massachusetts,United States,39632,(324)204-3261,RPH-923590,Eric Fox,None,2005-04-18,active,silver
+OUT-0257,Watts and Sons Pharmacy,pharmacy,0286 Benson Extension,East Kimberlyton,Oklahoma,United States,78430,736-962-1953x68900,RPH-923690,Erik Brown,None,2019-12-23,suspended,bronze
+OUT-0258,Sanchez-Cook Pharmacy,pharmacy,73971 Karen Bypass,Jacksonland,Pennsylvania,United States,14808,986.490.8716,RPH-363972,Alexander Colon,Boots Pharmacy,2010-09-28,active,platinum
+OUT-0259,Berg-Mckinney Pharmacy,pharmacy,617 Ashley Plaza Apt. 707,Kirkchester,South Carolina,United States,07551,(834)242-2521,RPH-731129,Christopher Pruitt,Rite Aid,2008-02-22,active,gold
+OUT-0260,Campos-Thomas Clinic,clinic,447 Ware Lane,East Emilychester,Florida,United States,84590,+1-255-413-2761x7948,RPH-423699,Gregory Holt,Apollo Pharmacy,2007-12-04,active,bronze
+OUT-0261,"Fernandez, Rodriguez and Johnson Clinic",clinic,91589 George Meadows,Holderport,Connecticut,United States,96512,+1-886-247-8686x237,RPH-692298,Kathryn Adams,Kroger Pharmacy,2015-09-22,closed,gold
+OUT-0262,Green-Dixon Clinic,clinic,8191 Travis River,North Samuel,Washington,United States,06217,7695836923,RPH-794676,Derrick Kim,Walmart Pharmacy,2005-06-20,suspended,bronze
+OUT-0263,Blackburn-Williams Hospital,hospital,39865 Reynolds Drive,East Cameronburgh,Texas,United States,26623,001-872-505-5033x0000,RPH-136937,Natasha Mcknight,None,2015-03-30,active,gold
+OUT-0264,Allen-Rodriguez Pharmacy,pharmacy,88991 Johnny Lodge,North Bethanyland,Arizona,United States,50895,001-923-227-3798,RPH-410784,Joshua Quinn,Costco Pharmacy,2022-11-04,active,bronze
+OUT-0265,Daniels-Kirby Distributors,distributor,674 Sanchez Causeway,New Lisashire,Massachusetts,United States,68009,733-361-1371x181,RPH-966480,Kristi Wood,Boots Pharmacy,2022-09-06,active,gold
+OUT-0266,Rivera-Thomas Distributors,distributor,03401 Harris Track Apt. 466,South Marcshire,North Carolina,United States,80089,+1-444-694-6672x010,RPH-844462,Michelle Patrick,Walgreens,2014-05-13,active,bronze
+OUT-0267,"Carrillo, Kent and Barker Pharmacy",pharmacy,38794 Edward Lock,North Alyssa,Kentucky,United States,66141,874-652-7353,RPH-260440,Timothy Cooper,Shoppers Drug Mart,2011-11-30,closed,gold
+OUT-0268,Smith-Phillips Hospital,hospital,182 Rodriguez Crescent,Maysburgh,South Carolina,United States,83279,659-804-6100x79230,RPH-259160,Anthony Anderson,Kroger Pharmacy,2008-01-14,closed,silver
+OUT-0269,Boyd Group Pharmacy,pharmacy,12329 Jones Corners,North Diana,Utah,United States,35168,+1-650-876-6534,RPH-350469,Tracy Torres,Apollo Pharmacy,2021-04-04,active,silver
+OUT-0270,English Group Pharmacy,pharmacy,46019 Mason Avenue Suite 734,Bruceview,Illinois,United States,31286,(986)417-6822x512,RPH-504286,William Hicks,Costco Pharmacy,2005-10-30,active,bronze
+OUT-0271,Padilla-Hughes Hospital,hospital,622 Terrell Road Suite 687,Kristyport,Michigan,United States,62538,612.990.3500x618,RPH-143366,Valerie Martinez MD,Independent,2012-10-20,active,gold
+OUT-0272,Cain-Parker Pharmacy,pharmacy,668 Stacey Drive Apt. 564,Frankview,New Jersey,United States,75845,(906)544-1119,RPH-461664,Angela Thomas,Pharmasave,2016-05-04,active,gold
+OUT-0273,Smith Ltd Distributors,distributor,43594 Jennifer Pines Suite 968,South Richardtown,Massachusetts,United States,46024,610-321-2543,RPH-279066,Charlotte Roy,Independent,2012-04-20,active,bronze
+OUT-0274,Erickson Inc Pharmacy,pharmacy,860 Tyler Courts Suite 003,North Yvonne,South Carolina,United States,26930,397-689-9901,RPH-564199,Adam Evans,Rite Aid,2005-06-28,active,silver
+OUT-0275,Li-Allen Hospital,hospital,197 Williams Summit Apt. 625,Lake Williamville,Oregon,United States,76763,+1-747-485-5011x3753,RPH-226177,Alison Livingston,None,2015-01-31,suspended,bronze
+OUT-0276,"Rice, Camacho and Wallace Pharmacy",pharmacy,2790 Taylor Mall,South Anthonyhaven,Indiana,United States,15058,001-597-922-3996x47718,RPH-528943,Darrell West,Walmart Pharmacy,2019-06-14,active,platinum
+OUT-0277,Castro-Rodriguez Pharmacy,pharmacy,48085 Owens Parkway,North Geoffreyview,Arizona,United States,88205,832-736-2216x9069,RPH-198792,Debbie Estrada,Walmart Pharmacy,2023-12-14,active,bronze
+OUT-0278,Price Group Pharmacy,pharmacy,69139 Terry Wells Apt. 150,Port Richardport,Utah,United States,19531,(510)370-3350x8424,RPH-439704,Sharon Lane,Rite Aid,2023-08-01,active,gold
+OUT-0279,Weaver-Carter Distributors,distributor,00416 Lisa Island,North Dylan,Massachusetts,United States,48774,567-758-6463,RPH-975135,Joshua Davis,Boots Pharmacy,2006-01-26,closed,silver
+OUT-0280,Smith-Wilson Hospital,hospital,6427 Foley Crossing Suite 738,Manuelville,Texas,United States,18433,+1-717-975-1239,RPH-845334,Gloria Green,Walmart Pharmacy,2021-12-06,closed,silver
+OUT-0281,Dickerson-Fowler Pharmacy,pharmacy,36024 Graham Street Suite 467,Thomasstad,Georgia,United States,08975,910.573.0871x564,RPH-915196,Dr. Daniel Tucker,Kroger Pharmacy,2021-04-09,active,silver
+OUT-0282,Irwin-Moreno Pharmacy,pharmacy,4148 Thornton Skyway,South Brendan,Alabama,United States,74245,(654)268-6272,RPH-415986,Jeffrey Taylor,MedPlus,2016-12-15,closed,silver
+OUT-0283,Delgado-Bennett Distributors,distributor,71353 Alvarez Square,West Cassandra,Ohio,United States,29060,468.279.0604x88693,RPH-317102,Penny Waters,Walmart Pharmacy,2007-04-14,active,bronze
+OUT-0284,Smith-Kramer Hospital,hospital,3961 Carlson Mission,Lynntown,California,United States,41693,956.770.7897,RPH-918163,Christopher Jefferson,Walmart Pharmacy,2010-12-05,closed,platinum
+OUT-0285,"Bush, Johnson and Guerra Hospital",hospital,27362 Chandler Falls Apt. 222,Garcialand,Pennsylvania,United States,61421,(776)391-7162x042,RPH-620933,Ryan Powell,None,2006-12-22,active,platinum
+OUT-0286,"Hall, Brooks and Case Distributors",distributor,039 Jacob Falls Suite 980,West Jackfurt,Washington,United States,35711,510.968.0177x0316,RPH-586104,Amanda Peterson,Independent,2015-07-04,active,bronze
+OUT-0287,Pugh LLC Distributors,distributor,26724 Bennett Fork,Port Lindseyburgh,South Carolina,United States,74320,676-238-0839x065,RPH-862783,Gregory Chandler,Kroger Pharmacy,2022-08-11,suspended,gold
+OUT-0288,"Nguyen, Hale and Robinson Hospital",hospital,72728 Ernest Ports,Port Paulstad,Maryland,United States,85988,8497602667,RPH-463898,Jody Martin,Walgreens,2008-08-20,closed,gold
+OUT-0289,"Torres, Rowland and Chapman Pharmacy",pharmacy,950 Sharp Parkways Suite 406,Chaneychester,Washington,United States,03345,(408)401-9290,RPH-662585,Sue Frank,LloydsPharmacy,2009-04-03,active,platinum
+OUT-0290,Macias-Allen Hospital,hospital,4890 Glenn Estate,Susanbury,Maryland,United States,27539,(702)735-1025,RPH-964163,Amy Montgomery,Walmart Pharmacy,2006-08-08,active,silver
+OUT-0291,"Perez, Morgan and Murphy Pharmacy",pharmacy,69888 Neal Fords,Port Kimberly,New York,United States,25764,(243)762-9620,RPH-525504,Natalie Cooke,Rite Aid,2022-05-29,suspended,silver
+OUT-0292,Martinez LLC Clinic,clinic,29075 Edwards Well Apt. 012,South Richard,Tennessee,United States,10364,374.595.4210x6294,RPH-388694,Gloria Odom,Kroger Pharmacy,2023-04-01,closed,silver
+OUT-0293,Willis and Sons Pharmacy,pharmacy,1317 Hall Locks Apt. 647,Edwardhaven,Oklahoma,United States,83018,(446)612-0961x7300,RPH-868446,Chad Brown,MedPlus,2017-01-01,closed,silver
+OUT-0294,Thornton Inc Distributors,distributor,355 Louis Groves Apt. 219,West Johnton,Kentucky,United States,68320,479.372.4792x542,RPH-830179,Cynthia Cardenas,Kroger Pharmacy,2022-02-04,active,gold
+OUT-0295,"Yates, Morris and Huynh Pharmacy",pharmacy,204 Vasquez Meadows,Waltersshire,New York,United States,26489,732.299.8651,RPH-350826,John Daniels,Apollo Pharmacy,2020-11-11,active,silver
+OUT-0296,Choi-Hill Pharmacy,pharmacy,858 Maria Plains Apt. 567,South Kristina,Virginia,United States,02858,001-384-867-2925x4355,RPH-231037,Christopher White,Shoppers Drug Mart,2016-02-08,suspended,bronze
+OUT-0297,Smith-Rodriguez Pharmacy,pharmacy,6247 Andrea Field,Nicoletown,South Carolina,United States,12381,(223)241-4992,RPH-729820,Mary Foster,LloydsPharmacy,2020-02-02,suspended,bronze
+OUT-0298,"Ramos, Taylor and Ross Pharmacy",pharmacy,0956 Jacob Neck Suite 003,North Joland,Minnesota,United States,75857,635.938.9222,RPH-262287,Travis Walker,Walmart Pharmacy,2016-01-30,suspended,gold
+OUT-0299,Neal Group Hospital,hospital,277 Luke Harbors,Rodriguezchester,Minnesota,United States,07695,962.464.3850x0953,RPH-148031,Jeff Wallace,Guardian Pharmacy,2010-07-03,closed,bronze
+OUT-0300,Hopkins-Mathews Hospital,hospital,36109 Campbell Course,Evansborough,Florida,United States,94272,965-944-1372,RPH-178626,Jasmine Cox,Shoppers Drug Mart,2009-09-08,active,silver
+OUT-0301,Shannon-Goodwin Hospital,hospital,349 White Cape Suite 617,Micheleville,Ohio,United States,67557,+1-470-617-9993,RPH-196325,Amanda Jackson,Costco Pharmacy,2020-10-15,closed,platinum
+OUT-0302,"Robinson, Parker and Ingram Pharmacy",pharmacy,2345 Norman Underpass,New Madison,Louisiana,United States,75552,879-202-5485x362,RPH-344538,John Gonzalez,None,2005-08-05,active,silver
+OUT-0303,Gross-Adams Clinic,clinic,95385 Olson Grove,North Peter,Alabama,United States,37008,359.690.0937,RPH-368765,Amber Burns,Costco Pharmacy,2019-09-20,active,bronze
+OUT-0304,"Reid, Mclaughlin and Carter Hospital",hospital,844 Stephen Locks Suite 187,Natalieview,Michigan,United States,54777,226.236.8154x185,RPH-514754,John Dominguez,Kroger Pharmacy,2005-05-23,active,platinum
+OUT-0305,"Cameron, Smith and Holmes Pharmacy",pharmacy,78604 Michael Terrace Suite 050,Lake John,Massachusetts,United States,35498,(498)433-0677x30671,RPH-973436,Jennifer Barron,Shoppers Drug Mart,2010-12-20,active,bronze
+OUT-0306,Pruitt-Day Clinic,clinic,087 Murphy Parkway,Ericaton,Ohio,United States,51253,739.763.4289x8760,RPH-707484,Sarah Walsh,MedPlus,2016-09-05,suspended,silver
+OUT-0307,"Taylor, Poole and Benson Pharmacy",pharmacy,8618 Vega Mills,South Peterburgh,Illinois,United States,08521,001-416-929-0739x92891,RPH-819421,Christian Park,Pharmasave,2007-02-10,active,silver
+OUT-0308,Barton and Sons Clinic,clinic,70864 Jackson Radial Suite 203,North Emily,Wisconsin,United States,31618,449-301-4599x67069,RPH-142619,Sabrina Gonzales,Apollo Pharmacy,2014-12-07,active,silver
+OUT-0309,Richardson PLC Distributors,distributor,3884 Lisa Square,Port Monica,Colorado,United States,89406,001-317-781-6780x6643,RPH-604567,Kelsey Shields,MedPlus,2012-01-29,active,silver
+OUT-0310,Garcia Ltd Hospital,hospital,281 Smith Mission Apt. 170,South Crystal,Kentucky,United States,06075,403.408.8081x726,RPH-753262,Jennifer Thompson,Walgreens,2010-12-16,active,gold
+OUT-0311,Whitaker-Kirby Pharmacy,pharmacy,07288 Bean Ferry Suite 411,Fernandezchester,California,United States,78139,+1-419-261-2766x20808,RPH-711582,Bryan Brown,None,2009-01-21,active,gold
+OUT-0312,Gamble Group Clinic,clinic,444 Mark Ranch,Mccoyburgh,South Carolina,United States,84639,758-570-1204x242,RPH-777515,Albert Davis,Boots Pharmacy,2023-05-12,active,silver
+OUT-0313,Frye Group Clinic,clinic,02849 Sullivan Via Apt. 396,Smithport,North Carolina,United States,32257,(952)740-5536x4818,RPH-868492,Diana Smith,Shoppers Drug Mart,2010-08-31,active,gold
+OUT-0314,Russo Ltd Pharmacy,pharmacy,821 Sawyer Port Suite 738,Joshuafurt,California,United States,54386,(832)636-0667,RPH-772479,Beverly Perkins,Apollo Pharmacy,2013-12-14,active,gold
+OUT-0315,"Velasquez, Faulkner and Wyatt Clinic",clinic,04298 Lopez Loop,North Patrick,Missouri,United States,52687,479-596-2356,RPH-828913,Paul Navarro,None,2019-07-07,active,silver
+OUT-0316,Hawkins-Marshall Clinic,clinic,9256 Kevin Gateway Suite 820,Paulabury,Connecticut,United States,13037,639-683-9122x60001,RPH-372937,William Hale,Pharmasave,2017-12-19,active,bronze
+OUT-0317,Thomas-Jensen Pharmacy,pharmacy,3049 Jeff Crest,East Zacharyshire,Oregon,United States,65474,428-672-0998x65642,RPH-696193,Erin Montes,Walgreens,2015-12-11,active,silver
+OUT-0318,"Hernandez, Stone and Hall Distributors",distributor,97669 Cindy Green,Martinezshire,Tennessee,United States,71961,5562820175,RPH-240736,Jason Garcia,Shoppers Drug Mart,2023-01-23,suspended,gold
+OUT-0319,"Jordan, Cook and Castillo Hospital",hospital,43474 Jennifer Island Apt. 137,Melissaville,Minnesota,United States,02169,2775732175,RPH-549772,Peter Gill,MedPlus,2012-09-12,closed,bronze
+OUT-0320,Church and Sons Hospital,hospital,991 Zachary Fields Apt. 703,Jessicaport,Alabama,United States,41200,874-489-0476x078,RPH-895928,Emily Jones,Independent,2020-07-07,suspended,silver
+OUT-0321,Holt Group Clinic,clinic,1917 Tiffany Spurs Suite 173,Port Amanda,South Carolina,United States,45997,745-263-4091,RPH-448123,Joshua Miller,CVS Health,2022-01-21,suspended,gold
+OUT-0322,"Morton, Morris and Conley Hospital",hospital,9653 Sandra Causeway Suite 700,Alexbury,Washington,United States,02152,001-445-341-8403x982,RPH-296205,Allison Clark,Walgreens,2019-10-09,active,bronze
+OUT-0323,Long-Martin Pharmacy,pharmacy,85886 Fuller Square,Lake Seanside,Texas,United States,02132,(865)529-5164,RPH-762592,Miranda Cooper,Apollo Pharmacy,2012-02-06,active,gold
+OUT-0324,Anderson-Brown Distributors,distributor,744 Wesley Parkways,Port Kaylachester,Alabama,United States,64383,3893870920,RPH-340087,Miranda Schwartz,Rite Aid,2021-02-20,active,gold
+OUT-0325,Glenn-Miller Pharmacy,pharmacy,266 Cole Plain,Angelaside,Connecticut,United States,06667,226-732-1196x04722,RPH-173530,Taylor Gregory,Shoppers Drug Mart,2021-01-18,active,silver
+OUT-0326,Woods-Nelson Pharmacy,pharmacy,7082 Christopher Terrace Apt. 461,Jessicashire,Georgia,United States,36191,(276)462-6235x96053,RPH-396145,Angela Nichols,Apollo Pharmacy,2010-10-29,active,bronze
+OUT-0327,Anderson Group Clinic,clinic,36860 Reilly Center Suite 306,Allentown,Minnesota,United States,49124,3282164098,RPH-555512,Laurie Vargas,LloydsPharmacy,2015-03-01,active,bronze
+OUT-0328,Brown Ltd Pharmacy,pharmacy,025 Andrew Greens,Ericborough,Tennessee,United States,60803,001-859-279-5319x26009,RPH-981812,Walter Bailey,CVS Health,2019-07-20,active,bronze
+OUT-0329,Michael-Stanley Clinic,clinic,9205 Burgess Rapids Suite 453,North Angelaside,North Carolina,United States,16331,001-889-465-5834x456,RPH-109169,Linda Jennings,MedPlus,2022-01-13,active,silver
+OUT-0330,Martinez PLC Clinic,clinic,56603 Garcia Manor Apt. 486,South Alexmouth,Connecticut,United States,84432,(766)202-3515,RPH-518073,Troy Becker,MedPlus,2007-03-04,active,silver
+OUT-0331,Alexander Ltd Pharmacy,pharmacy,7156 Michael Mill,West Davidview,Wisconsin,United States,40113,233-895-4794,RPH-974223,Monique Diaz,Costco Pharmacy,2006-07-01,active,bronze
+OUT-0332,Frazier LLC Hospital,hospital,057 Ashley Street Apt. 898,Grahamport,Minnesota,United States,94676,(693)965-6183x3597,RPH-180197,Troy Brooks,None,2023-05-29,active,gold
+OUT-0333,Williams-Lopez Pharmacy,pharmacy,771 Sanchez Avenue,New Jacobtown,Missouri,United States,79599,(867)633-3297x323,RPH-725161,Cody Castro,Independent,2019-07-21,closed,bronze
+OUT-0334,Morris and Sons Pharmacy,pharmacy,6992 Martin Mountains Apt. 923,Deniseton,Virginia,United States,18413,520.591.4016,RPH-728986,Casey Ramirez,LloydsPharmacy,2010-10-04,active,bronze
+OUT-0335,Lewis LLC Hospital,hospital,199 Pamela Branch Suite 551,Meganmouth,Illinois,United States,17125,(207)256-9991x3831,RPH-304426,Jennifer Mitchell,Boots Pharmacy,2010-06-10,active,platinum
+OUT-0336,Lewis and Sons Distributors,distributor,2277 Owens Ford,South Oliviahaven,New York,United States,92230,7662470703,RPH-778661,Robert Rogers,Shoppers Drug Mart,2008-12-10,active,bronze
+OUT-0337,Jackson-Gordon Distributors,distributor,41074 David Park Suite 067,Williamchester,California,United States,59934,(825)690-6200x36385,RPH-743302,Monica Campbell,Independent,2015-07-24,closed,bronze
+OUT-0338,Adams-Larson Pharmacy,pharmacy,83997 Wilkinson Rapid,West Carolhaven,Utah,United States,56501,4998550493,RPH-878543,Jessica Robinson,None,2013-03-28,suspended,silver
+OUT-0339,Mcgee PLC Pharmacy,pharmacy,1212 Donna Cove Suite 948,Jeremytown,Pennsylvania,United States,01036,001-612-476-2239x847,RPH-303422,Tanya Martin,Kroger Pharmacy,2020-05-18,closed,gold
+OUT-0340,Espinoza-Francis Clinic,clinic,88822 Shannon Row Suite 058,Carloshaven,Connecticut,United States,06985,(813)249-5647x9984,RPH-698937,Erika Patterson,CVS Health,2022-05-17,closed,silver
+OUT-0341,Hanson-Bradley Hospital,hospital,83097 James Unions Apt. 080,South Christopher,Minnesota,United States,53031,(801)665-5578,RPH-926752,Max Mills,MedPlus,2006-05-28,suspended,platinum
+OUT-0342,Morris-Walton Hospital,hospital,5124 Jordan Avenue Apt. 068,Morganchester,Kentucky,United States,70094,(740)351-6654,RPH-291735,Steven Hensley,Guardian Pharmacy,2023-05-18,active,platinum
+OUT-0343,Jones-Hunt Pharmacy,pharmacy,0233 Barr Meadow Apt. 835,Camacholand,Texas,United States,59828,5368309442,RPH-977658,Andrew Steele,Walmart Pharmacy,2013-10-31,suspended,silver
+OUT-0344,"Williams, Carr and Nichols Hospital",hospital,413 Contreras Bridge,Littlefort,Illinois,United States,78669,697.224.5284x1356,RPH-358268,Thomas Marshall,Shoppers Drug Mart,2012-03-11,active,silver
+OUT-0345,Molina-Gray Clinic,clinic,8095 Bowman Fork Suite 059,East Dianechester,Indiana,United States,00643,(494)742-0315,RPH-865968,Lisa Pitts,Rite Aid,2009-03-14,closed,gold
+OUT-0346,Lee-Collins Pharmacy,pharmacy,19777 Patel Mount,Chelseaville,Connecticut,United States,86524,718-864-8230x8829,RPH-951751,Renee Hill,Rite Aid,2012-01-08,active,platinum
+OUT-0347,"Fisher, Sanchez and Miranda Pharmacy",pharmacy,0586 Martin Manor,Carterhaven,Minnesota,United States,27998,373-706-6293,RPH-671409,Robert Mclean,None,2005-03-27,suspended,bronze
+OUT-0348,Harrison PLC Distributors,distributor,2655 Perry Plaza,South Sarahbury,Florida,United States,18001,523.971.7989x022,RPH-737989,Laura Johnson,Walmart Pharmacy,2019-05-13,active,gold
+OUT-0349,Stewart-Nelson Pharmacy,pharmacy,84779 Warner Cliffs Suite 675,Jameshaven,Louisiana,United States,10645,+1-789-307-3781,RPH-301882,Lance Grant,Shoppers Drug Mart,2017-12-15,active,platinum
+OUT-0350,Wood-Huerta Pharmacy,pharmacy,68384 Jenkins Pine Apt. 207,Millerbury,Illinois,United States,78315,(812)319-0518x8129,RPH-163432,Brandi Stokes,Apollo Pharmacy,2010-05-02,active,bronze
+OUT-0351,"Carey, Smith and Morales Distributors",distributor,07923 Maxwell Radial,South Angela,Florida,United States,30774,748.264.9703,RPH-146528,Garrett Dixon,CVS Health,2010-07-16,active,gold
+OUT-0352,Atkins-Logan Pharmacy,pharmacy,55707 Young Courts,Port Linda,Kentucky,United States,29077,455-350-5705,RPH-990087,Lisa Lowe,None,2008-01-03,active,bronze
+OUT-0353,"Walker, Hill and Short Clinic",clinic,45883 Teresa Inlet Apt. 470,Port Elijahbury,Kentucky,United States,85458,903-968-7156x89109,RPH-832791,Kimberly Russo,LloydsPharmacy,2016-02-04,closed,silver
+OUT-0354,Hall LLC Clinic,clinic,6844 Cherry Ports Suite 036,Mckaytown,Pennsylvania,United States,09203,(732)995-7378x31597,RPH-423091,Caitlin Kent,Apollo Pharmacy,2019-12-20,suspended,silver
+OUT-0355,"Thomas, Gonzales and Garcia Distributors",distributor,302 Mark Land Suite 233,West Christopher,Virginia,United States,97020,(518)654-8396x607,RPH-515365,James Ruiz,Walgreens,2010-06-02,suspended,bronze
+OUT-0356,Price-Acosta Hospital,hospital,958 Santos Road Suite 491,Browntown,Maryland,United States,44629,3226181698,RPH-736447,Annette French,Walgreens,2021-01-08,active,platinum
+OUT-0357,Monroe-Contreras Clinic,clinic,094 Heather Valleys Suite 402,New Richard,Arizona,United States,87590,+1-533-802-6509x9621,RPH-299471,Joe Greene,Costco Pharmacy,2017-02-04,active,gold
+OUT-0358,Fritz-Gutierrez Pharmacy,pharmacy,25634 Lisa Bypass,Port Melinda,Louisiana,United States,17278,(934)899-8013,RPH-205579,Stephanie Freeman,Walgreens,2021-02-04,closed,silver
+OUT-0359,"Yang, Davis and Lin Distributors",distributor,2446 Joshua Burg,East John,Wisconsin,United States,46436,274-365-6426,RPH-737141,Danielle Walton,Rite Aid,2008-02-05,active,bronze
+OUT-0360,Robinson-Bradley Pharmacy,pharmacy,695 Aguilar Estate Apt. 776,Lisaport,Florida,United States,80173,3035850255,RPH-711544,Rachael Nelson,Walgreens,2022-05-27,active,gold
+OUT-0361,Schaefer-Scott Pharmacy,pharmacy,2288 Ashley Hills Suite 331,Saraview,Michigan,United States,50042,001-915-974-9325x1149,RPH-275914,Emily Brown,LloydsPharmacy,2012-09-24,active,silver
+OUT-0362,"Smith, Smith and Morris Pharmacy",pharmacy,7661 Brett Pines,Wayneton,Texas,United States,13595,001-587-831-4391x5114,RPH-550466,Mr. Mark Landry,Walgreens,2005-01-29,suspended,silver
+OUT-0363,Tucker PLC Pharmacy,pharmacy,710 Mccoy Island,Turnermouth,Louisiana,United States,60026,3687026933,RPH-972857,Cassidy Paul,Rite Aid,2013-04-27,closed,gold
+OUT-0364,Powell Inc Pharmacy,pharmacy,02865 Kent Brook,Ruthberg,Texas,United States,22547,611-742-0667x0151,RPH-182771,Lacey Smith,Kroger Pharmacy,2022-12-22,active,silver
+OUT-0365,Coleman-Wright Hospital,hospital,22400 Hall Radial,East Elizabeth,Michigan,United States,06686,(662)501-9011x348,RPH-396025,Brian Perez,LloydsPharmacy,2018-01-18,active,silver
+OUT-0366,Cox PLC Distributors,distributor,32394 Collier Loop Suite 523,Jacobfurt,Massachusetts,United States,39613,001-449-276-0249x86634,RPH-797294,Lauren Kelly,Kroger Pharmacy,2005-07-27,active,silver
+OUT-0367,Christensen-Fields Pharmacy,pharmacy,349 Thompson Mountains Apt. 561,Haleyfurt,Tennessee,United States,53491,(859)814-7625x380,RPH-765225,Derek Patton,Walgreens,2015-01-29,closed,silver
+OUT-0368,Robinson-Powell Hospital,hospital,47466 Estrada Junction Apt. 896,Port Cynthia,Washington,United States,76075,+1-453-624-3679,RPH-256769,John Moore,Apollo Pharmacy,2010-07-25,active,gold
+OUT-0369,Boyer-Wolfe Hospital,hospital,83543 Jenkins Isle Suite 390,Gloverfurt,Oregon,United States,96279,+1-324-897-9399,RPH-387119,Scott Nunez,CVS Health,2013-03-10,active,bronze
+OUT-0370,"Miller, Long and Harrington Pharmacy",pharmacy,710 Andrew Valley,South David,Texas,United States,08225,820.614.8967x8082,RPH-879399,Autumn Krause,Walgreens,2014-08-28,closed,silver
+OUT-0371,Sanders-Gonzalez Pharmacy,pharmacy,6254 Kaitlyn Village Apt. 645,Harrisborough,Washington,United States,78862,672-399-4036,RPH-375380,Ashley May DDS,Guardian Pharmacy,2023-04-27,closed,bronze
+OUT-0372,Higgins-Bradley Clinic,clinic,670 Fleming Plaza,East Mark,Massachusetts,United States,79154,301-861-2590,RPH-378991,Danielle Guzman,Independent,2022-05-21,active,bronze
+OUT-0373,"Richards, Juarez and Miller Distributors",distributor,44376 Douglas Ford,Amandaville,Wisconsin,United States,37390,5982410167,RPH-152932,David Stephens,Independent,2009-06-16,active,gold
+OUT-0374,Morales LLC Hospital,hospital,04202 Castaneda Crest,Moonton,Virginia,United States,98541,699-703-4213,RPH-729846,Dean Moore,Walmart Pharmacy,2005-12-11,suspended,gold
+OUT-0375,Clark and Sons Distributors,distributor,0791 Hood Ramp,East Samanthafurt,Utah,United States,08202,357-611-7132,RPH-396609,Ruth Davies,None,2023-03-10,suspended,gold
+OUT-0376,Escobar-Caldwell Hospital,hospital,88141 David Place,Rosalesport,Pennsylvania,United States,42065,(971)893-6785,RPH-168922,Jeffrey Jacobs,Walgreens,2005-10-10,active,platinum
+OUT-0377,Spencer Inc Pharmacy,pharmacy,749 Diane Light,Port Beckyport,Missouri,United States,22694,721.554.0131,RPH-648045,Jason Alvarado,Walmart Pharmacy,2019-02-28,active,silver
+OUT-0378,"Lopez, Jones and Kelley Clinic",clinic,2527 Barry Alley Apt. 547,Lake Stevenside,Connecticut,United States,78778,001-594-288-5669x489,RPH-308147,Brian Mooney,Walmart Pharmacy,2017-10-14,active,silver
+OUT-0379,"Cross, Reynolds and Bailey Hospital",hospital,55842 Shane Stream Apt. 726,Andersonstad,Wisconsin,United States,53597,(504)260-7001x441,RPH-921076,Mrs. Mariah Woodward,Costco Pharmacy,2005-08-12,suspended,gold
+OUT-0380,Green Ltd Hospital,hospital,00668 Emily Unions Apt. 728,North Thomas,Ohio,United States,22586,481.415.2232,RPH-206258,Christopher Smith,Kroger Pharmacy,2023-03-20,active,bronze
+OUT-0381,Ruiz-Cline Hospital,hospital,9994 Aaron Course,Lake Karenview,New Jersey,United States,59794,+1-913-451-1350x535,RPH-757048,Marvin Vargas,Pharmasave,2007-12-07,closed,bronze
+OUT-0382,Moody Group Pharmacy,pharmacy,57809 Warren Burgs Apt. 801,West Curtisport,Virginia,United States,93862,934-619-5281x44786,RPH-169233,Lori Pierce,CVS Health,2013-12-01,active,gold
+OUT-0383,Miller PLC Pharmacy,pharmacy,63578 Emily Forks,Grantville,Massachusetts,United States,88009,(213)797-4369,RPH-596686,Kristen Rosario,Kroger Pharmacy,2008-03-28,active,silver
+OUT-0384,Mueller-Vargas Pharmacy,pharmacy,084 Barbara Street Apt. 696,Lake Kennethberg,Oregon,United States,68635,+1-586-906-1065x673,RPH-272068,Jacqueline English,Rite Aid,2008-12-18,active,platinum
+OUT-0385,Ross and Sons Distributors,distributor,1368 Kent Plaza Apt. 253,New Juanfort,New York,United States,95251,(299)629-6444x7725,RPH-224170,Cynthia Taylor,Walgreens,2009-07-24,closed,gold
+OUT-0386,Thompson-Turner Hospital,hospital,41724 Jennifer Junctions,Port Raymond,Pennsylvania,United States,14658,485-657-4906x27960,RPH-133623,Jesse Allen,CVS Health,2005-06-25,suspended,gold
+OUT-0387,Walker and Sons Distributors,distributor,945 Sarah Vista Apt. 582,Perezview,Arizona,United States,03155,(496)362-9917,RPH-463053,Dr. Kyle Calderon,Boots Pharmacy,2019-06-03,closed,silver
+OUT-0388,Turner Group Hospital,hospital,215 Brittany Lodge Suite 937,South Jeffreyberg,Oregon,United States,47025,001-403-213-9280x48502,RPH-497528,Michael Williams,Shoppers Drug Mart,2022-12-25,active,silver
+OUT-0389,"Allen, Sanchez and Brooks Hospital",hospital,9719 Aaron Rue,East Jeannemouth,Oklahoma,United States,56899,762-725-6471,RPH-595273,Ellen Acosta,Apollo Pharmacy,2021-01-19,active,gold
+OUT-0390,"Bright, Cain and Thomas Clinic",clinic,5323 Suzanne Run,Owensside,Oklahoma,United States,10392,556-347-4370x1945,RPH-561807,Meagan Dickson,Pharmasave,2018-07-06,active,gold
+OUT-0391,Costa-Dawson Clinic,clinic,52761 Anthony Ports Apt. 815,Kelleychester,Florida,United States,87294,990-922-3116,RPH-842227,Mark Woods,CVS Health,2019-06-24,active,silver
+OUT-0392,Harris-Sanchez Pharmacy,pharmacy,71859 Charles Dam,Cardenashaven,Massachusetts,United States,94933,285-263-7114x2943,RPH-533989,Paul Chavez,Apollo Pharmacy,2011-05-31,active,gold
+OUT-0393,Mejia-Sanchez Clinic,clinic,13246 Greene Road,Jamesborough,Indiana,United States,17122,584.417.8376x5915,RPH-629713,Brett Hill,Kroger Pharmacy,2018-09-19,active,gold
+OUT-0394,Olsen LLC Pharmacy,pharmacy,664 Ryan Way,Port Paige,Tennessee,United States,08838,(772)845-5337,RPH-772025,Paul Austin,Independent,2012-01-15,closed,bronze
+OUT-0395,Green-Alexander Clinic,clinic,622 Olsen Ports Suite 510,Richardberg,North Carolina,United States,41775,7693296568,RPH-434776,Michael Cline,Kroger Pharmacy,2009-12-30,closed,platinum
+OUT-0396,Christensen Group Distributors,distributor,93509 Silva Forge Suite 421,New Daniel,Maryland,United States,57790,+1-950-422-3477x80457,RPH-796084,Sean Carter,None,2021-02-26,active,silver
+OUT-0397,"Williams, Johnson and Hall Clinic",clinic,47823 Sean Street,Lake Brian,Alabama,United States,74869,001-545-416-7670x636,RPH-431609,Rachel Morton,Apollo Pharmacy,2020-05-29,suspended,silver
+OUT-0398,Gonzalez-Rodriguez Clinic,clinic,00848 Martinez Viaduct,Kerriside,Massachusetts,United States,27179,836.979.6082,RPH-659502,Margaret Terry,Independent,2008-06-27,active,silver
+OUT-0399,Smith-Rogers Pharmacy,pharmacy,469 Andrew Land Suite 490,Port Jacobview,Missouri,United States,81979,(319)935-0011x546,RPH-761864,Steven Baldwin,LloydsPharmacy,2010-05-15,active,silver
+OUT-0400,"May, Fernandez and Williams Pharmacy",pharmacy,4104 Joseph Circles,Richardhaven,California,United States,45056,935-638-1483,RPH-702805,Harold Williams,CVS Health,2009-08-27,active,gold
+OUT-0401,Weber Inc Pharmacy,pharmacy,8564 Rodriguez Ville,Dunnton,Connecticut,United States,12456,+1-802-371-6988x371,RPH-555036,Jose Price,LloydsPharmacy,2006-04-09,active,silver
+OUT-0402,"Levine, Rodriguez and Carroll Clinic",clinic,7598 Elizabeth Estate Suite 170,Michellemouth,Indiana,United States,70796,853.745.8195,RPH-642466,Chris Wood,Walmart Pharmacy,2023-12-09,active,platinum
+OUT-0403,Crane-Archer Pharmacy,pharmacy,2662 Taylor Trail,Rogerston,Massachusetts,United States,09221,+1-758-546-6879x30302,RPH-417366,Roger White,Pharmasave,2005-03-13,suspended,silver
+OUT-0404,Jordan-Castro Pharmacy,pharmacy,5150 Luis Well,Sherrychester,Missouri,United States,14459,408.273.0897,RPH-611693,Pamela Walker,Rite Aid,2006-12-29,active,bronze
+OUT-0405,"Kirk, Clements and Leon Clinic",clinic,1184 Luis Square Suite 863,Port Carrietown,South Carolina,United States,58511,621-902-4234,RPH-766109,Michael Williams,Costco Pharmacy,2005-08-15,suspended,gold
+OUT-0406,"Hopkins, Allison and Holt Hospital",hospital,1961 Rodriguez Lakes Suite 566,Russellton,Texas,United States,80095,+1-468-633-4400x952,RPH-553891,Victoria James,Independent,2006-07-24,suspended,bronze
+OUT-0407,"Diaz, Deleon and Weber Hospital",hospital,19143 Stephen Lake,Timothybury,Washington,United States,55726,3152791150,RPH-989060,Michael Blankenship,MedPlus,2023-06-13,closed,gold
+OUT-0408,Smith-Gordon Clinic,clinic,5893 Kirk Junction,Boyerborough,Indiana,United States,29422,948-383-5719x21496,RPH-163901,Janice Waller,Walmart Pharmacy,2021-10-25,closed,silver
+OUT-0409,"Wagner, Gutierrez and Schultz Pharmacy",pharmacy,320 Christopher Park Apt. 665,Port April,Oregon,United States,41182,(285)849-2724x0002,RPH-565873,Angelica Estrada,None,2013-10-21,active,silver
+OUT-0410,Tyler-Flores Pharmacy,pharmacy,543 Tyler Crescent,Bestborough,Maryland,United States,96135,2333563693,RPH-313833,Amy Johnson,Shoppers Drug Mart,2013-07-06,active,gold
+OUT-0411,Fox PLC Hospital,hospital,87810 Nash Place,East Alisonbury,Georgia,United States,44531,001-641-558-9290x930,RPH-327356,Jennifer Davis,Boots Pharmacy,2020-11-16,active,gold
+OUT-0412,Long-Ferguson Hospital,hospital,122 Meyer Keys,Kimberlyview,Colorado,United States,60531,5532110583,RPH-567529,Jessica Spears,Rite Aid,2023-01-11,active,gold
+OUT-0413,"West, Gordon and Irwin Pharmacy",pharmacy,914 Elizabeth Rest,South Yolanda,Arizona,United States,96635,(401)567-6718x776,RPH-375790,David Gardner,MedPlus,2022-10-08,active,silver
+OUT-0414,"Estrada, Johnson and Chandler Distributors",distributor,276 Brittany Ferry Suite 667,New Hollyborough,Connecticut,United States,59161,+1-661-565-2289x8907,RPH-559585,Krystal Rodriguez,Independent,2011-06-30,active,silver
+OUT-0415,Peterson-Woods Pharmacy,pharmacy,65976 Johnson Villages Apt. 858,West Anthonyland,Oklahoma,United States,93638,717-816-5789x3912,RPH-869327,Brandon Patel,LloydsPharmacy,2014-06-01,active,silver
+OUT-0416,Wong LLC Distributors,distributor,05009 Jose Ranch Apt. 878,Baileymouth,Georgia,United States,07027,+1-830-229-3011x2501,RPH-847205,Christopher Webster Jr.,Apollo Pharmacy,2010-04-23,active,bronze
+OUT-0417,"Day, Cooper and Cowan Pharmacy",pharmacy,36931 Patrick Canyon,Port Stephanieborough,Florida,United States,03097,(742)566-2497,RPH-101918,Ricky Reid,Walgreens,2010-05-26,active,silver
+OUT-0418,Terry LLC Pharmacy,pharmacy,144 Shah Ranch Suite 674,Lake Omarfort,Louisiana,United States,27800,(844)753-4514x668,RPH-484923,Kayla Wade,Kroger Pharmacy,2011-04-11,active,silver
+OUT-0419,Hunter-Buchanan Hospital,hospital,586 Melissa Village,Lewisfurt,Wisconsin,United States,39785,553.420.7758x70894,RPH-259053,Marie Wise,Independent,2015-04-04,active,silver
+OUT-0420,"Hoffman, Sandoval and Banks Clinic",clinic,69580 Johnson Stream Suite 505,New Gregoryview,Missouri,United States,53046,920.907.3429x390,RPH-360117,Oscar Meadows,Walmart Pharmacy,2022-01-02,closed,gold
+OUT-0421,"Edwards, Reid and Weeks Pharmacy",pharmacy,80162 Hansen Keys,West Benjaminberg,Utah,United States,90826,001-304-450-2814x353,RPH-207506,Linda Ingram,Walgreens,2019-03-16,suspended,gold
+OUT-0422,"Chambers, Hall and Walker Pharmacy",pharmacy,531 Daniel Garden Suite 904,South Michael,New Jersey,United States,60888,528-566-2510x857,RPH-684883,Megan Bailey,Apollo Pharmacy,2007-12-03,active,bronze
+OUT-0423,Blevins-Green Hospital,hospital,91935 Christian Shores Suite 555,Lake Shawn,Wisconsin,United States,04597,001-362-472-8167x33746,RPH-666413,Mary Rivas,Walgreens,2022-02-25,active,bronze
+OUT-0424,Richmond-Ball Pharmacy,pharmacy,4126 Willie Pine,New Theresamouth,Tennessee,United States,51914,(809)590-6931,RPH-176394,Ryan Leblanc,CVS Health,2022-07-30,active,silver
+OUT-0425,"Rogers, Jones and Garner Hospital",hospital,5059 Samantha Crossroad,Alexanderville,Oregon,United States,23208,001-234-438-8804x85142,RPH-371668,Robert Morales,CVS Health,2020-10-13,active,silver
+OUT-0426,Williams-Frazier Hospital,hospital,313 Anderson Lake,Scottmouth,Missouri,United States,24723,+1-591-615-4904x431,RPH-545579,Stephen Watson,MedPlus,2007-05-16,suspended,silver
+OUT-0427,Tanner Ltd Distributors,distributor,977 Erika Coves,Alfredberg,Washington,United States,90065,001-517-492-6517,RPH-361354,Sarah Thomas,Boots Pharmacy,2013-08-05,active,bronze
+OUT-0428,"Miller, Brown and Gordon Pharmacy",pharmacy,221 Randy Club,Scottmouth,Oregon,United States,57536,001-371-705-2987x70745,RPH-567828,Amy Hill,Shoppers Drug Mart,2017-11-28,active,gold
+OUT-0429,Smith and Sons Clinic,clinic,68387 Paige Summit,Danaton,Tennessee,United States,22796,+1-558-667-6030x409,RPH-984704,Michael Shelton,None,2007-05-25,active,bronze
+OUT-0430,Garrett-Herrera Clinic,clinic,68810 Pamela Village,South Gerald,Florida,United States,06853,001-351-533-4601x84220,RPH-628905,Kimberly Ward,Pharmasave,2023-05-21,active,gold
+OUT-0431,Thompson PLC Pharmacy,pharmacy,168 Jennifer Route,Walkertown,Massachusetts,United States,31638,+1-691-973-6907,RPH-769641,Clinton Williams,Kroger Pharmacy,2008-08-26,active,silver
+OUT-0432,Anderson-Scott Pharmacy,pharmacy,70716 Joseph Lakes,Port Destinyside,Ohio,United States,80016,612-737-0851x19194,RPH-915204,Jack Jacobs,Guardian Pharmacy,2009-06-13,active,platinum
+OUT-0433,Jensen LLC Distributors,distributor,1927 Jimenez Freeway Suite 718,Bradychester,Arizona,United States,32026,001-556-212-6678,RPH-287694,Johnny Ellis,Rite Aid,2019-03-11,closed,bronze
+OUT-0434,Stephens PLC Distributors,distributor,402 Jeff Shoal Suite 614,Kristinfurt,Indiana,United States,23557,363.730.4117x6142,RPH-955698,Jorge Rodriguez,MedPlus,2005-04-11,suspended,platinum
+OUT-0435,Mooney-Mclaughlin Pharmacy,pharmacy,4704 Edwards Plain,Watkinsfort,South Carolina,United States,03364,568.983.0048,RPH-825250,Tami Perez,CVS Health,2023-10-19,active,bronze
+OUT-0436,"Perez, Cameron and Cannon Pharmacy",pharmacy,291 Timothy Centers,Riverabury,Kentucky,United States,37222,904-406-2911,RPH-917351,Christopher Castillo,Independent,2006-02-24,active,silver
+OUT-0437,"Lee, Miller and Wilson Pharmacy",pharmacy,075 Fox Stream Suite 974,Weberton,Louisiana,United States,41883,(721)871-1486,RPH-415122,Oscar Tran,Pharmasave,2011-09-01,suspended,silver
+OUT-0438,"Alvarado, Cooley and Vance Hospital",hospital,1735 Hensley Court,Gonzalezville,Utah,United States,22542,+1-875-557-2616x949,RPH-149992,Justin Jones MD,Guardian Pharmacy,2005-01-13,active,gold
+OUT-0439,Fox Ltd Pharmacy,pharmacy,8201 Dawn Bridge,Jonesfort,Connecticut,United States,46121,321.963.3613,RPH-476995,Kelsey Adams,LloydsPharmacy,2023-01-16,closed,bronze
+OUT-0440,Webster Inc Pharmacy,pharmacy,903 Chambers Rapid Suite 458,Wesleymouth,Minnesota,United States,91575,(739)398-1274x39225,RPH-451474,Dominic Bass,Walgreens,2007-01-19,active,silver
+OUT-0441,"Singh, Morris and Gilmore Pharmacy",pharmacy,476 Rebecca Coves,Lake Jacob,New York,United States,05392,386-539-9454,RPH-812186,Kristen Flores,None,2017-01-25,active,bronze
+OUT-0442,Edwards and Sons Pharmacy,pharmacy,307 Boyd Street,Kimberlyton,Pennsylvania,United States,85778,001-264-459-8724,RPH-927008,Julia Fields,MedPlus,2006-06-24,closed,bronze
+OUT-0443,Murphy Inc Pharmacy,pharmacy,8113 Sydney Mountains Apt. 670,Schwartzville,Louisiana,United States,63261,+1-234-802-4222x41983,RPH-575071,Danielle Quinn,Walgreens,2014-07-19,active,gold
+OUT-0444,Edwards-Winters Pharmacy,pharmacy,144 Jackson Trace,Erictown,Ohio,United States,21124,001-843-350-9476x511,RPH-324501,Jennifer Hill,MedPlus,2006-05-29,active,platinum
+OUT-0445,"Lang, Mitchell and Parker Distributors",distributor,98913 Williams Inlet Apt. 451,New Reginaburgh,Virginia,United States,51034,410-435-6594,RPH-163028,Tyler Allen,Shoppers Drug Mart,2023-05-24,active,bronze
+OUT-0446,Dawson-Reynolds Pharmacy,pharmacy,229 Hall Plain Suite 194,Port Cameronside,Oklahoma,United States,99394,690.293.4242,RPH-812730,Michael Hunt,CVS Health,2009-01-06,active,silver
+OUT-0447,Nelson and Sons Hospital,hospital,8893 Jonathan Mountains,Curtishaven,Wisconsin,United States,50472,(494)708-6542x43826,RPH-204064,Jerry Harris,Guardian Pharmacy,2023-09-20,active,bronze
+OUT-0448,Lane LLC Pharmacy,pharmacy,895 Suarez Neck,East Ashleychester,South Carolina,United States,37644,535-291-7650x47188,RPH-946538,Kevin Chapman,Walmart Pharmacy,2020-12-08,active,gold
+OUT-0449,Taylor-Romero Hospital,hospital,44966 Jordan Radial Suite 706,South Isabellatown,California,United States,57285,001-501-649-7110,RPH-644348,Tiffany Randolph,LloydsPharmacy,2009-09-28,suspended,silver
+OUT-0450,Garcia-Myers Distributors,distributor,6505 Amy Parkways Suite 016,Batesview,Utah,United States,74291,001-723-243-5969x8504,RPH-398543,Rachael Ortiz,Independent,2005-06-16,active,silver
+OUT-0451,"Ray, Vaughan and Washington Pharmacy",pharmacy,24286 Thomas Squares Apt. 571,Susanberg,Maryland,United States,43812,3388576264,RPH-877454,Danielle Lucas,Shoppers Drug Mart,2013-03-10,active,bronze
+OUT-0452,"Sanchez, Goodman and Villarreal Hospital",hospital,635 Walker Stravenue,North Kaylaberg,New Jersey,United States,58077,+1-696-795-1930,RPH-268443,Sean Erickson,Walgreens,2017-04-14,active,platinum
+OUT-0453,Bell-Bennett Pharmacy,pharmacy,36562 Sierra Summit Suite 344,Jasonview,Massachusetts,United States,53318,396.933.1812x33576,RPH-573899,Natalie Williams,Walgreens,2011-05-20,active,bronze
+OUT-0454,Massey Group Pharmacy,pharmacy,5776 Emma Dale Suite 367,Heatherhaven,Maryland,United States,81012,+1-697-574-7594,RPH-966188,Sara Marquez,LloydsPharmacy,2022-03-17,active,silver
+OUT-0455,Matthews and Sons Pharmacy,pharmacy,740 Thomas Mountain Suite 874,West Monicatown,Ohio,United States,63417,(575)514-9753x41157,RPH-384965,Kevin Mccormick,Walgreens,2012-07-20,active,bronze
+OUT-0456,"Robbins, Duncan and Ramirez Pharmacy",pharmacy,5658 John Highway,Matthewhaven,Ohio,United States,44217,+1-665-935-2326x6000,RPH-523747,Zachary Doyle,Boots Pharmacy,2023-06-10,suspended,silver
+OUT-0457,Brown and Sons Distributors,distributor,561 Carol Track Suite 511,Lake Oliviahaven,Ohio,United States,28686,001-874-966-1447x7618,RPH-720616,Diana Murray,Shoppers Drug Mart,2018-01-02,closed,silver
+OUT-0458,"Jenkins, Lambert and Garrison Pharmacy",pharmacy,290 Joseph Land Suite 599,Alvinland,Louisiana,United States,36706,001-723-630-2927x640,RPH-996265,Melanie Hanson,Kroger Pharmacy,2014-01-09,closed,bronze
+OUT-0459,Thompson-Moore Pharmacy,pharmacy,51318 Bennett Inlet Suite 473,New Brittany,Virginia,United States,12335,778-652-4744x203,RPH-490267,Alan Prince,Pharmasave,2017-11-10,active,bronze
+OUT-0460,"Jackson, Bowen and Logan Pharmacy",pharmacy,351 Gutierrez Way Suite 741,North Tara,Illinois,United States,48534,683-802-5853,RPH-582164,Kimberly Miller,MedPlus,2006-05-15,active,silver
+OUT-0461,Tapia PLC Pharmacy,pharmacy,217 Cooper Road Apt. 984,East Teresaside,Indiana,United States,49667,558-616-7592x38319,RPH-199226,Tina Davis,LloydsPharmacy,2016-11-20,active,bronze
+OUT-0462,"Cannon, Oconnor and Haney Clinic",clinic,6342 Larry Estate,Lake Charlenestad,New York,United States,75766,630.391.2185x273,RPH-640888,Elizabeth Morales MD,Kroger Pharmacy,2021-03-13,active,bronze
+OUT-0463,Cook Ltd Pharmacy,pharmacy,3015 Benjamin Circle Suite 407,Patelville,Alabama,United States,06720,+1-665-798-4557x663,RPH-283606,Elizabeth Logan PhD,MedPlus,2016-04-29,active,silver
+OUT-0464,Harper Inc Pharmacy,pharmacy,9945 Brian Inlet,New Samanthaville,Kentucky,United States,03503,(816)469-1008x22421,RPH-761654,Jonathan Martinez,Walmart Pharmacy,2019-05-05,active,silver
+OUT-0465,"Miller, Cochran and Kelly Clinic",clinic,69962 Allison Roads Suite 791,North Michaelbury,Oklahoma,United States,18739,+1-657-722-8703x22007,RPH-220107,Nancy King,Rite Aid,2011-06-27,active,gold
+OUT-0466,Hawkins Inc Clinic,clinic,514 Lopez Stravenue,West Ericahaven,Arizona,United States,84717,2284606048,RPH-477747,Sandra Baker,CVS Health,2009-03-19,active,platinum
+OUT-0467,Logan-Boone Clinic,clinic,7695 Jennifer Brooks Suite 189,Ryanview,Minnesota,United States,27270,9169556238,RPH-834969,Jane Coleman,MedPlus,2010-06-24,active,gold
+OUT-0468,"Hanson, Young and Harris Pharmacy",pharmacy,2290 Victoria Union,New Patrick,Pennsylvania,United States,37128,394.671.9903x8035,RPH-992514,Kelly Salinas,Rite Aid,2020-12-17,active,silver
+OUT-0469,Blair-Castro Pharmacy,pharmacy,1914 Lamb Street Apt. 534,Andersonbury,New Jersey,United States,77640,(216)673-0953x267,RPH-182073,Olivia Powell,Rite Aid,2015-07-09,active,bronze
+OUT-0470,"Rice, Carrillo and Davenport Clinic",clinic,2925 Monique Estate Apt. 801,East John,South Carolina,United States,27982,9688856846,RPH-357400,Kathryn Bishop,Guardian Pharmacy,2005-09-01,closed,silver
+OUT-0471,Ramirez-Solis Pharmacy,pharmacy,4495 Cook Common,West Daisy,Ohio,United States,11138,355.359.2897x4874,RPH-777259,Doris Rose,Walgreens,2011-01-08,active,silver
+OUT-0472,"Clay, Mcfarland and Patterson Clinic",clinic,19976 Cook Grove Suite 551,Kimberlychester,New York,United States,41222,296-578-9630,RPH-591559,Jonathan White,Kroger Pharmacy,2018-09-22,closed,bronze
+OUT-0473,Foster and Sons Clinic,clinic,59722 Thomas Pine,Katherineborough,Florida,United States,40518,001-292-676-6809x84601,RPH-955405,Damon Kent,LloydsPharmacy,2019-04-11,active,silver
+OUT-0474,"Smith, Roberson and Cook Hospital",hospital,3586 Hatfield Oval,West Markview,Arizona,United States,55135,9536926096,RPH-714330,Samantha Powell,Independent,2018-10-17,active,silver
+OUT-0475,"Taylor, Taylor and Soto Hospital",hospital,4991 Carol Drives,Rileyberg,Washington,United States,66208,(702)715-5383x077,RPH-235654,Ann Moore,Rite Aid,2022-07-28,suspended,silver
+OUT-0476,Butler and Sons Pharmacy,pharmacy,7844 Smith Points Apt. 751,New Williammouth,Michigan,United States,63844,(551)329-4414x925,RPH-912350,Donald Weaver,LloydsPharmacy,2008-03-23,active,gold
+OUT-0477,"Malone, Wolf and Holmes Clinic",clinic,974 Wallace Keys Suite 590,Smithmouth,Kentucky,United States,40214,001-494-434-3687x7156,RPH-481310,Sandra Baker,Independent,2017-08-21,active,gold
+OUT-0478,"Garrison, Brown and Sullivan Pharmacy",pharmacy,1535 Owens Center,North Davidmouth,Wisconsin,United States,84839,477-434-9431x487,RPH-957714,Jacob Hayden,Guardian Pharmacy,2016-12-20,suspended,bronze
+OUT-0479,Morales-Garcia Distributors,distributor,7416 Hutchinson Landing Suite 395,East Michelle,Texas,United States,70808,(355)880-9579x475,RPH-185773,Christopher Hurst,Walmart Pharmacy,2011-09-10,closed,silver
+OUT-0480,"Ayala, Baker and Bowman Pharmacy",pharmacy,2334 Smith Brook,Garciafurt,Washington,United States,78213,714.279.7341x855,RPH-592006,Claire Mcmillan,Apollo Pharmacy,2018-07-08,active,gold
+OUT-0481,Klein-Powell Pharmacy,pharmacy,0396 Andrew Mount,Christinatown,Louisiana,United States,86884,2179067949,RPH-992929,Mercedes Thompson,Costco Pharmacy,2007-05-28,active,silver
+OUT-0482,"Edwards, Frazier and Sanders Clinic",clinic,59389 Wallace Springs,West Whitney,Massachusetts,United States,56657,535.658.9607x0722,RPH-678684,Tracy Hall,MedPlus,2021-07-06,active,silver
+OUT-0483,Wilkins-Mullins Pharmacy,pharmacy,43097 Martin Roads,Theresabury,Massachusetts,United States,57152,(235)979-6714x8030,RPH-729489,Crystal Diaz,LloydsPharmacy,2021-07-28,active,platinum
+OUT-0484,"Kim, Diaz and Cervantes Clinic",clinic,82526 Penny Mountains Suite 128,Pattersonshire,Florida,United States,14091,422-832-1425,RPH-434625,Brian Burns,MedPlus,2014-03-26,active,bronze
+OUT-0485,"Payne, Shaffer and Thomas Distributors",distributor,465 Stuart Roads Suite 653,West Glenda,Minnesota,United States,42054,541-218-1851x367,RPH-507926,Brianna Harris,Guardian Pharmacy,2011-10-09,active,silver
+OUT-0486,"Schneider, Garcia and Watkins Hospital",hospital,684 Amanda Harbors Suite 146,East Anthony,Utah,United States,10265,483-533-5401x127,RPH-789080,Alexandra Smith,Walmart Pharmacy,2018-03-03,closed,gold
+OUT-0487,Johns-Foster Pharmacy,pharmacy,7090 Stanley Orchard Suite 183,Bennettstad,New Jersey,United States,00839,867.216.2172x0488,RPH-185517,Ashley Price,Walmart Pharmacy,2023-07-27,active,platinum
+OUT-0488,"Walker, Perez and Wilcox Pharmacy",pharmacy,4564 Mcdonald Coves,South Benjaminbury,New Jersey,United States,80353,+1-906-249-0970x34251,RPH-853696,Benjamin Boyer,Costco Pharmacy,2008-10-19,active,silver
+OUT-0489,"Berry, Lopez and Holder Hospital",hospital,670 Ramirez Crest,Sandraland,Florida,United States,78929,362.852.6022,RPH-760688,Tanya Johnson,Costco Pharmacy,2016-09-14,active,gold
+OUT-0490,"Hicks, Richardson and Hill Pharmacy",pharmacy,93358 Katelyn Views,Jamesland,Ohio,United States,01059,(357)235-1745x46935,RPH-909610,Morgan Torres,Kroger Pharmacy,2010-08-20,active,bronze
+OUT-0491,Hernandez PLC Hospital,hospital,19558 Knight Bridge,West Lindsey,Illinois,United States,79524,917.271.7030x568,RPH-666645,Elizabeth Anderson,Guardian Pharmacy,2010-09-17,active,bronze
+OUT-0492,"Reyes, Rivera and Richmond Hospital",hospital,389 Clark Mission Suite 841,Gallagherfurt,Florida,United States,60467,360.906.4345x973,RPH-990918,Amanda Perez,LloydsPharmacy,2019-07-29,active,silver
+OUT-0493,Carpenter-Fisher Pharmacy,pharmacy,7451 Kevin Harbors Apt. 947,Port Dave,Massachusetts,United States,12655,(660)954-2707x995,RPH-959120,Bruce Rodriguez,Kroger Pharmacy,2008-01-02,closed,silver
+OUT-0494,Ashley-Johnston Pharmacy,pharmacy,7545 Peterson Drive Suite 226,West William,Massachusetts,United States,35675,+1-803-490-9846x85606,RPH-285706,Tiffany Robbins,Walmart Pharmacy,2022-10-21,closed,silver
+OUT-0495,Jones-Stone Hospital,hospital,709 Ware Motorway Suite 957,Port Destinyshire,Illinois,United States,74556,(726)337-7927x11073,RPH-671123,Kyle Jackson,MedPlus,2016-02-19,closed,gold
+OUT-0496,"Mcguire, Russell and Rasmussen Distributors",distributor,3233 Brett Divide,New Bridget,Alabama,United States,30619,746-406-0694x306,RPH-358334,Jeffrey Hobbs,Shoppers Drug Mart,2005-08-27,closed,silver
+OUT-0497,Osborne-George Pharmacy,pharmacy,85370 Kristen Wall,Jonside,Louisiana,United States,44584,787-653-1198x0425,RPH-775493,Kendra Smith,CVS Health,2021-12-10,closed,gold
+OUT-0498,Mccann Group Pharmacy,pharmacy,55078 Pierce Route Suite 860,North Jeremy,Georgia,United States,77845,(721)831-7019,RPH-227235,Tammy Bean,None,2014-03-27,active,gold
+OUT-0499,"Stanley, Fernandez and Kennedy Pharmacy",pharmacy,87314 Linda Port Suite 629,South Ruthshire,Washington,United States,51920,241-260-3328x8807,RPH-463693,Michael White,Walmart Pharmacy,2006-02-08,active,gold
+OUT-0500,Collins-Cohen Hospital,hospital,22017 Evans Groves,South Joshuafort,Wisconsin,United States,81701,(210)346-6275,RPH-444918,Jared Becker,Guardian Pharmacy,2018-10-19,active,silver

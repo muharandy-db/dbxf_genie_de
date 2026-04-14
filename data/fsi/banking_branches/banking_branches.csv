@@ -1,0 +1,201 @@
+branch_id,branch_name,address,city,state,zip_code,country,phone,manager_name,opened_date,branch_type,region,num_employees
+BR-0001,South Brookeburgh West Branch,40333 Richardson Glens Apt. 381,South Brookeburgh,HI,65897,US,445-977-6880,Jeffrey Thomas,2013-08-30,full_service,Northeast,10
+BR-0002,New Rachel Downtown Branch,14564 Meyer Plains,New Rachel,AR,56235,US,020-284-8829,Amy Davidson,2007-08-28,full_service,Southeast,79
+BR-0003,North Robertfort South Branch,93256 James Corners Apt. 499,North Robertfort,NY,01335,US,038-302-1905,Lisa King,2000-03-24,digital,Mountain,10
+BR-0004,East Allisonmouth Plaza Branch,9273 Scott Fall,East Allisonmouth,TN,37628,US,240-669-0741,Wayne Zimmerman,2007-01-30,digital,Mountain,9
+BR-0005,Brettchester South Branch,05949 Rachel Summit,Brettchester,MS,38776,US,518-791-5990,Mr. Ronald Perry,2005-03-26,full_service,West,68
+BR-0006,New James North Branch,32795 Miller Expressway,New James,NY,42333,US,314-892-1325,Thomas Cooke,2018-11-12,full_service,Southwest,12
+BR-0007,Steelemouth South Branch,802 Edwards Lake Suite 231,Steelemouth,WA,80168,US,372-538-9512,Tracy Robles,2024-04-19,full_service,Mountain,34
+BR-0008,Mcgeeview Gateway Branch,899 Romero Drive Suite 767,Mcgeeview,AR,92434,US,845-664-1809,Steven Vega,2013-12-21,limited_service,Southeast,75
+BR-0009,Bellside Main Branch,14336 Timothy Heights,Bellside,WI,22164,US,958-080-9227,Tyler Bennett,2001-12-16,full_service,Mountain,50
+BR-0010,New Dawn South Branch,88255 Osborn Skyway Suite 315,New Dawn,IN,10212,US,266-582-8599,Adam Lee,2006-07-16,limited_service,West,12
+BR-0011,North Andrewport North Branch,222 Davis Gardens,North Andrewport,AZ,65899,US,590-382-8647,Alexander Young,2020-12-26,digital,Northeast,7
+BR-0012,Donaldton Park Branch,9704 Kathleen Common Apt. 981,Donaldton,NJ,82961,US,753-725-7970,Erica Glass,2004-02-02,full_service,Southwest,76
+BR-0013,Lake Tina Main Branch,000 Lopez Haven Suite 375,Lake Tina,KS,93558,US,401-361-0846,Catherine Reed,2014-10-05,digital,Pacific Northwest,3
+BR-0014,South Ryan East Branch,9495 Gay Lakes,South Ryan,ME,97874,US,512-776-0407,Fernando Gaines,2000-12-28,limited_service,Pacific Northwest,41
+BR-0015,South Steven Plaza Branch,1693 Timothy Falls,South Steven,CO,19826,US,867-200-6398,Shawn Kline,2024-02-16,full_service,Southeast,26
+BR-0016,North Daleshire Central Branch,73872 Kristina Rest,North Daleshire,VT,90127,US,109-081-8753,Sandra Rodriguez,2021-09-07,digital,Pacific Northwest,12
+BR-0017,Hoganmouth North Branch,65685 Anderson Loop Suite 603,Hoganmouth,WY,26944,US,023-672-5051,Spencer Adams,2013-09-21,full_service,Southeast,34
+BR-0018,Johnsontown North Branch,638 Marissa Course Apt. 654,Johnsontown,WV,37702,US,886-586-8374,Erica Weber,2017-09-02,full_service,Northeast,59
+BR-0019,Lake John Park Branch,6151 Trevor Estates,Lake John,NY,74186,US,136-203-3929,Victoria Torres,2011-04-14,limited_service,West,42
+BR-0020,Douglashaven Downtown Branch,742 Pearson Station,Douglashaven,TN,02116,US,149-254-5816,Geoffrey Gonzalez,2014-05-23,full_service,Mid-Atlantic,64
+BR-0021,Jamesport South Branch,281 Sara Roads,Jamesport,AZ,42223,US,007-949-2363,Joshua Goodman,2019-01-14,digital,Pacific Northwest,4
+BR-0022,Port Joshuaburgh South Branch,278 Abbott Centers,Port Joshuaburgh,DE,61152,US,847-570-3857,Alexis Wood,2018-07-23,limited_service,Southeast,8
+BR-0023,South Melissa Gateway Branch,0615 Knight Neck,South Melissa,FL,48229,US,347-349-6342,Mrs. Lindsay Robinson,2024-07-06,full_service,Northeast,43
+BR-0024,Smithside Main Branch,966 Angelica Bypass,Smithside,MT,17747,US,500-409-2675,Mark Ramirez,2023-05-13,full_service,Northeast,78
+BR-0025,Garciahaven Central Branch,8507 Derek Flats Apt. 218,Garciahaven,ND,43898,US,149-921-3044,Elizabeth Coleman,2022-12-20,limited_service,Mid-Atlantic,15
+BR-0026,North Robert Downtown Branch,271 George Fords Apt. 070,North Robert,KS,86804,US,663-468-3678,Francisco Parrish,2024-11-08,full_service,Southeast,68
+BR-0027,Josephhaven Gateway Branch,98820 Erica Port,Josephhaven,CA,53701,US,758-540-7201,Laura Cooper,2007-02-16,full_service,Mid-Atlantic,30
+BR-0028,North Amanda South Branch,098 Harris Summit Suite 539,North Amanda,AL,20222,US,749-673-0810,Angelica Koch,2018-11-23,full_service,Mid-Atlantic,18
+BR-0029,South Johnside North Branch,6748 Rebecca Glen,South Johnside,LA,19448,US,847-442-8723,Aaron Hawkins,2018-02-13,full_service,Midwest,80
+BR-0030,Kristiport South Branch,98376 Jeffrey Course,Kristiport,AL,70854,US,603-254-8845,Sara Parsons,2014-06-10,full_service,Northeast,22
+BR-0031,Bradyside Central Branch,940 Stephen Causeway Apt. 483,Bradyside,OK,07013,US,899-647-6132,Zachary Cochran,2004-06-06,full_service,Mid-Atlantic,84
+BR-0032,Huntertown Park Branch,7775 Warren Manors,Huntertown,ME,96475,US,518-062-7387,Ryan Ford,2019-07-15,full_service,Pacific Northwest,46
+BR-0033,Sarahshire North Branch,23417 Scott Ville,Sarahshire,IA,20729,US,280-132-1328,Nathan Ward,2002-04-02,limited_service,Pacific Northwest,61
+BR-0034,Savannahville East Branch,3748 Taylor Ville,Savannahville,IA,66697,US,088-841-5465,Lisa Jenkins,2009-03-22,digital,Pacific Northwest,4
+BR-0035,Jonesville Central Branch,164 Gonzalez Centers Suite 033,Jonesville,VA,39248,US,037-638-8356,Theresa Mckinney,2012-12-19,digital,Northeast,7
+BR-0036,North Jason Downtown Branch,89999 Harrison Land Apt. 573,North Jason,NC,87781,US,378-776-0454,Samuel Neal,2008-05-10,limited_service,Mid-Atlantic,32
+BR-0037,Kimberlyton Central Branch,993 Baker Trail,Kimberlyton,AL,85350,US,488-652-6481,David Johnson,2016-07-17,limited_service,Southwest,68
+BR-0038,Mirandaton Park Branch,019 Rodgers Alley Suite 827,Mirandaton,MD,63044,US,817-793-0505,Christine Johnson,2014-09-12,full_service,Northeast,38
+BR-0039,East Howard Main Branch,1679 Betty Extensions,East Howard,MA,85024,US,427-161-0889,Nicole Williams,2010-02-11,digital,West,3
+BR-0040,Cookside Gateway Branch,7281 Hall Station Apt. 696,Cookside,IN,42660,US,558-706-7187,Lauren Glenn,2010-10-21,limited_service,Southwest,13
+BR-0041,Katherineberg Main Branch,69688 Jones Square,Katherineberg,ME,44296,US,227-864-4805,Paula Gonzalez,2014-06-30,full_service,Mid-Atlantic,61
+BR-0042,Maryland Downtown Branch,18998 Rogers Row Suite 044,Maryland,MN,28460,US,710-735-9329,Katherine Weaver,2017-11-05,limited_service,Midwest,25
+BR-0043,West Jeffreyview Central Branch,0388 Bowen Spring Apt. 975,West Jeffreyview,GA,42077,US,581-053-7556,Andrew Acevedo,2023-07-07,full_service,Southwest,54
+BR-0044,Michaelstad Park Branch,2672 Dalton Route,Michaelstad,IN,14735,US,449-297-4393,Douglas Richardson,2002-10-05,limited_service,Southwest,40
+BR-0045,South Anthony East Branch,491 Daniel Fords Apt. 905,South Anthony,HI,82088,US,127-827-4892,Sarah Simmons,2006-05-07,full_service,Mountain,62
+BR-0046,Melissaport Central Branch,767 Brett Stravenue,Melissaport,AL,40972,US,463-609-6525,Jennifer Kelley,2009-01-16,digital,Southwest,8
+BR-0047,Rebeccaville Park Branch,98237 Scott Station Apt. 229,Rebeccaville,MT,17675,US,664-024-2722,Laura Nelson,2022-01-10,full_service,Southwest,84
+BR-0048,North Bonnie East Branch,852 Clark Key,North Bonnie,WV,23393,US,507-118-5976,Thomas Griffin,2011-09-25,full_service,Northeast,47
+BR-0049,Johnstonton Downtown Branch,02414 Braun Underpass Suite 283,Johnstonton,SC,39130,US,321-413-0456,Stephen Galloway,2011-03-20,full_service,Mid-Atlantic,80
+BR-0050,Port Steven North Branch,1856 Davis Mews Apt. 956,Port Steven,NH,80381,US,352-329-8981,Amy Jones,2005-03-20,digital,Mid-Atlantic,3
+BR-0051,New Kimberly Gateway Branch,634 Ryan Alley Apt. 040,New Kimberly,MT,76155,US,510-661-3775,Jessica Ramirez,2023-11-15,full_service,Pacific Northwest,34
+BR-0052,Gravesborough Park Branch,54913 Kevin Street Suite 183,Gravesborough,CT,44880,US,266-955-2607,Tyler Rosario,2013-07-11,full_service,Southwest,33
+BR-0053,Carlostown Main Branch,0239 Berry Spur Apt. 365,Carlostown,NE,92266,US,586-250-7799,Andrew Clark,2021-05-31,digital,Southeast,11
+BR-0054,West Derek North Branch,246 Jasmine Loaf Apt. 993,West Derek,RI,44795,US,912-431-9882,Deborah Carter,2024-04-29,digital,Mountain,6
+BR-0055,South Brianshire Main Branch,05778 Daniel Row,South Brianshire,NC,07707,US,571-786-6615,Angelica Watts,2019-10-18,full_service,Mountain,52
+BR-0056,Port Jamesshire Plaza Branch,332 Julie Street Apt. 247,Port Jamesshire,MT,53769,US,617-436-1525,Katherine Snow,2006-03-31,full_service,Northeast,60
+BR-0057,Maynardmouth Park Branch,561 George Viaduct Suite 333,Maynardmouth,TX,16653,US,002-453-0140,Nina Garcia,2024-04-10,full_service,Southeast,71
+BR-0058,North Rickton Main Branch,664 Williamson Island Apt. 071,North Rickton,MO,39097,US,689-651-4746,Joshua Adams,2016-01-24,full_service,Midwest,72
+BR-0059,Ryanland Downtown Branch,6316 Michael Points Apt. 843,Ryanland,ID,18091,US,567-219-7082,Gregg Nichols,2004-10-21,full_service,Southwest,60
+BR-0060,Changside Downtown Branch,77955 Ashley Well Suite 386,Changside,MO,87579,US,119-194-0051,Sara Gutierrez,2003-05-06,full_service,Pacific Northwest,7
+BR-0061,Rossberg North Branch,75774 Dixon Walk Apt. 868,Rossberg,WV,77007,US,719-220-4413,Jonathan Johnson,2016-02-20,digital,West,15
+BR-0062,Ramirezberg Central Branch,46180 Kristina Burg,Ramirezberg,GA,48345,US,884-863-5033,Eric Johnson,2019-10-29,digital,Southeast,11
+BR-0063,Williamsborough Central Branch,12256 Laura Mills Apt. 081,Williamsborough,LA,89096,US,168-168-8298,Angela Richards,2022-11-11,full_service,Pacific Northwest,19
+BR-0064,New Roger South Branch,8371 Heather Gardens,New Roger,NE,07470,US,847-762-2818,Deborah King,2019-06-23,full_service,Midwest,6
+BR-0065,Cartershire South Branch,8147 Brett Landing,Cartershire,CO,49893,US,161-243-4633,Stephanie Rodriguez,2011-01-14,limited_service,Northeast,48
+BR-0066,Elizabethport South Branch,437 Scott Knoll Suite 604,Elizabethport,WY,88959,US,372-079-7944,Eric Dodson,2008-06-20,full_service,Mountain,50
+BR-0067,Mccannland South Branch,35720 Adam Highway Apt. 045,Mccannland,ID,37359,US,957-521-9765,Jennifer Williams,2021-08-10,full_service,Mountain,68
+BR-0068,Wendyside East Branch,586 Allen Meadows Suite 909,Wendyside,AK,54728,US,117-712-4041,Harry Henson,2002-01-08,full_service,Mountain,72
+BR-0069,North Jared East Branch,0714 Mcclure Circles Apt. 127,North Jared,WY,92757,US,311-663-3131,Matthew Ramirez,2020-08-25,limited_service,Mid-Atlantic,75
+BR-0070,New Carlos North Branch,687 Horton Villages Apt. 532,New Carlos,MT,99240,US,115-569-0173,Susan Williams,2007-08-04,full_service,Mountain,5
+BR-0071,West Katherine Plaza Branch,44417 Joel Lights Apt. 328,West Katherine,NC,70330,US,476-367-2111,Cameron Bailey,2023-06-30,limited_service,Northeast,80
+BR-0072,Ramirezborough South Branch,4881 Sawyer Ways Suite 547,Ramirezborough,WY,41650,US,693-002-2223,Melissa Davis,2013-05-29,full_service,West,66
+BR-0073,Clementsbury West Branch,2561 Carpenter Road,Clementsbury,VA,82832,US,587-012-0555,Lauren Dudley,2003-09-21,full_service,Northeast,8
+BR-0074,Gonzaleztown Downtown Branch,11000 Caldwell Mountain Suite 162,Gonzaleztown,GA,16575,US,598-281-2552,Anthony Bailey,2023-08-28,full_service,Pacific Northwest,22
+BR-0075,Bethanyport South Branch,0925 Michael Pine Suite 080,Bethanyport,MN,63723,US,512-008-0621,Amy Blankenship,2011-09-04,limited_service,Southwest,31
+BR-0076,Williamsland West Branch,7263 Richards Drive Apt. 128,Williamsland,VT,94184,US,496-249-1909,Ashley Bell,2023-09-13,full_service,Pacific Northwest,19
+BR-0077,Wilsonmouth West Branch,90563 Katelyn Street,Wilsonmouth,NC,06819,US,448-944-0670,Lisa Wheeler,2014-04-02,full_service,Pacific Northwest,53
+BR-0078,West Lisatown North Branch,868 Kenneth Falls,West Lisatown,AK,95314,US,609-160-0984,Rachel Allen,2006-02-06,full_service,West,27
+BR-0079,Lake Julie Main Branch,4534 Mitchell Summit Suite 906,Lake Julie,WI,23175,US,228-962-4912,Jessica Benton,2023-04-18,limited_service,West,37
+BR-0080,Lynnbury Main Branch,19931 Kenneth Islands Suite 412,Lynnbury,MN,68037,US,832-017-0168,Vanessa Griffin,2010-12-24,full_service,West,39
+BR-0081,New Matthewside West Branch,03117 Briana Drive,New Matthewside,AK,65027,US,769-200-4585,Tiffany Martin,2022-12-15,limited_service,Mid-Atlantic,25
+BR-0082,Melissaburgh East Branch,9346 Mosley Hollow Apt. 387,Melissaburgh,KY,05389,US,431-900-1911,Alexandra Benjamin,2022-05-18,digital,Southwest,6
+BR-0083,New Jessica Downtown Branch,4455 Smith Rue Apt. 414,New Jessica,WY,44861,US,896-615-1824,Justin Melton,2021-05-18,full_service,Southeast,7
+BR-0084,East Alexanderstad Gateway Branch,5596 Williams Manor,East Alexanderstad,MT,42328,US,754-521-9584,Amy Watson,2022-04-08,full_service,Southeast,20
+BR-0085,Watsonport Central Branch,802 Tara Island,Watsonport,ND,72481,US,646-766-4544,Ronald Dougherty,2005-09-28,full_service,Pacific Northwest,21
+BR-0086,South Courtney East Branch,828 Smith Parks,South Courtney,NV,36207,US,509-671-4757,Chris Parker,2021-08-13,full_service,Pacific Northwest,37
+BR-0087,South Jose South Branch,37636 Jones Land,South Jose,VA,71122,US,736-093-9732,Taylor Wu,2001-07-22,limited_service,Midwest,20
+BR-0088,East Curtis East Branch,461 Brenda Divide,East Curtis,PA,55514,US,670-436-3407,Jessica Cummings,2000-05-20,full_service,Southeast,53
+BR-0089,Brendastad South Branch,1913 Smith Mews,Brendastad,SC,83439,US,662-404-0828,Matthew Frederick,2005-12-29,limited_service,West,80
+BR-0090,West Danielchester West Branch,997 Barbara Oval,West Danielchester,TN,01496,US,200-058-3468,Brendan Myers,2012-09-10,full_service,Northeast,11
+BR-0091,Lake Fredview Central Branch,7912 Barnes Inlet Apt. 456,Lake Fredview,MS,97160,US,718-230-8468,Miguel Coffey,2008-07-09,full_service,Northeast,37
+BR-0092,New Elizabeth East Branch,3871 Mary Pines,New Elizabeth,TX,02079,US,882-321-6247,Nancy Mendoza,2005-03-06,full_service,Southwest,16
+BR-0093,East Shelbybury Gateway Branch,9983 Melissa Parks Suite 752,East Shelbybury,CO,08141,US,027-353-6905,Mrs. Julie Townsend,2020-08-31,digital,West,8
+BR-0094,Fredericktown North Branch,24596 Carrillo Cape Apt. 080,Fredericktown,CA,52406,US,824-511-9853,Angela Alvarez,2008-08-17,limited_service,Northeast,33
+BR-0095,West Laurafort Gateway Branch,4264 Brandy Extension Suite 661,West Laurafort,IA,83233,US,863-485-3683,William Morgan,2022-09-14,full_service,Southwest,47
+BR-0096,Elliottmouth North Branch,20432 Caroline Ranch Apt. 997,Elliottmouth,NJ,81978,US,738-914-8868,Thomas Robinson,2015-04-08,full_service,Northeast,40
+BR-0097,Burchstad Central Branch,3849 Hernandez Crossroad,Burchstad,NY,25113,US,067-077-1613,Andrea Spence,2020-07-30,full_service,Pacific Northwest,19
+BR-0098,East Mary Main Branch,71211 Andrew Harbor Suite 586,East Mary,FL,43917,US,827-442-5531,David Hayes,2012-12-04,full_service,Midwest,42
+BR-0099,West Sara North Branch,56424 Compton Locks Suite 725,West Sara,GA,52910,US,109-256-5302,Patricia Washington,2020-03-30,full_service,Pacific Northwest,23
+BR-0100,Danielview North Branch,38744 Norton Throughway Apt. 144,Danielview,UT,77539,US,156-190-3252,Angel Smith,2008-08-16,full_service,Northeast,65
+BR-0101,North Matthewview South Branch,3060 Scott Neck Suite 692,North Matthewview,IA,59973,US,733-924-9352,Maria Manning,2016-06-09,full_service,West,68
+BR-0102,Gillburgh Downtown Branch,1678 Joseph Hills,Gillburgh,IN,91291,US,552-194-0642,Taylor Richmond,2004-12-04,full_service,Mid-Atlantic,14
+BR-0103,North Michaelfort Gateway Branch,4413 Lindsey Keys Apt. 008,North Michaelfort,ND,66915,US,981-483-4306,Morgan Drake,2001-10-30,digital,Northeast,15
+BR-0104,Chadfort South Branch,56187 Arnold Hollow Suite 230,Chadfort,SD,24154,US,853-134-5620,Robert Gibson,2016-08-11,digital,Midwest,14
+BR-0105,East Michael Plaza Branch,27803 Robinson Flat Apt. 482,East Michael,UT,39991,US,147-272-3386,Amy Dean,2000-09-05,full_service,Midwest,72
+BR-0106,Theresamouth Downtown Branch,8754 Rodney Ports,Theresamouth,OH,59217,US,850-246-0503,Justin Klein,2022-05-27,full_service,Mountain,49
+BR-0107,New Marcusbury Downtown Branch,281 Jerry Extensions Apt. 519,New Marcusbury,TX,29334,US,316-718-1807,Janet Fields,2023-08-29,full_service,Northeast,42
+BR-0108,New Taramouth Central Branch,57589 Ford Trafficway Suite 551,New Taramouth,MA,83640,US,131-645-5190,Heather Reyes,2016-07-23,digital,Southwest,11
+BR-0109,Geoffreyfort Central Branch,451 Robert Way Apt. 212,Geoffreyfort,NM,88675,US,279-065-6709,Rebecca Brown,2010-02-23,digital,Midwest,10
+BR-0110,Walkerview Central Branch,674 Andrea Highway Suite 595,Walkerview,AL,06437,US,050-407-7417,Victoria West,2002-12-27,full_service,Southeast,65
+BR-0111,Lake Charles North Branch,8426 Johnny Lights,Lake Charles,NJ,25547,US,514-551-9169,Michael Lyons,2003-08-15,full_service,Southeast,9
+BR-0112,Hesterville Main Branch,7728 Jennifer Shore Apt. 783,Hesterville,WV,48556,US,044-389-5481,Brianna Hall,2000-10-04,limited_service,Southeast,72
+BR-0113,Port Whitneymouth East Branch,4959 Kathryn Spring Suite 650,Port Whitneymouth,NE,05157,US,691-466-8024,Joanna Graham,2017-02-04,full_service,Mid-Atlantic,38
+BR-0114,New Jasonport Plaza Branch,2228 Brian Isle,New Jasonport,GA,58398,US,839-554-1314,Collin Smith,2017-01-23,digital,Northeast,11
+BR-0115,West Alyssa West Branch,3607 Susan Inlet,West Alyssa,KY,95501,US,851-375-2955,Joseph Reed,2012-03-20,full_service,Southeast,61
+BR-0116,Gloverhaven Central Branch,6741 Holly Route,Gloverhaven,NE,71275,US,687-193-0791,Janet Allen,2005-08-15,digital,West,11
+BR-0117,West Crystalstad Downtown Branch,062 Bryan Mission Apt. 795,West Crystalstad,AZ,20398,US,512-665-3328,Kristen Wolfe,2013-11-10,full_service,Southeast,37
+BR-0118,South Kennethchester North Branch,11965 Lambert Plaza Suite 157,South Kennethchester,NM,38560,US,716-561-9606,Devin Barrera,2013-03-25,full_service,Northeast,81
+BR-0119,Carneyhaven North Branch,2956 Cooper Corner Suite 342,Carneyhaven,WY,50662,US,016-105-9577,Heidi Nixon,2019-04-09,digital,West,9
+BR-0120,Thompsonburgh Gateway Branch,740 Avery Rue,Thompsonburgh,NC,45279,US,638-717-5281,Brittney Smith,2019-02-24,full_service,Northeast,37
+BR-0121,Smithhaven South Branch,25674 Clifford Springs,Smithhaven,CT,99466,US,844-173-8739,Amy Smith,2002-12-07,full_service,West,36
+BR-0122,East Heatherchester South Branch,75152 Jason Harbors,East Heatherchester,TX,04353,US,645-431-3499,Patricia White,2018-03-01,full_service,Midwest,76
+BR-0123,Port Kimberly East Branch,386 Raymond Heights,Port Kimberly,DE,44518,US,380-511-7768,Emily Burton,2019-04-23,limited_service,Southeast,39
+BR-0124,North Andreaville Gateway Branch,6130 Collins Mount Suite 808,North Andreaville,HI,89532,US,853-069-9030,Julie Moore,2006-11-22,full_service,Mountain,71
+BR-0125,West Eric West Branch,409 Paul Isle,West Eric,UT,27122,US,749-059-8821,George Hernandez,2013-04-06,full_service,Northeast,25
+BR-0126,Lake Melaniefort Central Branch,656 Perez Spring Apt. 219,Lake Melaniefort,OH,28202,US,259-206-8944,Sarah Kim,2009-11-17,limited_service,Northeast,58
+BR-0127,Aaronchester Downtown Branch,526 Barnes Ports Apt. 549,Aaronchester,WA,35309,US,235-825-9131,Robin Ray,2013-04-23,full_service,Pacific Northwest,81
+BR-0128,Dawnchester Gateway Branch,101 Darren Pines,Dawnchester,AZ,44713,US,161-652-1350,Kenneth Weeks,2008-02-10,full_service,Midwest,39
+BR-0129,Johnbury Plaza Branch,789 Saunders Trail Suite 728,Johnbury,TX,17732,US,240-649-6223,William Moore,2017-10-18,limited_service,Southeast,27
+BR-0130,West Bernardshire Central Branch,5692 Hammond Wells,West Bernardshire,NE,07694,US,428-173-6576,Eric Singleton,2012-07-13,limited_service,Mountain,67
+BR-0131,Hallville Central Branch,238 Maria Inlet,Hallville,VT,17995,US,660-917-3293,Nicole Nelson,2007-04-10,limited_service,Southeast,43
+BR-0132,Dustinchester East Branch,2302 Anderson Squares,Dustinchester,MI,44095,US,352-720-7994,Michael Davis,2023-05-21,digital,Midwest,10
+BR-0133,Rebeccafort East Branch,539 Kathy Forges,Rebeccafort,ID,08732,US,059-777-1739,Christopher Wilson,2002-09-17,digital,Mid-Atlantic,5
+BR-0134,Sarahburgh Park Branch,5598 Clark Haven Apt. 519,Sarahburgh,SC,08346,US,140-009-4162,Alyssa Jackson,2019-09-17,full_service,Southwest,37
+BR-0135,Lake Angela Plaza Branch,56819 Chase Islands Apt. 319,Lake Angela,RI,26606,US,089-865-2512,Amanda Rogers,2019-05-25,limited_service,Midwest,26
+BR-0136,Bishopshire North Branch,89948 Watson Wall Apt. 670,Bishopshire,MS,38143,US,412-867-6158,Mark Holt,2002-04-16,full_service,West,56
+BR-0137,East Petermouth Central Branch,297 Gabriela Prairie Apt. 779,East Petermouth,AZ,17750,US,500-313-5289,Corey Elliott,2020-04-23,full_service,Mountain,53
+BR-0138,Collinsshire West Branch,61350 Marshall Hollow,Collinsshire,NV,25379,US,429-142-7847,Janet Cameron,2013-10-30,limited_service,Southeast,54
+BR-0139,Port Allisonberg North Branch,597 Adams Station Suite 627,Port Allisonberg,PA,91033,US,755-307-5541,Robert Lopez,2020-06-02,full_service,Southwest,34
+BR-0140,Port Garyville Central Branch,625 Jones Unions Suite 636,Port Garyville,NH,28358,US,642-069-6192,Laura Brooks,2023-02-09,full_service,Southwest,72
+BR-0141,Port Erin Downtown Branch,75053 Mike Junction Suite 273,Port Erin,MT,94003,US,217-269-1313,Juan Flores,2019-11-04,full_service,Pacific Northwest,78
+BR-0142,Lake Suzanneton Plaza Branch,27142 Adams Roads Suite 976,Lake Suzanneton,GA,55561,US,269-001-2582,Abigail Mahoney,2014-04-04,full_service,Pacific Northwest,84
+BR-0143,Thomaschester Plaza Branch,65865 Curtis Mountains Suite 043,Thomaschester,MD,19503,US,881-144-7326,Andrew Gray,2003-03-02,limited_service,Southwest,81
+BR-0144,Sergioland Main Branch,5419 Erica Stravenue,Sergioland,KY,34786,US,363-614-9568,Tammy Hoffman,2000-07-17,full_service,Pacific Northwest,57
+BR-0145,East Jordan Plaza Branch,58195 Carter Ramp,East Jordan,ME,90995,US,162-357-3191,Terry Johnston,2013-03-16,limited_service,Pacific Northwest,41
+BR-0146,Katherinebury North Branch,46373 Jackson Land,Katherinebury,CA,45248,US,012-974-6860,Ronald Adams,2022-07-18,digital,Mid-Atlantic,8
+BR-0147,Kellybury Central Branch,4994 Miller Courts Suite 280,Kellybury,ME,91202,US,953-538-2687,Joe Hill,2001-06-24,full_service,West,42
+BR-0148,Glassland Gateway Branch,571 Cynthia Walk,Glassland,WV,11567,US,442-072-1160,Leah Morris,2008-08-02,full_service,Southeast,25
+BR-0149,Port Danaport Main Branch,6188 Harris Gateway Suite 624,Port Danaport,MS,06033,US,970-877-5914,Tony Dennis,2005-01-22,full_service,Midwest,84
+BR-0150,East Brittanymouth Park Branch,947 Gary Cliffs,East Brittanymouth,AR,99876,US,144-411-8064,James Griffin,2019-05-16,limited_service,Midwest,77
+BR-0151,Terryberg Gateway Branch,326 Jason Parks Apt. 800,Terryberg,GA,73473,US,214-463-8739,Derek Perez,2022-07-22,limited_service,Southeast,50
+BR-0152,New Christina East Branch,9792 Ann Lakes,New Christina,MD,90938,US,563-909-0197,Karen Lewis,2002-10-17,limited_service,Mountain,8
+BR-0153,Gibbsmouth Gateway Branch,60887 Melissa Row,Gibbsmouth,TX,70419,US,474-450-7553,Miranda Garrett,2005-07-25,limited_service,West,18
+BR-0154,East Scott Downtown Branch,06633 Barbara Station,East Scott,ME,81798,US,717-905-6448,Wesley Tate,2002-06-18,full_service,Southeast,5
+BR-0155,Williamsstad West Branch,1919 Gonzales Mill,Williamsstad,CA,39329,US,811-208-5748,Jacob Smith,2023-05-25,full_service,Midwest,28
+BR-0156,Lake Kennethside Main Branch,297 Davis Wall,Lake Kennethside,NJ,70351,US,190-502-3209,Kayla Serrano,2006-07-05,digital,Mid-Atlantic,11
+BR-0157,Omarfort West Branch,67066 Ann Extension,Omarfort,NM,23243,US,098-012-0764,Joanne Sparks,2009-07-18,digital,West,13
+BR-0158,Edwardmouth Main Branch,73585 Cook Plains,Edwardmouth,LA,35255,US,789-353-8448,Lance Torres,2023-12-31,full_service,Mid-Atlantic,31
+BR-0159,Beckerport Plaza Branch,452 Pratt Alley,Beckerport,MD,15465,US,786-542-4368,Michael Peters,2022-06-06,limited_service,Southeast,9
+BR-0160,Port Seanbury Main Branch,1721 Beck Forest,Port Seanbury,KS,92757,US,004-349-1903,Wesley Cooper,2009-03-01,limited_service,Southeast,53
+BR-0161,South Kaylafurt Main Branch,630 Michelle Station,South Kaylafurt,LA,40419,US,103-408-2644,Rachel Salazar DVM,2007-12-08,full_service,Southeast,39
+BR-0162,North Donald Central Branch,66931 Martin Fords,North Donald,SD,77546,US,992-158-5646,Samantha Reese,2013-12-25,full_service,Mountain,16
+BR-0163,Lake Lee South Branch,467 Paul River,Lake Lee,IL,29575,US,085-020-6537,Martha Guerrero,2000-10-04,full_service,Pacific Northwest,16
+BR-0164,Port Blake South Branch,099 House Meadows,Port Blake,AR,79208,US,009-583-9807,Jessica Stanley,2007-10-19,limited_service,Pacific Northwest,48
+BR-0165,North Markshire West Branch,127 Shaw Corner,North Markshire,ID,02964,US,361-481-3644,Mr. Wayne Gray,2022-03-13,digital,Southwest,3
+BR-0166,North Karen West Branch,31084 Cunningham Crest,North Karen,NH,66628,US,910-046-0441,Ashley Singh,2010-06-19,full_service,Northeast,30
+BR-0167,North Jenniferberg West Branch,461 Levine Streets,North Jenniferberg,AL,56343,US,567-501-7848,Susan Jones,2003-12-04,full_service,Southeast,57
+BR-0168,West Michelle West Branch,93719 Ashley Fields Suite 506,West Michelle,IN,90526,US,849-457-9334,Mary Pearson,2014-09-13,full_service,Mountain,5
+BR-0169,Courtneymouth Downtown Branch,95732 Davenport Station,Courtneymouth,WV,56825,US,725-162-4901,Jasmine Turner,2018-02-06,full_service,Pacific Northwest,56
+BR-0170,North Stephaniemouth Gateway Branch,0969 Smith Well,North Stephaniemouth,WY,38449,US,927-408-8357,Kyle Johnson,2004-06-19,digital,Midwest,14
+BR-0171,Port Sheilaberg North Branch,6533 Andrew Estate Apt. 230,Port Sheilaberg,UT,19338,US,625-102-7217,Christina Mcguire,2023-04-26,limited_service,Mid-Atlantic,73
+BR-0172,Mitchellhaven Plaza Branch,587 Bailey Wall,Mitchellhaven,PA,07325,US,594-432-4438,Kelly Cooper,2015-08-30,digital,Northeast,14
+BR-0173,Robertbury West Branch,54445 Wong Estate Apt. 436,Robertbury,KS,10446,US,358-990-4470,Elizabeth Kim,2008-02-03,full_service,Northeast,10
+BR-0174,Lake Michael Downtown Branch,12055 Chapman Plains Apt. 098,Lake Michael,CT,82269,US,863-956-8470,Austin Ponce,2017-11-09,limited_service,Southeast,49
+BR-0175,East Timothy Plaza Branch,6825 Nelson Fields,East Timothy,OH,63224,US,003-831-2280,Jamie Shah,2022-04-09,full_service,Mountain,85
+BR-0176,Schroederton Downtown Branch,6330 Shawn Oval,Schroederton,WI,81441,US,011-294-1106,John Mccoy,2005-04-19,full_service,Mountain,80
+BR-0177,Lake Zacharyside East Branch,067 Gross Drive Suite 835,Lake Zacharyside,OR,84896,US,938-045-8707,Stephanie Evans,2017-07-22,full_service,Mountain,32
+BR-0178,Lake Stephaniechester Main Branch,60359 Lydia Coves Apt. 596,Lake Stephaniechester,WY,25590,US,666-530-0004,Karen Odom,2022-06-24,full_service,Southeast,57
+BR-0179,Port Juanside Downtown Branch,94898 Ray Loop Suite 928,Port Juanside,NH,02932,US,742-397-0335,Melissa White,2004-10-08,full_service,Midwest,44
+BR-0180,Cindyberg West Branch,211 Holloway Wells Apt. 319,Cindyberg,MN,41639,US,573-790-4792,Emily Spence,2023-10-26,full_service,Northeast,27
+BR-0181,North Patrick South Branch,310 Joseph Manors,North Patrick,OR,59474,US,572-029-0056,Kenneth Marsh,2002-09-25,full_service,Southeast,56
+BR-0182,Lake Kevinview Main Branch,441 Stephen Hill,Lake Kevinview,NM,75600,US,220-651-9324,Brian Perkins,2012-04-10,limited_service,Midwest,55
+BR-0183,Elijahtown Downtown Branch,739 Winters Fords Suite 704,Elijahtown,TX,78311,US,228-212-0670,Jacob Jones,2024-03-08,full_service,Pacific Northwest,34
+BR-0184,Mcclainhaven North Branch,131 Alan Landing,Mcclainhaven,OH,58789,US,291-298-9012,Steven Williams,2001-12-02,limited_service,Southeast,65
+BR-0185,North Alyssaborough Central Branch,43930 Anthony Meadow Suite 601,North Alyssaborough,PA,87942,US,542-685-8218,Kristina Harris,2014-03-11,digital,West,4
+BR-0186,Pamelamouth Gateway Branch,61805 Jordan Landing,Pamelamouth,IL,20629,US,990-259-7638,Laura Atkins,2019-09-04,limited_service,Pacific Northwest,23
+BR-0187,Kaiserchester Park Branch,441 Hernandez Brooks,Kaiserchester,NH,34130,US,768-571-8546,Sandra Hoffman,2023-06-12,full_service,Northeast,61
+BR-0188,South Gregorymouth Downtown Branch,85182 Parks Oval,South Gregorymouth,NM,19857,US,405-449-5878,Pamela Gomez,2010-07-07,full_service,Pacific Northwest,24
+BR-0189,Thomastown Plaza Branch,4978 Barber Circle Apt. 341,Thomastown,ME,93191,US,084-629-0544,Kimberly Gomez,2023-08-02,digital,Southeast,11
+BR-0190,Donaldmouth East Branch,0892 Jaime Courts Suite 072,Donaldmouth,FL,45968,US,933-033-2452,Nicole Kelly,2003-07-04,digital,Midwest,12
+BR-0191,Lake Jenniferfort Main Branch,7635 Lopez Lane,Lake Jenniferfort,TN,97793,US,979-099-7072,Andrew Mosley,2008-01-01,full_service,West,6
+BR-0192,East Craigport Park Branch,59853 Fletcher Meadow Suite 238,East Craigport,ID,23351,US,848-179-2637,Jeremy Ruiz,2011-09-04,full_service,Mountain,58
+BR-0193,West Brett South Branch,5486 Willis Manors Suite 245,West Brett,NC,60775,US,651-478-7779,Natalie Dickerson,2022-08-17,limited_service,Mid-Atlantic,55
+BR-0194,New Mariahbury South Branch,76229 Victor Common Suite 001,New Mariahbury,UT,99743,US,040-530-7967,Kristina Rogers,2017-04-19,full_service,Southeast,47
+BR-0195,New Valeriefort South Branch,904 Johnson Gateway Apt. 848,New Valeriefort,MD,49016,US,343-770-8262,Nicholas Floyd,2011-05-16,full_service,Pacific Northwest,62
+BR-0196,Scottstad North Branch,176 Lauren Crescent Apt. 357,Scottstad,AZ,16021,US,139-283-6732,Gary Pearson,2008-07-10,full_service,West,76
+BR-0197,Scotthaven Plaza Branch,38673 Tiffany Fields Apt. 584,Scotthaven,SC,04668,US,623-471-1197,Thomas Nguyen,2013-05-27,limited_service,Mid-Atlantic,41
+BR-0198,Smithville Central Branch,4098 Tiffany Ports Suite 742,Smithville,ND,94826,US,734-279-1866,James Hernandez,2013-11-24,full_service,Midwest,14
+BR-0199,Nancystad South Branch,7042 Mario Alley Apt. 815,Nancystad,WA,22335,US,121-882-4434,Cody Brown,2009-10-03,digital,Northeast,15
+BR-0200,East Mariaberg Park Branch,084 Jessica Parkways,East Mariaberg,VT,42968,US,296-706-5264,Benjamin Carter,2004-08-09,full_service,West,29
