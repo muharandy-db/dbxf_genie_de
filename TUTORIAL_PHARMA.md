@@ -1,6 +1,6 @@
 # Pharmaceutical Industry (Pharma) Tutorial
 
-This tutorial walks you through building a complete Pharma data pipeline using the **Databricks workspace UI** and **Databricks Assistant**.
+This tutorial walks you through building a complete Pharma data pipeline using the **Databricks workspace UI** and **Genie Code**.
 
 > **Before you begin:** Make sure you've completed all steps in the [Prerequisites](README.md#1-prerequisites) section of the main README and have the Pharma CSV files downloaded to your local machine.
 
@@ -99,19 +99,19 @@ Upload the Pharma sample data to your landing volume using the workspace file br
 
 ## Exercise 4: Create the Bronze Layer
 
-*Tool: Databricks Assistant in Notebook*
+*Tool: Genie Code in Notebook*
 
-Now we switch to the Databricks Assistant to generate the pipeline code. You'll create a notebook and use the Assistant to write the bronze layer — raw ingestion from the landing volume into streaming tables.
+Now we switch to the Genie Code to generate the pipeline code. You'll create a notebook and use the Assistant to write the bronze layer — raw ingestion from the landing volume into streaming tables.
 
 ### Steps
 
 1. Click **+ New** > **Notebook** in the sidebar
 2. Name the notebook `01_bronze`
 3. Set the default language to **SQL**
-4. Open the **Databricks Assistant** (click the sparkle icon in the toolbar or press `Cmd+I` / `Ctrl+I`)
+4. Open the **Genie Code** (click the sparkle icon in the toolbar or press `Cmd+I` / `Ctrl+I`)
 5. Paste the following prompt into the Assistant:
 
-> **Databricks Assistant Prompt:**
+> **Genie Code Prompt:**
 >
 > ```
 > Create DLT (Delta Live Tables) SQL statements to ingest raw CSV data from
@@ -136,7 +136,7 @@ Now we switch to the Databricks Assistant to generate the pipeline code. You'll 
 6. Review the generated SQL code
 7. Accept the code into your notebook cells (one `CREATE OR REFRESH STREAMING TABLE` per cell)
 
-<!-- Screenshot: Databricks Assistant generating bronze SQL -->
+<!-- Screenshot: Genie Code generating bronze SQL -->
 
 ### Validate
 
@@ -150,7 +150,7 @@ Now we switch to the Databricks Assistant to generate the pipeline code. You'll 
 
 ## Exercise 5: Create the Silver Layer
 
-*Tool: Databricks Assistant in Notebook*
+*Tool: Genie Code in Notebook*
 
 Create a second notebook for the silver layer — cleaned and validated data with quality constraints.
 
@@ -159,9 +159,9 @@ Create a second notebook for the silver layer — cleaned and validated data wit
 1. Click **+ New** > **Notebook** in the sidebar
 2. Name the notebook `02_silver`
 3. Set the default language to **SQL**
-4. Open the **Databricks Assistant** and paste this prompt:
+4. Open the **Genie Code** and paste this prompt:
 
-> **Databricks Assistant Prompt:**
+> **Genie Code Prompt:**
 >
 > ```
 > Create DLT SQL statements to clean and transform bronze tables into silver
@@ -205,7 +205,7 @@ Create a second notebook for the silver layer — cleaned and validated data wit
 
 ## Exercise 6: Create the Gold Layer
 
-*Tool: Databricks Assistant in Notebook*
+*Tool: Genie Code in Notebook*
 
 Create the business-level aggregations as gold materialized views. We'll build **one table at a time** so you can review each one.
 
@@ -215,7 +215,7 @@ Create the business-level aggregations as gold materialized views. We'll build *
 2. Name the notebook `03_gold`
 3. Set the default language to **SQL**
 
-Now use the Databricks Assistant for each gold table, one at a time:
+Now use the Genie Code for each gold table, one at a time:
 
 ---
 
@@ -223,7 +223,7 @@ Now use the Databricks Assistant for each gold table, one at a time:
 
 Open the Assistant and paste:
 
-> **Databricks Assistant Prompt:**
+> **Genie Code Prompt:**
 >
 > ```
 > Create a DLT materialized view called 03_batch_quality_summary.
@@ -239,7 +239,7 @@ Review and accept the code.
 
 **Gold Table 2 — Cold Chain Compliance**
 
-> **Databricks Assistant Prompt:**
+> **Genie Code Prompt:**
 >
 > ```
 > Create a DLT materialized view called 03_cold_chain_compliance.
@@ -256,7 +256,7 @@ Review and accept.
 
 **Gold Table 3 — Inventory Status**
 
-> **Databricks Assistant Prompt:**
+> **Genie Code Prompt:**
 >
 > ```
 > Create a DLT materialized view called 03_inventory_status.
@@ -272,7 +272,7 @@ Review and accept.
 
 **Gold Table 4 — Sales by Outlet**
 
-> **Databricks Assistant Prompt:**
+> **Genie Code Prompt:**
 >
 > ```
 > Create a DLT materialized view called 03_sales_by_outlet.
@@ -288,7 +288,7 @@ Review and accept.
 
 **Gold Table 5 — Supply Chain Overview**
 
-> **Databricks Assistant Prompt:**
+> **Genie Code Prompt:**
 >
 > ```
 > Create a DLT materialized view called 03_supply_chain_overview.
@@ -345,7 +345,7 @@ Now bring it all together — create a DLT pipeline that references your three n
 - Volume path typos — double-check the paths in `01_bronze`
 - Column name mismatches — verify column names match between bronze/silver/gold
 - Temperature constraint issues in cold chain data — adjust bounds if needed
-- Use the Databricks Assistant in the failed notebook to help troubleshoot: paste the error message and ask for a fix
+- Use the Genie Code in the failed notebook to help troubleshoot: paste the error message and ask for a fix
 
 ### Validate
 
@@ -419,9 +419,9 @@ Try asking natural language questions in each space:
 
 ## Exercise 9: Create a Dashboard
 
-*Tool: Workspace UI + Databricks Assistant*
+*Tool: Workspace UI + Genie Code*
 
-Create a dashboard to visualize insights from the gold-layer data. You'll use the workspace UI to create the dashboard, the **Databricks Assistant** (Genie prompt within the dashboard editor) to generate dataset queries, and then build visualizations.
+Create a dashboard to visualize insights from the gold-layer data. You'll use the workspace UI to create the dashboard, the **Genie Code** (Genie prompt within the dashboard editor) to generate dataset queries, and then build visualizations.
 
 ### Step 1: Create the Dashboard
 
@@ -520,14 +520,14 @@ Congratulations! You've completed the Pharma tutorial! Here's what you accomplis
 | Exercise 1 | A Unity Catalog schema for your demo | Workspace UI |
 | Exercise 2 | A managed volume for landing raw data | Workspace UI |
 | Exercise 3 | Uploaded Pharma sample data via drag & drop | Workspace UI |
-| Exercise 4 | Bronze layer — raw ingestion with Auto Loader | Databricks Assistant |
-| Exercise 5 | Silver layer — data quality constraints | Databricks Assistant |
-| Exercise 6 | Gold layer — business aggregation views | Databricks Assistant |
+| Exercise 4 | Bronze layer — raw ingestion with Auto Loader | Genie Code |
+| Exercise 5 | Silver layer — data quality constraints | Genie Code |
+| Exercise 6 | Gold layer — business aggregation views | Genie Code |
 | Exercise 7 | Created and ran the end-to-end DLT pipeline | Workspace UI |
 | Exercise 8 | Genie spaces for natural language analytics | Workspace UI |
-| Exercise 9 | Dashboard with 3 datasets and visualizations | UI + Databricks Assistant |
+| Exercise 9 | Dashboard with 3 datasets and visualizations | UI + Genie Code |
 
 **What's Next?**
-- Try modifying the gold-layer transformations or adding new aggregations using the Databricks Assistant
+- Try modifying the gold-layer transformations or adding new aggregations using the Genie Code
 - Ask questions in your Genie spaces and see how the AI interprets them
 - Try the [FSI tutorial](TUTORIAL_FSI.md) to build a second pipeline
