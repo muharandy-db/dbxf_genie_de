@@ -113,15 +113,15 @@ The **Genie Code** will open for you to enter the prompt.
 
 ### Step 2: Write the Bronze Layer with Genie Code
 
-1. In the pipeline IDE, you should see an empty source file (e.g., `pipeline_file_1.sql`). Rename it to `01_bronze.sql`
-2. Open **Genie Code** (click the sparkle icon in the toolbar or press `Cmd+I` / `Ctrl+I`)
-3. Paste the following prompt:
+1. Ensure **Genie Code** is open from the sidebar (click the sparkle icon in the toolbar or press `Cmd+I` / `Ctrl+I`)
+2. Paste the following prompt:
 
 > **Genie Code Prompt:**
 >
 > ```
 > Create Spark Declarative Pipeline SQL statements to ingest raw CSV data from
-> /Volumes/<your_catalog>/<your_username>_demo/landing/ into bronze streaming tables. Name the script as 01_bronze.sql
+> /Volumes/<your_catalog>/<your_username>_demo/landing/ into bronze streaming tables. 
+> Name the script as 01_bronze.sql
 >
 > 
 > Create one streaming table per CSV source with these table names:
@@ -140,8 +140,8 @@ The **Genie Code** will open for you to enter the prompt.
 > Each table should be a CREATE OR REFRESH STREAMING TABLE statement.
 > ```
 
-4. Review the generated SQL code
-5. Accept the code into your source file
+3. Review the generated SQL code
+4. Accept the code into your source file
 
 <!-- Screenshot: Genie Code generating bronze SQL in the pipeline IDE -->
 
