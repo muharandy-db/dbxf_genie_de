@@ -120,7 +120,7 @@ The **pipeline IDE** will open with an empty SQL source file ready for your firs
 > **Genie Code Prompt:**
 >
 > ```
-> Create DLT (Delta Live Tables) SQL statements to ingest raw CSV data from
+> Create Spark Declarative Pipeline SQL statements to ingest raw CSV data from
 > /Volumes/<your_catalog>/<your_username>_demo/landing/ into bronze streaming tables.
 >
 > Create one streaming table per CSV source with these table names:
@@ -166,7 +166,7 @@ Add a new source file to the pipeline for the silver layer — cleaned and valid
 > **Genie Code Prompt:**
 >
 > ```
-> Create DLT SQL statements to clean and transform bronze tables into silver
+> Create Spark Declarative Pipeline SQL statements to clean and transform bronze tables into silver
 > streaming tables. Read from the bronze tables created in the 01_bronze file.
 >
 > Create these silver streaming tables:
@@ -223,7 +223,7 @@ Open Genie Code and paste:
 > **Genie Code Prompt:**
 >
 > ```
-> Create a DLT materialized view called 03_customer_360.
+> Create a Spark Declarative Pipeline materialized view called 03_customer_360.
 > This view should create a unified customer profile by joining
 > LIVE.02_banking_customers and LIVE.02_insurance_customers on customer
 > identifiers, enriched with account counts from LIVE.02_banking_accounts
@@ -240,7 +240,7 @@ Review and accept the code.
 > **Genie Code Prompt:**
 >
 > ```
-> Create a DLT materialized view called 03_policy_claims_summary.
+> Create a Spark Declarative Pipeline materialized view called 03_policy_claims_summary.
 > This view should aggregate claims by policy type, showing total claims,
 > approved vs denied counts, average claim amount, and total settlement
 > amounts from LIVE.02_insurance_claims joined with LIVE.02_insurance_policies.
@@ -256,7 +256,7 @@ Review and accept.
 > **Genie Code Prompt:**
 >
 > ```
-> Create a DLT materialized view called 03_transaction_daily_summary.
+> Create a Spark Declarative Pipeline materialized view called 03_transaction_daily_summary.
 > This view should aggregate daily transaction volumes and amounts by
 > transaction type and channel from LIVE.02_banking_transactions.
 > Use CREATE OR REFRESH MATERIALIZED VIEW syntax.
@@ -271,7 +271,7 @@ Review and accept.
 > **Genie Code Prompt:**
 >
 > ```
-> Create a DLT materialized view called 03_branch_performance.
+> Create a Spark Declarative Pipeline materialized view called 03_branch_performance.
 > This view should show branch-level metrics including total accounts,
 > total balances, transaction counts, and active customer counts by joining
 > LIVE.02_banking_branches, LIVE.02_banking_accounts, and
@@ -288,7 +288,7 @@ Review and accept.
 > **Genie Code Prompt:**
 >
 > ```
-> Create a DLT materialized view called 03_customer_risk_profile.
+> Create a Spark Declarative Pipeline materialized view called 03_customer_risk_profile.
 > This view should combine banking risk ratings with insurance claim history
 > to create a unified risk score per customer, using LIVE.02_banking_customers,
 > LIVE.02_banking_accounts, LIVE.02_insurance_customers, and
@@ -506,7 +506,7 @@ Congratulations! You've completed the FSI tutorial! Here's what you accomplished
 | Exercise 4 | Created pipeline + bronze layer with Auto Loader | Workspace UI + Genie Code |
 | Exercise 5 | Silver layer — data quality constraints | Genie Code in Pipeline IDE |
 | Exercise 6 | Gold layer — business aggregation views | Genie Code in Pipeline IDE |
-| Exercise 7 | Ran the end-to-end DLT pipeline | Workspace UI |
+| Exercise 7 | Ran the end-to-end Spark Declarative Pipeline | Workspace UI |
 | Exercise 8 | Genie spaces for natural language analytics | Workspace UI |
 | Exercise 9 | Dashboard with 3 datasets and visualizations | UI + Genie Code |
 

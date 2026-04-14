@@ -122,7 +122,7 @@ The **pipeline IDE** will open with an empty SQL source file ready for your firs
 > **Genie Code Prompt:**
 >
 > ```
-> Create DLT (Delta Live Tables) SQL statements to ingest raw CSV data from
+> Create Spark Declarative Pipeline SQL statements to ingest raw CSV data from
 > /Volumes/<your_catalog>/<your_username>_demo/landing/ into bronze streaming tables.
 >
 > Create one streaming table per CSV source with these table names:
@@ -170,7 +170,7 @@ Add a new source file to the pipeline for the silver layer — cleaned and valid
 > **Genie Code Prompt:**
 >
 > ```
-> Create DLT SQL statements to clean and transform bronze tables into silver
+> Create Spark Declarative Pipeline SQL statements to clean and transform bronze tables into silver
 > streaming tables. Read from the bronze tables created in the 01_bronze file.
 >
 > Create these silver streaming tables:
@@ -232,7 +232,7 @@ Open Genie Code and paste:
 > **Genie Code Prompt:**
 >
 > ```
-> Create a DLT materialized view called 03_batch_quality_summary.
+> Create a Spark Declarative Pipeline materialized view called 03_batch_quality_summary.
 > This view should aggregate quality test pass/fail rates by product and
 > facility from LIVE.02_manufacturing_quality and LIVE.02_manufacturing_batches.
 > Include total tests, pass count, fail count, and pass rate percentage.
@@ -248,7 +248,7 @@ Review and accept the code.
 > **Genie Code Prompt:**
 >
 > ```
-> Create a DLT materialized view called 03_cold_chain_compliance.
+> Create a Spark Declarative Pipeline materialized view called 03_cold_chain_compliance.
 > This view should calculate temperature compliance rates by route and carrier,
 > flagging shipments that exceeded temperature thresholds from
 > LIVE.02_distribution_cold_chains. Include total shipments, compliant count,
@@ -265,7 +265,7 @@ Review and accept.
 > **Genie Code Prompt:**
 >
 > ```
-> Create a DLT materialized view called 03_inventory_status.
+> Create a Spark Declarative Pipeline materialized view called 03_inventory_status.
 > This view should show current inventory levels with expiry risk by outlet
 > and product, joining LIVE.02_retail_inventory with LIVE.02_retail_outlets.
 > Flag items nearing expiry (within 30 days) and include quantity on hand.
@@ -281,7 +281,7 @@ Review and accept.
 > **Genie Code Prompt:**
 >
 > ```
-> Create a DLT materialized view called 03_sales_by_outlet.
+> Create a Spark Declarative Pipeline materialized view called 03_sales_by_outlet.
 > This view should aggregate sales by outlet, product, and month from
 > LIVE.02_retail_sales joined with LIVE.02_retail_outlets.
 > Include total quantity sold, total revenue, and average price per unit.
@@ -297,7 +297,7 @@ Review and accept.
 > **Genie Code Prompt:**
 >
 > ```
-> Create a DLT materialized view called 03_supply_chain_overview.
+> Create a Spark Declarative Pipeline materialized view called 03_supply_chain_overview.
 > This view should provide end-to-end supply chain metrics from supplier to
 > retail, joining LIVE.02_supply_suppliers, LIVE.02_supply_materials,
 > LIVE.02_manufacturing_batches, LIVE.02_distribution_cold_chains, and
@@ -520,7 +520,7 @@ Congratulations! You've completed the Pharma tutorial! Here's what you accomplis
 | Exercise 4 | Created pipeline + bronze layer with Auto Loader | Workspace UI + Genie Code |
 | Exercise 5 | Silver layer — data quality constraints | Genie Code in Pipeline IDE |
 | Exercise 6 | Gold layer — business aggregation views | Genie Code in Pipeline IDE |
-| Exercise 7 | Ran the end-to-end DLT pipeline | Workspace UI |
+| Exercise 7 | Ran the end-to-end Spark Declarative Pipeline | Workspace UI |
 | Exercise 8 | Genie spaces for natural language analytics | Workspace UI |
 | Exercise 9 | Dashboard with 3 datasets and visualizations | UI + Genie Code |
 
