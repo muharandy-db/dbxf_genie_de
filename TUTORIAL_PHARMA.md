@@ -361,33 +361,31 @@ Make the gold-layer data accessible to business users through **Genie Spaces** �
 
 1. In the left sidebar, click **Genie**
 2. Click **New Genie space**
-3. Configure the space:
+3. Select the following gold tables from `<your_catalog>.<your_username>_demo`:
+   - `03_batch_quality_summary`
+   - `03_cold_chain_compliance`
+4. Once the space opens, click **Configure** → **Edit** to update:
    - **Name:** `<your_username> - Pharma Quality Analytics`
    - **Description:**
      > This space answers business questions about pharmaceutical quality and
      > compliance, including manufacturing batch quality pass/fail rates,
      > cold chain temperature compliance by route and carrier, and quality trends.
-   - **Warehouse:** Select the SQL warehouse available in your workspace
-   - **Tables:** Add the following gold tables from `<your_catalog>.<your_username>_demo`:
-     - `03_batch_quality_summary`
-     - `03_cold_chain_compliance`
-4. Click **Save**
+5. Click **Save**
 
 ### Genie Space 2 — Pharma Operations Analytics
 
 1. Click **New Genie space** again
-2. Configure the space:
+2. Select the following gold tables from `<your_catalog>.<your_username>_demo`:
+   - `03_inventory_status`
+   - `03_sales_by_outlet`
+   - `03_supply_chain_overview`
+3. Once the space opens, click **Configure** → **Edit** to update:
    - **Name:** `<your_username> - Pharma Operations Analytics`
    - **Description:**
      > This space answers business questions about pharmaceutical operations,
      > including inventory levels and expiry risk, sales performance by outlet
      > and product, and end-to-end supply chain metrics.
-   - **Warehouse:** Select the same SQL warehouse
-   - **Tables:** Add:
-     - `03_inventory_status`
-     - `03_sales_by_outlet`
-     - `03_supply_chain_overview`
-3. Click **Save**
+4. Click **Save**
 
 <!-- Screenshot: Genie space creation with tables selected -->
 

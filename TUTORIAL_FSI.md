@@ -222,7 +222,9 @@ Open Genie Code and paste:
 > **Genie Code Prompt:**
 >
 > ```
-> Create a Spark Declarative Pipeline materialized view called 03_customer_360.
+> Now create 03_gold.sql for gold transformation 
+> inside it, create a Spark Declarative Pipeline
+> materialized view called 03_customer_360.
 > This view should create a unified customer profile by joining
 > LIVE.02_banking_customers and LIVE.02_insurance_customers on customer
 > identifiers, enriched with account counts from LIVE.02_banking_accounts
@@ -350,32 +352,30 @@ Make the gold-layer data accessible to business users through **Genie Spaces** �
 
 1. In the left sidebar, click **Genie**
 2. Click **New Genie space**
-3. Configure the space:
+3. Select the following gold tables from `<your_catalog>.<your_username>_demo`:
+   - `03_customer_360`
+   - `03_customer_risk_profile`
+   - `03_policy_claims_summary`
+4. Once the space opens, click **Configure** → **Edit** to update:
    - **Name:** `<your_username> - Customer Analytics`
    - **Description:**
      > This space answers business questions about FSI customers, including
      > unified customer profiles across banking and insurance, risk profiles,
      > and policy-claim relationships.
-   - **Warehouse:** Select the SQL warehouse available in your workspace
-   - **Tables:** Add the following gold tables from `<your_catalog>.<your_username>_demo`:
-     - `03_customer_360`
-     - `03_customer_risk_profile`
-     - `03_policy_claims_summary`
-4. Click **Save**
+5. Click **Save**
 
 ### Genie Space 2 — Operations Analytics
 
 1. Click **New Genie space** again
-2. Configure the space:
+2. Select the following gold tables from `<your_catalog>.<your_username>_demo`:
+   - `03_transaction_daily_summary`
+   - `03_branch_performance`
+3. Once the space opens, click **Configure** → **Edit** to update:
    - **Name:** `<your_username> - Operations Analytics`
    - **Description:**
      > This space answers business questions about FSI operations, including
      > daily transaction volumes, branch performance metrics, and operational trends.
-   - **Warehouse:** Select the same SQL warehouse
-   - **Tables:** Add:
-     - `03_transaction_daily_summary`
-     - `03_branch_performance`
-3. Click **Save**
+4. Click **Save**
 
 <!-- Screenshot: Genie space creation with tables selected -->
 
