@@ -189,7 +189,6 @@ Add a new source file to the pipeline for the silver layer — cleaned and valid
 >   - NOT NULL on primary key columns
 >   - Valid ranges (e.g., positive quantities, valid dates)
 >   - Temperature bounds for cold chain data (e.g., between -80 and 25 Celsius)
->   - Quality test results should be valid enum values
 > - TRIM string columns and standardize data types
 > - Handle nulls with COALESCE where appropriate
 > - Add a COMMENT describing the table purpose
