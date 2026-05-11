@@ -422,7 +422,7 @@ Create a dashboard to visualize insights from the gold-layer data. You'll use th
 2. Click **Create dashboard**
 3. Name it: `<your_username> - Pharma Insights Dashboard`
 
-### Step 2: Add Datasets (Using Genie Prompt)
+### Step 2: Add Datasets (Optional)
 
 In the dashboard editor, you'll add 3 datasets. Use the **Genie prompt** (the AI assistant within the dashboard canvas) to help generate each query.
 
