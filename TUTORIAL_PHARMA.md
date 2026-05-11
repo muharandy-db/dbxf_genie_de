@@ -477,7 +477,7 @@ Now use the Genie prompt on the dashboard canvas to create visualizations from y
 > **Genie Prompt:**
 >
 > ```
-> Using the datasets I've added, create the following visualizations:
+> Using the 03 gold layer tables under <your_catalog>.<your_username>_demo, create the following visualizations:
 > 1. A counter/stat showing overall quality pass rate from the Quality Overview dataset
 > 2. A bar chart showing pass/fail rates by product from the Quality Overview dataset
 > 3. A bar chart showing compliance rates by carrier from the Cold Chain Compliance dataset
