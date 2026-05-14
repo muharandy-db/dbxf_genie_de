@@ -1,0 +1,301 @@
+outlet_id,outlet_name,outlet_type,chain_name,city,province,region,license_number,phone,opened_date,status,tier
+OUT-0001,K-24 Manado,apotek_jaringan,K-24,Manado,Sulawesi Utara,Sulawesi,SIPA-809570,+62-210-2458591,2015-06-30,aktif,silver
+OUT-0002,Kimia Farma Banjarmasin,apotek_jaringan,Kimia Farma,Banjarmasin,Kalimantan Selatan,Kalimantan,SIPA-688508,+62-71-8038374,2014-11-27,aktif,silver
+OUT-0003,Century Healthcare Surabaya,apotek_jaringan,Century Healthcare,Surabaya,Jawa Timur,Jawa,SIPA-543143,+62-108-5661907,2010-02-23,aktif,gold
+OUT-0004,K-24 Bogor,apotek_jaringan,K-24,Bogor,Jawa Barat,Jawa,SIPA-988662,+62-109-5437923,2012-04-17,aktif,platinum
+OUT-0005,Apotek Mekar,apotek_independen,Independen,Bandung,Jawa Barat,Jawa,SIPA-678856,+62-96-7067228,2012-10-19,tutup_permanen,silver
+OUT-0006,Kimia Farma Banjarmasin,apotek_jaringan,Kimia Farma,Banjarmasin,Kalimantan Selatan,Kalimantan,SIPA-183667,+62-239-4905582,2024-10-31,aktif,gold
+OUT-0007,Guardian Depok,apotek_jaringan,Guardian,Depok,Jawa Barat,Jawa,SIPA-802729,+62-89-2197935,2018-03-08,aktif,silver
+OUT-0008,Apotek Mekar,apotek_independen,Independen,Makassar,Sulawesi Selatan,Sulawesi,SIPA-771088,+62-197-4684531,2015-06-29,aktif,silver
+OUT-0009,Klinik Sejahtera,klinik,Independen,Yogyakarta,DI Yogyakarta,Jawa,SIPA-520651,+62-89-2110460,2015-02-20,aktif,bronze
+OUT-0010,RS Cahaya Solo,rumah_sakit,Independen,Solo,Jawa Tengah,Jawa,SIPA-774079,+62-138-3396987,2014-10-08,aktif,silver
+OUT-0011,K-24 Malang,apotek_jaringan,K-24,Malang,Jawa Timur,Jawa,SIPA-711878,+62-123-7073292,2022-02-02,aktif,silver
+OUT-0012,RS Abadi Surabaya,rumah_sakit,Independen,Surabaya,Jawa Timur,Jawa,SIPA-214975,+62-60-3684052,2021-06-06,aktif,bronze
+OUT-0013,Apotek Permata,apotek_independen,Independen,Palembang,Sumatera Selatan,Sumatera,SIPA-363626,+62-269-1192619,2018-07-24,aktif,silver
+OUT-0014,Apotek Mekar,apotek_independen,Independen,Depok,Jawa Barat,Jawa,SIPA-407757,+62-132-3653446,2015-12-26,aktif,gold
+OUT-0015,K-24 Padang,apotek_jaringan,K-24,Padang,Sumatera Barat,Sumatera,SIPA-632342,+62-254-2785277,2015-11-28,tutup_permanen,bronze
+OUT-0016,Watsons Manado,apotek_jaringan,Watsons,Manado,Sulawesi Utara,Sulawesi,SIPA-269396,+62-159-9897858,2023-08-29,aktif,silver
+OUT-0017,Apotek Kasih,apotek_independen,Independen,Jakarta,DKI Jakarta,Jawa,SIPA-972064,+62-227-6159230,2010-06-09,aktif,silver
+OUT-0018,Apotek Roxy Surabaya,apotek_jaringan,Apotek Roxy,Surabaya,Jawa Timur,Jawa,SIPA-172574,+62-271-9937326,2011-10-08,aktif,silver
+OUT-0019,Guardian Bogor,apotek_jaringan,Guardian,Bogor,Jawa Barat,Jawa,SIPA-736059,+62-129-4553384,2022-05-01,aktif,silver
+OUT-0020,Klinik Makmur,klinik,Independen,Balikpapan,Kalimantan Timur,Kalimantan,SIPA-491559,+62-133-9683481,2016-12-28,aktif,silver
+OUT-0021,Kimia Farma Padang,apotek_jaringan,Kimia Farma,Padang,Sumatera Barat,Sumatera,SIPA-717024,+62-77-1120642,2017-08-01,aktif,silver
+OUT-0022,Apotek Sejahtera,apotek_independen,Independen,Bekasi,Jawa Barat,Jawa,SIPA-446479,+62-39-9626108,2015-02-19,aktif,platinum
+OUT-0023,Guardian Surabaya,apotek_jaringan,Guardian,Surabaya,Jawa Timur,Jawa,SIPA-698782,+62-168-8930103,2022-02-04,aktif,bronze
+OUT-0024,Klinik Indah,klinik,Independen,Surabaya,Jawa Timur,Jawa,SIPA-471507,+62-129-7897151,2014-04-09,aktif,silver
+OUT-0025,Klinik Sejahtera,klinik,Independen,Padang,Sumatera Barat,Sumatera,SIPA-522179,+62-207-6692553,2024-08-28,tutup_permanen,platinum
+OUT-0026,Kimia Farma Depok,apotek_jaringan,Kimia Farma,Depok,Jawa Barat,Jawa,SIPA-585100,+62-84-2264748,2020-01-24,aktif,gold
+OUT-0027,Klinik Mekar,klinik,Independen,Padang,Sumatera Barat,Sumatera,SIPA-976638,+62-24-2564689,2012-03-13,aktif,bronze
+OUT-0028,Guardian Surabaya,apotek_jaringan,Guardian,Surabaya,Jawa Timur,Jawa,SIPA-272634,+62-118-1036161,2014-10-18,aktif,bronze
+OUT-0029,K-24 Medan,apotek_jaringan,K-24,Medan,Sumatera Utara,Sumatera,SIPA-865990,+62-221-9164991,2020-03-16,aktif,silver
+OUT-0030,Kimia Farma Bogor,apotek_jaringan,Kimia Farma,Bogor,Jawa Barat,Jawa,SIPA-884309,+62-101-1959074,2011-04-25,aktif,silver
+OUT-0031,Apotek Damai,apotek_independen,Independen,Bandung,Jawa Barat,Jawa,SIPA-184002,+62-238-4117625,2021-11-29,aktif,bronze
+OUT-0032,Apotek Bahagia,apotek_independen,Independen,Bekasi,Jawa Barat,Jawa,SIPA-358175,+62-169-1666754,2019-01-21,aktif,bronze
+OUT-0033,Watsons Makassar,apotek_jaringan,Watsons,Makassar,Sulawesi Selatan,Sulawesi,SIPA-314181,+62-192-6271130,2022-09-05,aktif,bronze
+OUT-0034,Kimia Farma Surabaya,apotek_jaringan,Kimia Farma,Surabaya,Jawa Timur,Jawa,SIPA-888387,+62-260-2217071,2024-06-23,aktif,gold
+OUT-0035,Apotek Jaya,apotek_independen,Independen,Jakarta,DKI Jakarta,Jawa,SIPA-238890,+62-259-6855396,2011-08-24,aktif,silver
+OUT-0036,Klinik Bunda,klinik,Independen,Bekasi,Jawa Barat,Jawa,SIPA-837715,+62-98-9874152,2016-05-23,aktif,bronze
+OUT-0037,Apotek Mekar,apotek_independen,Independen,Jakarta,DKI Jakarta,Jawa,SIPA-240814,+62-88-2936571,2016-09-18,tutup_sementara,gold
+OUT-0038,Apotek Abadi,apotek_independen,Independen,Depok,Jawa Barat,Jawa,SIPA-459536,+62-73-5428914,2016-02-10,aktif,gold
+OUT-0039,Apotek Sejahtera,apotek_independen,Independen,Bandar Lampung,Lampung,Sumatera,SIPA-146228,+62-21-6596150,2012-01-27,aktif,bronze
+OUT-0040,Apotek Harapan,apotek_independen,Independen,Bogor,Jawa Barat,Jawa,SIPA-548462,+62-164-1162230,2013-08-16,aktif,silver
+OUT-0041,Apotek Roxy Depok,apotek_jaringan,Apotek Roxy,Depok,Jawa Barat,Jawa,SIPA-710805,+62-162-3484601,2013-05-06,aktif,bronze
+OUT-0042,Century Healthcare Palembang,apotek_jaringan,Century Healthcare,Palembang,Sumatera Selatan,Sumatera,SIPA-361650,+62-191-2724590,2010-11-23,tutup_sementara,gold
+OUT-0043,Klinik Indah,klinik,Independen,Denpasar,Bali,Bali Nusra,SIPA-348237,+62-242-3726327,2023-12-03,aktif,bronze
+OUT-0044,Klinik Sentosa,klinik,Independen,Semarang,Jawa Tengah,Jawa,SIPA-531712,+62-226-5163555,2014-01-09,aktif,gold
+OUT-0045,K-24 Malang,apotek_jaringan,K-24,Malang,Jawa Timur,Jawa,SIPA-333238,+62-72-8722606,2018-07-31,aktif,bronze
+OUT-0046,K-24 Denpasar,apotek_jaringan,K-24,Denpasar,Bali,Bali Nusra,SIPA-517821,+62-105-5674183,2015-02-08,aktif,silver
+OUT-0047,RS Harapan Bekasi,rumah_sakit,Independen,Bekasi,Jawa Barat,Jawa,SIPA-984642,+62-158-6555772,2017-11-16,aktif,silver
+OUT-0048,Viva Apotek Jakarta,apotek_jaringan,Viva Apotek,Jakarta,DKI Jakarta,Jawa,SIPA-140115,+62-48-8290770,2014-01-02,aktif,bronze
+OUT-0049,Apotek Cahaya,apotek_independen,Independen,Denpasar,Bali,Bali Nusra,SIPA-503906,+62-251-4188992,2019-10-15,aktif,silver
+OUT-0050,Guardian Malang,apotek_jaringan,Guardian,Malang,Jawa Timur,Jawa,SIPA-854377,+62-261-4305700,2021-08-30,tutup_sementara,silver
+OUT-0051,Viva Apotek Denpasar,apotek_jaringan,Viva Apotek,Denpasar,Bali,Bali Nusra,SIPA-230679,+62-205-6038571,2017-05-28,aktif,silver
+OUT-0052,Guardian Bandar Lampung,apotek_jaringan,Guardian,Bandar Lampung,Lampung,Sumatera,SIPA-301158,+62-128-7361002,2019-01-10,aktif,silver
+OUT-0053,Apotek Pelita,apotek_independen,Independen,Semarang,Jawa Tengah,Jawa,SIPA-400850,+62-74-8212326,2019-02-09,aktif,platinum
+OUT-0054,Apotek Cahaya,apotek_independen,Independen,Banjarmasin,Kalimantan Selatan,Kalimantan,SIPA-636004,+62-142-3846949,2020-06-06,aktif,silver
+OUT-0055,Watsons Bekasi,apotek_jaringan,Watsons,Bekasi,Jawa Barat,Jawa,SIPA-887625,+62-81-6207974,2023-11-21,aktif,bronze
+OUT-0056,Klinik Abadi,klinik,Independen,Surabaya,Jawa Timur,Jawa,SIPA-740967,+62-238-2221854,2010-07-20,aktif,bronze
+OUT-0057,Watsons Padang,apotek_jaringan,Watsons,Padang,Sumatera Barat,Sumatera,SIPA-519066,+62-83-3475836,2014-05-12,aktif,silver
+OUT-0058,Apotek Jaya,apotek_independen,Independen,Manado,Sulawesi Utara,Sulawesi,SIPA-829716,+62-153-8793853,2019-07-15,aktif,bronze
+OUT-0059,Apotek Jaya,apotek_independen,Independen,Bandung,Jawa Barat,Jawa,SIPA-656932,+62-273-6323376,2020-03-28,aktif,silver
+OUT-0060,Apotek Damai,apotek_independen,Independen,Padang,Sumatera Barat,Sumatera,SIPA-266889,+62-211-8963715,2019-07-28,aktif,silver
+OUT-0061,Century Healthcare Padang,apotek_jaringan,Century Healthcare,Padang,Sumatera Barat,Sumatera,SIPA-608136,+62-181-5013879,2024-04-20,aktif,bronze
+OUT-0062,K-24 Malang,apotek_jaringan,K-24,Malang,Jawa Timur,Jawa,SIPA-666390,+62-41-3321531,2015-04-05,aktif,gold
+OUT-0063,K-24 Bogor,apotek_jaringan,K-24,Bogor,Jawa Barat,Jawa,SIPA-668969,+62-140-7975534,2014-10-19,aktif,silver
+OUT-0064,Guardian Bandung,apotek_jaringan,Guardian,Bandung,Jawa Barat,Jawa,SIPA-902784,+62-168-7381734,2023-02-06,tutup_sementara,platinum
+OUT-0065,Century Healthcare Pekanbaru,apotek_jaringan,Century Healthcare,Pekanbaru,Riau,Sumatera,SIPA-539375,+62-158-4700025,2018-09-30,aktif,bronze
+OUT-0066,Guardian Pekanbaru,apotek_jaringan,Guardian,Pekanbaru,Riau,Sumatera,SIPA-936912,+62-124-3768991,2010-08-26,aktif,silver
+OUT-0067,RS Mekar Padang,rumah_sakit,Independen,Padang,Sumatera Barat,Sumatera,SIPA-795205,+62-27-2408404,2010-08-09,tutup_sementara,silver
+OUT-0068,Apotek Roxy Manado,apotek_jaringan,Apotek Roxy,Manado,Sulawesi Utara,Sulawesi,SIPA-321941,+62-137-6483562,2014-01-28,aktif,silver
+OUT-0069,Klinik Permata,klinik,Independen,Yogyakarta,DI Yogyakarta,Jawa,SIPA-364525,+62-234-2374158,2016-03-29,aktif,bronze
+OUT-0070,Watsons Pekanbaru,apotek_jaringan,Watsons,Pekanbaru,Riau,Sumatera,SIPA-783414,+62-31-1520596,2017-11-06,aktif,platinum
+OUT-0071,Kimia Farma Surabaya,apotek_jaringan,Kimia Farma,Surabaya,Jawa Timur,Jawa,SIPA-219946,+62-165-4656838,2013-06-02,aktif,silver
+OUT-0072,Apotek Bunda,apotek_independen,Independen,Padang,Sumatera Barat,Sumatera,SIPA-853252,+62-50-3747534,2013-10-06,aktif,bronze
+OUT-0073,Kimia Farma Tangerang,apotek_jaringan,Kimia Farma,Tangerang,Banten,Jawa,SIPA-493537,+62-122-4327421,2016-12-30,aktif,bronze
+OUT-0074,Apotek Bahagia,apotek_independen,Independen,Bekasi,Jawa Barat,Jawa,SIPA-817497,+62-174-3030966,2012-04-14,aktif,gold
+OUT-0075,Klinik Bunda,klinik,Independen,Banjarmasin,Kalimantan Selatan,Kalimantan,SIPA-630538,+62-186-6724909,2021-12-13,aktif,silver
+OUT-0076,Klinik Kasih,klinik,Independen,Jakarta,DKI Jakarta,Jawa,SIPA-968962,+62-138-3566765,2012-05-14,aktif,silver
+OUT-0077,Guardian Palembang,apotek_jaringan,Guardian,Palembang,Sumatera Selatan,Sumatera,SIPA-664315,+62-219-9111742,2024-08-03,aktif,bronze
+OUT-0078,K-24 Padang,apotek_jaringan,K-24,Padang,Sumatera Barat,Sumatera,SIPA-190872,+62-92-8563202,2016-01-08,aktif,gold
+OUT-0079,Klinik Permata,klinik,Independen,Surabaya,Jawa Timur,Jawa,SIPA-290672,+62-145-4558780,2017-07-18,aktif,bronze
+OUT-0080,Klinik Cahaya,klinik,Independen,Denpasar,Bali,Bali Nusra,SIPA-389688,+62-163-1170307,2016-04-09,tutup_sementara,silver
+OUT-0081,RS Mulia Bandar Lampung,rumah_sakit,Independen,Bandar Lampung,Lampung,Sumatera,SIPA-894993,+62-82-8987516,2015-06-01,aktif,silver
+OUT-0082,Apotek Mandiri,apotek_independen,Independen,Manado,Sulawesi Utara,Sulawesi,SIPA-825391,+62-83-6137284,2010-05-22,aktif,gold
+OUT-0083,Watsons Banjarmasin,apotek_jaringan,Watsons,Banjarmasin,Kalimantan Selatan,Kalimantan,SIPA-446859,+62-111-8612582,2017-09-17,aktif,silver
+OUT-0084,Kimia Farma Malang,apotek_jaringan,Kimia Farma,Malang,Jawa Timur,Jawa,SIPA-899213,+62-197-4106298,2014-04-27,aktif,silver
+OUT-0085,Guardian Solo,apotek_jaringan,Guardian,Solo,Jawa Tengah,Jawa,SIPA-396745,+62-272-2686548,2023-03-23,tutup_permanen,silver
+OUT-0086,Century Healthcare Solo,apotek_jaringan,Century Healthcare,Solo,Jawa Tengah,Jawa,SIPA-387636,+62-32-1914794,2016-10-12,aktif,silver
+OUT-0087,Viva Apotek Balikpapan,apotek_jaringan,Viva Apotek,Balikpapan,Kalimantan Timur,Kalimantan,SIPA-112861,+62-167-5770422,2024-04-22,aktif,silver
+OUT-0088,Apotek Cahaya,apotek_independen,Independen,Pekanbaru,Riau,Sumatera,SIPA-600935,+62-50-2096280,2014-02-19,tutup_permanen,gold
+OUT-0089,Apotek Sejahtera,apotek_independen,Independen,Medan,Sumatera Utara,Sumatera,SIPA-418594,+62-42-5163953,2013-05-27,aktif,silver
+OUT-0090,Apotek Indah,apotek_independen,Independen,Depok,Jawa Barat,Jawa,SIPA-913373,+62-154-7381684,2023-08-07,aktif,silver
+OUT-0091,RS Pelita Padang,rumah_sakit,Independen,Padang,Sumatera Barat,Sumatera,SIPA-751194,+62-36-2664863,2023-03-15,tutup_permanen,gold
+OUT-0092,Apotek Harapan,apotek_independen,Independen,Solo,Jawa Tengah,Jawa,SIPA-678805,+62-40-3626181,2024-10-24,aktif,gold
+OUT-0093,Watsons Jakarta,apotek_jaringan,Watsons,Jakarta,DKI Jakarta,Jawa,SIPA-841296,+62-93-8617381,2020-07-16,aktif,gold
+OUT-0094,Apotek Harapan,apotek_independen,Independen,Bekasi,Jawa Barat,Jawa,SIPA-307428,+62-129-2925626,2024-01-08,aktif,bronze
+OUT-0095,Kimia Farma Balikpapan,apotek_jaringan,Kimia Farma,Balikpapan,Kalimantan Timur,Kalimantan,SIPA-273982,+62-223-6160869,2015-12-17,aktif,platinum
+OUT-0096,Apotek Pelita,apotek_independen,Independen,Makassar,Sulawesi Selatan,Sulawesi,SIPA-833723,+62-124-5567533,2019-11-07,aktif,silver
+OUT-0097,Apotek Mandiri,apotek_independen,Independen,Bandar Lampung,Lampung,Sumatera,SIPA-870214,+62-103-5200476,2011-10-21,aktif,bronze
+OUT-0098,Viva Apotek Jakarta,apotek_jaringan,Viva Apotek,Jakarta,DKI Jakarta,Jawa,SIPA-901909,+62-193-5521644,2022-11-26,aktif,platinum
+OUT-0099,K-24 Banjarmasin,apotek_jaringan,K-24,Banjarmasin,Kalimantan Selatan,Kalimantan,SIPA-391668,+62-67-8312936,2020-07-21,aktif,silver
+OUT-0100,Klinik Mulia,klinik,Independen,Manado,Sulawesi Utara,Sulawesi,SIPA-802685,+62-47-3698193,2020-07-17,aktif,gold
+OUT-0101,Guardian Yogyakarta,apotek_jaringan,Guardian,Yogyakarta,DI Yogyakarta,Jawa,SIPA-676818,+62-30-8630712,2024-11-10,tutup_sementara,bronze
+OUT-0102,Century Healthcare Bekasi,apotek_jaringan,Century Healthcare,Bekasi,Jawa Barat,Jawa,SIPA-101206,+62-189-8750676,2019-01-25,aktif,bronze
+OUT-0103,Guardian Palembang,apotek_jaringan,Guardian,Palembang,Sumatera Selatan,Sumatera,SIPA-896907,+62-34-4415140,2023-12-19,aktif,silver
+OUT-0104,Apotek Pelita,apotek_independen,Independen,Malang,Jawa Timur,Jawa,SIPA-130271,+62-270-5014745,2019-10-30,tutup_sementara,silver
+OUT-0105,Kimia Farma Semarang,apotek_jaringan,Kimia Farma,Semarang,Jawa Tengah,Jawa,SIPA-218972,+62-139-2970754,2019-02-25,aktif,bronze
+OUT-0106,Klinik Kasih,klinik,Independen,Manado,Sulawesi Utara,Sulawesi,SIPA-975271,+62-144-8922533,2016-07-18,aktif,gold
+OUT-0107,Apotek Abadi,apotek_independen,Independen,Surabaya,Jawa Timur,Jawa,SIPA-882544,+62-246-3290229,2018-08-09,aktif,silver
+OUT-0108,K-24 Bekasi,apotek_jaringan,K-24,Bekasi,Jawa Barat,Jawa,SIPA-380150,+62-231-1043037,2019-04-23,aktif,bronze
+OUT-0109,Apotek Kasih,apotek_independen,Independen,Tangerang,Banten,Jawa,SIPA-448588,+62-162-7328534,2013-05-02,aktif,silver
+OUT-0110,RS Makmur Padang,rumah_sakit,Independen,Padang,Sumatera Barat,Sumatera,SIPA-913217,+62-126-1732280,2015-05-11,aktif,gold
+OUT-0111,Apotek Permata,apotek_independen,Independen,Yogyakarta,DI Yogyakarta,Jawa,SIPA-783691,+62-272-3551903,2018-08-29,tutup_permanen,bronze
+OUT-0112,RS Abadi Pekanbaru,rumah_sakit,Independen,Pekanbaru,Riau,Sumatera,SIPA-205239,+62-244-8387112,2021-04-07,tutup_permanen,gold
+OUT-0113,Apotek Mandiri,apotek_independen,Independen,Depok,Jawa Barat,Jawa,SIPA-786587,+62-269-3589751,2010-05-06,aktif,silver
+OUT-0114,Apotek Harapan,apotek_independen,Independen,Bekasi,Jawa Barat,Jawa,SIPA-184216,+62-239-6512415,2017-08-05,aktif,silver
+OUT-0115,Century Healthcare Balikpapan,apotek_jaringan,Century Healthcare,Balikpapan,Kalimantan Timur,Kalimantan,SIPA-171744,+62-81-5821419,2020-12-11,aktif,platinum
+OUT-0116,Apotek Indah,apotek_independen,Independen,Surabaya,Jawa Timur,Jawa,SIPA-205389,+62-134-3791137,2012-03-17,aktif,silver
+OUT-0117,RS Sejahtera Tangerang,rumah_sakit,Independen,Tangerang,Banten,Jawa,SIPA-493049,+62-131-3442255,2017-04-11,aktif,gold
+OUT-0118,Apotek Lestari,apotek_independen,Independen,Surabaya,Jawa Timur,Jawa,SIPA-501126,+62-179-5040453,2013-10-24,aktif,silver
+OUT-0119,RS Abadi Pekanbaru,rumah_sakit,Independen,Pekanbaru,Riau,Sumatera,SIPA-367729,+62-191-1157662,2015-03-18,aktif,gold
+OUT-0120,RS Mekar Padang,rumah_sakit,Independen,Padang,Sumatera Barat,Sumatera,SIPA-716113,+62-97-8118722,2013-07-18,aktif,bronze
+OUT-0121,Apotek Pelita,apotek_independen,Independen,Malang,Jawa Timur,Jawa,SIPA-211834,+62-81-7398231,2014-06-20,tutup_permanen,bronze
+OUT-0122,Century Healthcare Banjarmasin,apotek_jaringan,Century Healthcare,Banjarmasin,Kalimantan Selatan,Kalimantan,SIPA-515032,+62-91-1135861,2016-08-15,aktif,bronze
+OUT-0123,Klinik Sejahtera,klinik,Independen,Banjarmasin,Kalimantan Selatan,Kalimantan,SIPA-400096,+62-219-4860745,2023-08-08,aktif,bronze
+OUT-0124,Klinik Bahagia,klinik,Independen,Makassar,Sulawesi Selatan,Sulawesi,SIPA-892280,+62-205-3294774,2024-04-12,aktif,gold
+OUT-0125,Watsons Manado,apotek_jaringan,Watsons,Manado,Sulawesi Utara,Sulawesi,SIPA-707727,+62-114-3204724,2010-11-19,aktif,silver
+OUT-0126,RS Cahaya Bekasi,rumah_sakit,Independen,Bekasi,Jawa Barat,Jawa,SIPA-665610,+62-245-7138070,2019-04-27,aktif,gold
+OUT-0127,Apotek Harapan,apotek_independen,Independen,Bandar Lampung,Lampung,Sumatera,SIPA-605254,+62-268-5951651,2013-09-09,aktif,bronze
+OUT-0128,Klinik Mandiri,klinik,Independen,Yogyakarta,DI Yogyakarta,Jawa,SIPA-809176,+62-206-7667458,2011-09-09,aktif,bronze
+OUT-0129,K-24 Balikpapan,apotek_jaringan,K-24,Balikpapan,Kalimantan Timur,Kalimantan,SIPA-486490,+62-193-5398338,2010-04-25,aktif,gold
+OUT-0130,Watsons Banjarmasin,apotek_jaringan,Watsons,Banjarmasin,Kalimantan Selatan,Kalimantan,SIPA-126240,+62-179-6503032,2018-05-02,aktif,gold
+OUT-0131,Kimia Farma Makassar,apotek_jaringan,Kimia Farma,Makassar,Sulawesi Selatan,Sulawesi,SIPA-528129,+62-50-3345069,2020-05-31,tutup_sementara,gold
+OUT-0132,RS Pelita Bandung,rumah_sakit,Independen,Bandung,Jawa Barat,Jawa,SIPA-663658,+62-55-7520395,2021-01-18,aktif,gold
+OUT-0133,Viva Apotek Padang,apotek_jaringan,Viva Apotek,Padang,Sumatera Barat,Sumatera,SIPA-262029,+62-247-7960607,2022-02-12,aktif,silver
+OUT-0134,Guardian Manado,apotek_jaringan,Guardian,Manado,Sulawesi Utara,Sulawesi,SIPA-823811,+62-115-4645180,2019-02-26,tutup_sementara,gold
+OUT-0135,Century Healthcare Padang,apotek_jaringan,Century Healthcare,Padang,Sumatera Barat,Sumatera,SIPA-670913,+62-251-7017548,2018-02-19,aktif,silver
+OUT-0136,Kimia Farma Bandung,apotek_jaringan,Kimia Farma,Bandung,Jawa Barat,Jawa,SIPA-196126,+62-190-4558545,2012-09-27,tutup_sementara,bronze
+OUT-0137,Apotek Sentosa,apotek_independen,Independen,Manado,Sulawesi Utara,Sulawesi,SIPA-232040,+62-222-4442778,2011-02-19,aktif,gold
+OUT-0138,Klinik Mekar,klinik,Independen,Bekasi,Jawa Barat,Jawa,SIPA-344316,+62-105-3475548,2014-08-25,aktif,bronze
+OUT-0139,Apotek Roxy Makassar,apotek_jaringan,Apotek Roxy,Makassar,Sulawesi Selatan,Sulawesi,SIPA-937302,+62-65-2844258,2013-03-31,tutup_permanen,silver
+OUT-0140,Century Healthcare Jakarta,apotek_jaringan,Century Healthcare,Jakarta,DKI Jakarta,Jawa,SIPA-378258,+62-34-3126655,2015-05-04,aktif,platinum
+OUT-0141,Apotek Mulia,apotek_independen,Independen,Palembang,Sumatera Selatan,Sumatera,SIPA-722503,+62-48-8583392,2020-09-06,aktif,silver
+OUT-0142,Watsons Bandar Lampung,apotek_jaringan,Watsons,Bandar Lampung,Lampung,Sumatera,SIPA-132663,+62-36-9035982,2024-10-11,aktif,silver
+OUT-0143,Kimia Farma Medan,apotek_jaringan,Kimia Farma,Medan,Sumatera Utara,Sumatera,SIPA-737846,+62-58-2101965,2019-12-13,aktif,platinum
+OUT-0144,Watsons Bogor,apotek_jaringan,Watsons,Bogor,Jawa Barat,Jawa,SIPA-726410,+62-156-5947563,2022-04-20,aktif,silver
+OUT-0145,Apotek Indah,apotek_independen,Independen,Padang,Sumatera Barat,Sumatera,SIPA-786516,+62-187-4607488,2012-03-23,aktif,gold
+OUT-0146,Apotek Bahagia,apotek_independen,Independen,Palembang,Sumatera Selatan,Sumatera,SIPA-536196,+62-207-2595275,2019-04-13,aktif,silver
+OUT-0147,Watsons Yogyakarta,apotek_jaringan,Watsons,Yogyakarta,DI Yogyakarta,Jawa,SIPA-597305,+62-38-2530497,2018-05-25,tutup_sementara,silver
+OUT-0148,Kimia Farma Bekasi,apotek_jaringan,Kimia Farma,Bekasi,Jawa Barat,Jawa,SIPA-714953,+62-265-6530541,2018-05-11,aktif,silver
+OUT-0149,Apotek Roxy Depok,apotek_jaringan,Apotek Roxy,Depok,Jawa Barat,Jawa,SIPA-401601,+62-174-6242022,2019-06-27,aktif,silver
+OUT-0150,Guardian Denpasar,apotek_jaringan,Guardian,Denpasar,Bali,Bali Nusra,SIPA-213475,+62-110-7166651,2013-06-21,aktif,gold
+OUT-0151,Klinik Bahagia,klinik,Independen,Depok,Jawa Barat,Jawa,SIPA-958182,+62-180-1440466,2019-08-17,aktif,bronze
+OUT-0152,RS Harapan Makassar,rumah_sakit,Independen,Makassar,Sulawesi Selatan,Sulawesi,SIPA-423993,+62-256-6701311,2010-08-26,aktif,silver
+OUT-0153,Apotek Roxy Denpasar,apotek_jaringan,Apotek Roxy,Denpasar,Bali,Bali Nusra,SIPA-876962,+62-183-1514340,2022-09-14,aktif,platinum
+OUT-0154,Apotek Makmur,apotek_independen,Independen,Bekasi,Jawa Barat,Jawa,SIPA-488028,+62-100-6442241,2018-06-09,aktif,gold
+OUT-0155,Apotek Sejahtera,apotek_independen,Independen,Banjarmasin,Kalimantan Selatan,Kalimantan,SIPA-806707,+62-41-5565128,2013-06-28,aktif,silver
+OUT-0156,Apotek Kasih,apotek_independen,Independen,Padang,Sumatera Barat,Sumatera,SIPA-891615,+62-152-2909540,2023-08-14,aktif,gold
+OUT-0157,Century Healthcare Denpasar,apotek_jaringan,Century Healthcare,Denpasar,Bali,Bali Nusra,SIPA-147623,+62-77-7631419,2023-04-21,aktif,silver
+OUT-0158,Kimia Farma Makassar,apotek_jaringan,Kimia Farma,Makassar,Sulawesi Selatan,Sulawesi,SIPA-403507,+62-104-3013003,2014-09-27,aktif,bronze
+OUT-0159,Apotek Indah,apotek_independen,Independen,Jakarta,DKI Jakarta,Jawa,SIPA-341288,+62-149-6941939,2013-12-10,aktif,silver
+OUT-0160,K-24 Bekasi,apotek_jaringan,K-24,Bekasi,Jawa Barat,Jawa,SIPA-428267,+62-168-8202195,2019-10-14,aktif,bronze
+OUT-0161,Watsons Banjarmasin,apotek_jaringan,Watsons,Banjarmasin,Kalimantan Selatan,Kalimantan,SIPA-440544,+62-64-8719145,2016-06-29,aktif,platinum
+OUT-0162,K-24 Denpasar,apotek_jaringan,K-24,Denpasar,Bali,Bali Nusra,SIPA-182467,+62-122-6205543,2015-06-17,aktif,silver
+OUT-0163,K-24 Yogyakarta,apotek_jaringan,K-24,Yogyakarta,DI Yogyakarta,Jawa,SIPA-634723,+62-70-6861544,2011-09-18,aktif,gold
+OUT-0164,Apotek Abadi,apotek_independen,Independen,Denpasar,Bali,Bali Nusra,SIPA-281926,+62-175-3564729,2015-04-20,aktif,gold
+OUT-0165,Viva Apotek Manado,apotek_jaringan,Viva Apotek,Manado,Sulawesi Utara,Sulawesi,SIPA-896788,+62-169-8531380,2024-02-01,aktif,bronze
+OUT-0166,Apotek Cahaya,apotek_independen,Independen,Banjarmasin,Kalimantan Selatan,Kalimantan,SIPA-591699,+62-134-6080483,2024-01-26,aktif,silver
+OUT-0167,Apotek Bunda,apotek_independen,Independen,Malang,Jawa Timur,Jawa,SIPA-139434,+62-35-7186390,2021-05-19,aktif,silver
+OUT-0168,Apotek Roxy Tangerang,apotek_jaringan,Apotek Roxy,Tangerang,Banten,Jawa,SIPA-585188,+62-169-1688246,2012-01-10,aktif,silver
+OUT-0169,RS Makmur Padang,rumah_sakit,Independen,Padang,Sumatera Barat,Sumatera,SIPA-164879,+62-136-2736473,2017-03-18,aktif,silver
+OUT-0170,RS Mulia Yogyakarta,rumah_sakit,Independen,Yogyakarta,DI Yogyakarta,Jawa,SIPA-841995,+62-133-8372274,2021-04-26,aktif,platinum
+OUT-0171,Apotek Lestari,apotek_independen,Independen,Bandar Lampung,Lampung,Sumatera,SIPA-528625,+62-219-6676858,2018-03-01,aktif,gold
+OUT-0172,Watsons Makassar,apotek_jaringan,Watsons,Makassar,Sulawesi Selatan,Sulawesi,SIPA-811332,+62-119-5767195,2017-07-04,aktif,platinum
+OUT-0173,Apotek Abadi,apotek_independen,Independen,Malang,Jawa Timur,Jawa,SIPA-466813,+62-100-7575963,2017-06-23,aktif,silver
+OUT-0174,Apotek Mulia,apotek_independen,Independen,Bogor,Jawa Barat,Jawa,SIPA-444432,+62-229-3144023,2016-12-11,aktif,silver
+OUT-0175,Watsons Bandar Lampung,apotek_jaringan,Watsons,Bandar Lampung,Lampung,Sumatera,SIPA-289019,+62-264-4593556,2021-05-28,aktif,silver
+OUT-0176,RS Kasih Yogyakarta,rumah_sakit,Independen,Yogyakarta,DI Yogyakarta,Jawa,SIPA-180913,+62-96-2696860,2014-04-22,aktif,gold
+OUT-0177,Klinik Damai,klinik,Independen,Bandar Lampung,Lampung,Sumatera,SIPA-748052,+62-54-7320310,2010-11-06,aktif,bronze
+OUT-0178,K-24 Bogor,apotek_jaringan,K-24,Bogor,Jawa Barat,Jawa,SIPA-558933,+62-32-7893063,2024-01-05,aktif,gold
+OUT-0179,Apotek Bahagia,apotek_independen,Independen,Denpasar,Bali,Bali Nusra,SIPA-921874,+62-135-4925917,2019-12-18,aktif,bronze
+OUT-0180,Viva Apotek Balikpapan,apotek_jaringan,Viva Apotek,Balikpapan,Kalimantan Timur,Kalimantan,SIPA-811256,+62-263-8391997,2020-07-09,tutup_sementara,gold
+OUT-0181,Klinik Permata,klinik,Independen,Padang,Sumatera Barat,Sumatera,SIPA-956572,+62-72-3321942,2021-04-12,aktif,bronze
+OUT-0182,Guardian Malang,apotek_jaringan,Guardian,Malang,Jawa Timur,Jawa,SIPA-986982,+62-153-3091745,2018-04-29,aktif,gold
+OUT-0183,Kimia Farma Tangerang,apotek_jaringan,Kimia Farma,Tangerang,Banten,Jawa,SIPA-558723,+62-44-4725179,2020-01-29,tutup_sementara,gold
+OUT-0184,Klinik Sentosa,klinik,Independen,Padang,Sumatera Barat,Sumatera,SIPA-347231,+62-119-2369112,2019-04-22,aktif,silver
+OUT-0185,Century Healthcare Denpasar,apotek_jaringan,Century Healthcare,Denpasar,Bali,Bali Nusra,SIPA-929822,+62-58-3308538,2012-03-22,aktif,silver
+OUT-0186,K-24 Bandung,apotek_jaringan,K-24,Bandung,Jawa Barat,Jawa,SIPA-745239,+62-22-2329187,2013-02-10,aktif,silver
+OUT-0187,K-24 Jakarta,apotek_jaringan,K-24,Jakarta,DKI Jakarta,Jawa,SIPA-543814,+62-49-5833542,2022-04-23,tutup_sementara,silver
+OUT-0188,Kimia Farma Surabaya,apotek_jaringan,Kimia Farma,Surabaya,Jawa Timur,Jawa,SIPA-165858,+62-49-9385742,2019-06-02,aktif,silver
+OUT-0189,Apotek Damai,apotek_independen,Independen,Makassar,Sulawesi Selatan,Sulawesi,SIPA-550089,+62-21-6919270,2022-11-24,aktif,gold
+OUT-0190,Apotek Lestari,apotek_independen,Independen,Surabaya,Jawa Timur,Jawa,SIPA-478120,+62-38-9825812,2024-11-25,aktif,silver
+OUT-0191,Apotek Damai,apotek_independen,Independen,Balikpapan,Kalimantan Timur,Kalimantan,SIPA-145649,+62-183-7490791,2022-06-06,aktif,bronze
+OUT-0192,Kimia Farma Denpasar,apotek_jaringan,Kimia Farma,Denpasar,Bali,Bali Nusra,SIPA-758775,+62-47-6578736,2011-07-08,aktif,silver
+OUT-0193,Watsons Bogor,apotek_jaringan,Watsons,Bogor,Jawa Barat,Jawa,SIPA-587192,+62-272-9028420,2024-06-01,aktif,bronze
+OUT-0194,Kimia Farma Manado,apotek_jaringan,Kimia Farma,Manado,Sulawesi Utara,Sulawesi,SIPA-929538,+62-72-1703065,2020-04-07,aktif,gold
+OUT-0195,RS Damai Yogyakarta,rumah_sakit,Independen,Yogyakarta,DI Yogyakarta,Jawa,SIPA-365618,+62-30-4206183,2018-12-07,tutup_permanen,silver
+OUT-0196,K-24 Tangerang,apotek_jaringan,K-24,Tangerang,Banten,Jawa,SIPA-485896,+62-132-7711251,2024-09-15,aktif,gold
+OUT-0197,Klinik Permata,klinik,Independen,Padang,Sumatera Barat,Sumatera,SIPA-621691,+62-115-9712003,2017-08-09,tutup_permanen,silver
+OUT-0198,Klinik Indah,klinik,Independen,Malang,Jawa Timur,Jawa,SIPA-289222,+62-160-5928582,2011-10-09,aktif,bronze
+OUT-0199,Century Healthcare Yogyakarta,apotek_jaringan,Century Healthcare,Yogyakarta,DI Yogyakarta,Jawa,SIPA-546815,+62-63-8447546,2016-08-18,aktif,silver
+OUT-0200,K-24 Denpasar,apotek_jaringan,K-24,Denpasar,Bali,Bali Nusra,SIPA-770532,+62-271-1962308,2017-11-28,aktif,silver
+OUT-0201,Apotek Permata,apotek_independen,Independen,Bekasi,Jawa Barat,Jawa,SIPA-267758,+62-264-1522452,2018-02-24,aktif,silver
+OUT-0202,Klinik Mandiri,klinik,Independen,Bogor,Jawa Barat,Jawa,SIPA-776502,+62-114-7075878,2010-10-13,aktif,gold
+OUT-0203,RS Sejahtera Medan,rumah_sakit,Independen,Medan,Sumatera Utara,Sumatera,SIPA-488984,+62-116-8448065,2023-07-28,aktif,silver
+OUT-0204,Apotek Damai,apotek_independen,Independen,Bekasi,Jawa Barat,Jawa,SIPA-361736,+62-266-2903351,2018-03-26,aktif,silver
+OUT-0205,Apotek Kasih,apotek_independen,Independen,Jakarta,DKI Jakarta,Jawa,SIPA-374492,+62-219-5366937,2021-08-12,aktif,silver
+OUT-0206,Watsons Padang,apotek_jaringan,Watsons,Padang,Sumatera Barat,Sumatera,SIPA-177649,+62-136-3896693,2021-01-06,aktif,gold
+OUT-0207,RS Cahaya Padang,rumah_sakit,Independen,Padang,Sumatera Barat,Sumatera,SIPA-668507,+62-95-6032437,2024-12-23,aktif,platinum
+OUT-0208,Apotek Lestari,apotek_independen,Independen,Semarang,Jawa Tengah,Jawa,SIPA-310743,+62-223-3329967,2018-02-09,aktif,gold
+OUT-0209,Klinik Sentosa,klinik,Independen,Surabaya,Jawa Timur,Jawa,SIPA-942700,+62-272-3177199,2018-02-04,aktif,silver
+OUT-0210,Klinik Mulia,klinik,Independen,Makassar,Sulawesi Selatan,Sulawesi,SIPA-601916,+62-155-7891998,2016-12-08,aktif,silver
+OUT-0211,Klinik Mulia,klinik,Independen,Palembang,Sumatera Selatan,Sumatera,SIPA-571832,+62-140-9679860,2012-10-23,tutup_permanen,silver
+OUT-0212,K-24 Denpasar,apotek_jaringan,K-24,Denpasar,Bali,Bali Nusra,SIPA-235300,+62-131-9436654,2022-05-14,aktif,gold
+OUT-0213,Klinik Damai,klinik,Independen,Bandung,Jawa Barat,Jawa,SIPA-843788,+62-78-6805303,2013-06-07,aktif,gold
+OUT-0214,Klinik Mulia,klinik,Independen,Bandar Lampung,Lampung,Sumatera,SIPA-387782,+62-53-6080553,2015-08-15,aktif,bronze
+OUT-0215,Apotek Damai,apotek_independen,Independen,Makassar,Sulawesi Selatan,Sulawesi,SIPA-261684,+62-64-6664316,2024-05-17,aktif,bronze
+OUT-0216,Apotek Roxy Banjarmasin,apotek_jaringan,Apotek Roxy,Banjarmasin,Kalimantan Selatan,Kalimantan,SIPA-704788,+62-88-4536777,2011-10-28,aktif,silver
+OUT-0217,Watsons Banjarmasin,apotek_jaringan,Watsons,Banjarmasin,Kalimantan Selatan,Kalimantan,SIPA-773088,+62-265-6068298,2021-03-03,tutup_sementara,silver
+OUT-0218,K-24 Pekanbaru,apotek_jaringan,K-24,Pekanbaru,Riau,Sumatera,SIPA-162823,+62-61-8375356,2019-02-09,aktif,platinum
+OUT-0219,Apotek Makmur,apotek_independen,Independen,Palembang,Sumatera Selatan,Sumatera,SIPA-853258,+62-102-6794356,2017-08-18,aktif,gold
+OUT-0220,Century Healthcare Medan,apotek_jaringan,Century Healthcare,Medan,Sumatera Utara,Sumatera,SIPA-228473,+62-89-8542969,2022-08-07,aktif,gold
+OUT-0221,Kimia Farma Surabaya,apotek_jaringan,Kimia Farma,Surabaya,Jawa Timur,Jawa,SIPA-267457,+62-229-6493461,2018-08-13,aktif,silver
+OUT-0222,Apotek Makmur,apotek_independen,Independen,Banjarmasin,Kalimantan Selatan,Kalimantan,SIPA-622987,+62-246-6176450,2013-07-29,aktif,silver
+OUT-0223,Viva Apotek Pekanbaru,apotek_jaringan,Viva Apotek,Pekanbaru,Riau,Sumatera,SIPA-711680,+62-111-1816348,2021-05-03,aktif,gold
+OUT-0224,Watsons Bandung,apotek_jaringan,Watsons,Bandung,Jawa Barat,Jawa,SIPA-108574,+62-237-2803501,2024-09-03,aktif,gold
+OUT-0225,Century Healthcare Palembang,apotek_jaringan,Century Healthcare,Palembang,Sumatera Selatan,Sumatera,SIPA-520040,+62-34-4265774,2018-03-16,aktif,silver
+OUT-0226,Apotek Mulia,apotek_independen,Independen,Denpasar,Bali,Bali Nusra,SIPA-393308,+62-232-2993318,2018-08-31,aktif,bronze
+OUT-0227,RS Permata Bogor,rumah_sakit,Independen,Bogor,Jawa Barat,Jawa,SIPA-483366,+62-214-3420404,2018-05-16,aktif,gold
+OUT-0228,Apotek Permata,apotek_independen,Independen,Solo,Jawa Tengah,Jawa,SIPA-848255,+62-106-8948107,2021-03-20,aktif,platinum
+OUT-0229,Apotek Damai,apotek_independen,Independen,Bandar Lampung,Lampung,Sumatera,SIPA-270395,+62-121-6020319,2013-02-19,aktif,silver
+OUT-0230,K-24 Banjarmasin,apotek_jaringan,K-24,Banjarmasin,Kalimantan Selatan,Kalimantan,SIPA-597960,+62-229-1279121,2021-12-09,aktif,silver
+OUT-0231,Kimia Farma Denpasar,apotek_jaringan,Kimia Farma,Denpasar,Bali,Bali Nusra,SIPA-860557,+62-244-1447065,2019-05-06,aktif,bronze
+OUT-0232,Apotek Bahagia,apotek_independen,Independen,Makassar,Sulawesi Selatan,Sulawesi,SIPA-759580,+62-205-7378535,2011-02-25,aktif,gold
+OUT-0233,Klinik Bahagia,klinik,Independen,Bogor,Jawa Barat,Jawa,SIPA-300051,+62-25-8399399,2010-09-16,aktif,silver
+OUT-0234,Guardian Yogyakarta,apotek_jaringan,Guardian,Yogyakarta,DI Yogyakarta,Jawa,SIPA-594514,+62-244-2044906,2014-07-29,aktif,bronze
+OUT-0235,Apotek Mekar,apotek_independen,Independen,Bogor,Jawa Barat,Jawa,SIPA-495129,+62-101-3905518,2017-04-16,tutup_permanen,silver
+OUT-0236,RS Cahaya Padang,rumah_sakit,Independen,Padang,Sumatera Barat,Sumatera,SIPA-855944,+62-195-5435261,2022-04-03,aktif,bronze
+OUT-0237,Apotek Bahagia,apotek_independen,Independen,Makassar,Sulawesi Selatan,Sulawesi,SIPA-412071,+62-218-5848684,2016-04-04,aktif,gold
+OUT-0238,Apotek Kasih,apotek_independen,Independen,Solo,Jawa Tengah,Jawa,SIPA-934042,+62-205-5587856,2017-02-10,aktif,silver
+OUT-0239,Watsons Tangerang,apotek_jaringan,Watsons,Tangerang,Banten,Jawa,SIPA-461899,+62-265-3457461,2018-07-08,tutup_sementara,silver
+OUT-0240,Viva Apotek Tangerang,apotek_jaringan,Viva Apotek,Tangerang,Banten,Jawa,SIPA-368900,+62-212-9037616,2011-10-10,aktif,silver
+OUT-0241,Watsons Solo,apotek_jaringan,Watsons,Solo,Jawa Tengah,Jawa,SIPA-745584,+62-210-5014486,2022-08-10,aktif,gold
+OUT-0242,Apotek Roxy Surabaya,apotek_jaringan,Apotek Roxy,Surabaya,Jawa Timur,Jawa,SIPA-533377,+62-105-8925622,2015-01-23,aktif,platinum
+OUT-0243,Apotek Abadi,apotek_independen,Independen,Depok,Jawa Barat,Jawa,SIPA-265613,+62-125-8980915,2010-02-12,tutup_permanen,bronze
+OUT-0244,Apotek Pelita,apotek_independen,Independen,Pekanbaru,Riau,Sumatera,SIPA-906066,+62-43-4896008,2017-03-16,aktif,platinum
+OUT-0245,Apotek Sejahtera,apotek_independen,Independen,Balikpapan,Kalimantan Timur,Kalimantan,SIPA-138105,+62-235-7660463,2013-12-05,aktif,bronze
+OUT-0246,K-24 Pekanbaru,apotek_jaringan,K-24,Pekanbaru,Riau,Sumatera,SIPA-695551,+62-175-2800206,2016-06-29,aktif,platinum
+OUT-0247,Viva Apotek Yogyakarta,apotek_jaringan,Viva Apotek,Yogyakarta,DI Yogyakarta,Jawa,SIPA-240718,+62-238-9459284,2022-03-09,aktif,bronze
+OUT-0248,K-24 Padang,apotek_jaringan,K-24,Padang,Sumatera Barat,Sumatera,SIPA-369761,+62-204-4123902,2017-06-01,aktif,silver
+OUT-0249,Apotek Pelita,apotek_independen,Independen,Jakarta,DKI Jakarta,Jawa,SIPA-740632,+62-240-7802999,2022-09-26,aktif,gold
+OUT-0250,Apotek Mulia,apotek_independen,Independen,Palembang,Sumatera Selatan,Sumatera,SIPA-247442,+62-143-6429135,2018-12-28,aktif,gold
+OUT-0251,Century Healthcare Surabaya,apotek_jaringan,Century Healthcare,Surabaya,Jawa Timur,Jawa,SIPA-416613,+62-170-1191859,2020-01-08,aktif,bronze
+OUT-0252,Apotek Bahagia,apotek_independen,Independen,Malang,Jawa Timur,Jawa,SIPA-267475,+62-124-9430894,2011-05-24,aktif,silver
+OUT-0253,Apotek Pelita,apotek_independen,Independen,Tangerang,Banten,Jawa,SIPA-240057,+62-143-3570027,2018-03-30,aktif,gold
+OUT-0254,Apotek Bunda,apotek_independen,Independen,Padang,Sumatera Barat,Sumatera,SIPA-894139,+62-158-4664338,2019-04-30,aktif,bronze
+OUT-0255,Apotek Mulia,apotek_independen,Independen,Surabaya,Jawa Timur,Jawa,SIPA-181896,+62-255-2882551,2021-10-14,aktif,silver
+OUT-0256,Klinik Damai,klinik,Independen,Bandung,Jawa Barat,Jawa,SIPA-444056,+62-239-9729882,2014-07-15,aktif,gold
+OUT-0257,Kimia Farma Padang,apotek_jaringan,Kimia Farma,Padang,Sumatera Barat,Sumatera,SIPA-567122,+62-228-1933413,2023-01-30,aktif,bronze
+OUT-0258,Guardian Padang,apotek_jaringan,Guardian,Padang,Sumatera Barat,Sumatera,SIPA-946112,+62-99-1365247,2022-08-25,aktif,silver
+OUT-0259,Kimia Farma Medan,apotek_jaringan,Kimia Farma,Medan,Sumatera Utara,Sumatera,SIPA-461264,+62-200-2069713,2014-11-21,aktif,platinum
+OUT-0260,RS Mulia Balikpapan,rumah_sakit,Independen,Balikpapan,Kalimantan Timur,Kalimantan,SIPA-906325,+62-55-8052503,2020-08-03,aktif,silver
+OUT-0261,RS Permata Denpasar,rumah_sakit,Independen,Denpasar,Bali,Bali Nusra,SIPA-493892,+62-41-3231198,2020-01-23,aktif,bronze
+OUT-0262,Klinik Jaya,klinik,Independen,Manado,Sulawesi Utara,Sulawesi,SIPA-233533,+62-207-4736121,2014-01-02,tutup_permanen,silver
+OUT-0263,Klinik Pelita,klinik,Independen,Jakarta,DKI Jakarta,Jawa,SIPA-657772,+62-118-4853123,2020-05-20,aktif,silver
+OUT-0264,Apotek Abadi,apotek_independen,Independen,Surabaya,Jawa Timur,Jawa,SIPA-902674,+62-49-1540516,2016-03-08,aktif,bronze
+OUT-0265,Apotek Sentosa,apotek_independen,Independen,Palembang,Sumatera Selatan,Sumatera,SIPA-135207,+62-135-1816653,2015-05-26,aktif,gold
+OUT-0266,Apotek Permata,apotek_independen,Independen,Surabaya,Jawa Timur,Jawa,SIPA-913761,+62-35-3351084,2019-11-05,aktif,gold
+OUT-0267,RS Bahagia Bandar Lampung,rumah_sakit,Independen,Bandar Lampung,Lampung,Sumatera,SIPA-805200,+62-230-6379867,2022-12-03,aktif,silver
+OUT-0268,Kimia Farma Surabaya,apotek_jaringan,Kimia Farma,Surabaya,Jawa Timur,Jawa,SIPA-388519,+62-36-3938247,2024-10-22,aktif,silver
+OUT-0269,Apotek Mekar,apotek_independen,Independen,Manado,Sulawesi Utara,Sulawesi,SIPA-774565,+62-192-7394713,2021-02-12,aktif,gold
+OUT-0270,Guardian Bandar Lampung,apotek_jaringan,Guardian,Bandar Lampung,Lampung,Sumatera,SIPA-664058,+62-142-5042775,2013-05-07,aktif,gold
+OUT-0271,K-24 Surabaya,apotek_jaringan,K-24,Surabaya,Jawa Timur,Jawa,SIPA-536740,+62-163-9891787,2020-05-21,tutup_sementara,silver
+OUT-0272,Century Healthcare Bogor,apotek_jaringan,Century Healthcare,Bogor,Jawa Barat,Jawa,SIPA-988283,+62-115-2551288,2017-05-29,aktif,bronze
+OUT-0273,Apotek Makmur,apotek_independen,Independen,Balikpapan,Kalimantan Timur,Kalimantan,SIPA-732209,+62-31-2221118,2011-02-27,aktif,silver
+OUT-0274,Klinik Mekar,klinik,Independen,Solo,Jawa Tengah,Jawa,SIPA-449138,+62-98-1257256,2014-11-13,aktif,bronze
+OUT-0275,RS Jaya Solo,rumah_sakit,Independen,Solo,Jawa Tengah,Jawa,SIPA-837954,+62-73-7654381,2020-09-28,tutup_sementara,silver
+OUT-0276,Apotek Pelita,apotek_independen,Independen,Surabaya,Jawa Timur,Jawa,SIPA-423404,+62-87-7033835,2018-07-16,aktif,silver
+OUT-0277,Klinik Mandiri,klinik,Independen,Bandar Lampung,Lampung,Sumatera,SIPA-898625,+62-235-6372622,2012-03-18,aktif,silver
+OUT-0278,Guardian Solo,apotek_jaringan,Guardian,Solo,Jawa Tengah,Jawa,SIPA-117007,+62-87-8005797,2022-08-14,aktif,silver
+OUT-0279,Century Healthcare Tangerang,apotek_jaringan,Century Healthcare,Tangerang,Banten,Jawa,SIPA-677390,+62-188-6663388,2018-07-09,aktif,gold
+OUT-0280,Klinik Kasih,klinik,Independen,Malang,Jawa Timur,Jawa,SIPA-868367,+62-224-6908535,2024-05-23,aktif,silver
+OUT-0281,Watsons Semarang,apotek_jaringan,Watsons,Semarang,Jawa Tengah,Jawa,SIPA-772985,+62-266-1985360,2014-02-16,tutup_sementara,silver
+OUT-0282,Apotek Roxy Bandar Lampung,apotek_jaringan,Apotek Roxy,Bandar Lampung,Lampung,Sumatera,SIPA-244170,+62-236-4882808,2024-12-27,aktif,platinum
+OUT-0283,Apotek Sentosa,apotek_independen,Independen,Bekasi,Jawa Barat,Jawa,SIPA-747847,+62-184-9106820,2014-11-27,aktif,silver
+OUT-0284,Guardian Pekanbaru,apotek_jaringan,Guardian,Pekanbaru,Riau,Sumatera,SIPA-388086,+62-158-5809835,2019-03-24,aktif,silver
+OUT-0285,Apotek Indah,apotek_independen,Independen,Jakarta,DKI Jakarta,Jawa,SIPA-256130,+62-82-4220085,2014-01-08,aktif,platinum
+OUT-0286,Apotek Bunda,apotek_independen,Independen,Makassar,Sulawesi Selatan,Sulawesi,SIPA-525750,+62-138-5080351,2015-12-30,aktif,platinum
+OUT-0287,K-24 Surabaya,apotek_jaringan,K-24,Surabaya,Jawa Timur,Jawa,SIPA-896483,+62-29-2568678,2011-10-23,aktif,bronze
+OUT-0288,Watsons Medan,apotek_jaringan,Watsons,Medan,Sumatera Utara,Sumatera,SIPA-186702,+62-148-8279795,2011-04-05,aktif,silver
+OUT-0289,Klinik Jaya,klinik,Independen,Manado,Sulawesi Utara,Sulawesi,SIPA-825916,+62-248-8977571,2021-11-05,tutup_sementara,gold
+OUT-0290,Kimia Farma Malang,apotek_jaringan,Kimia Farma,Malang,Jawa Timur,Jawa,SIPA-134500,+62-66-6276177,2016-04-15,tutup_sementara,silver
+OUT-0291,RS Abadi Jakarta,rumah_sakit,Independen,Jakarta,DKI Jakarta,Jawa,SIPA-691353,+62-82-7528964,2018-12-07,tutup_sementara,gold
+OUT-0292,K-24 Balikpapan,apotek_jaringan,K-24,Balikpapan,Kalimantan Timur,Kalimantan,SIPA-182237,+62-149-6802559,2013-02-20,aktif,silver
+OUT-0293,Century Healthcare Bandung,apotek_jaringan,Century Healthcare,Bandung,Jawa Barat,Jawa,SIPA-724540,+62-122-6475691,2011-09-15,aktif,bronze
+OUT-0294,Apotek Mandiri,apotek_independen,Independen,Jakarta,DKI Jakarta,Jawa,SIPA-493663,+62-131-4116163,2021-01-02,aktif,silver
+OUT-0295,Apotek Mulia,apotek_independen,Independen,Banjarmasin,Kalimantan Selatan,Kalimantan,SIPA-177077,+62-42-5495824,2023-11-16,aktif,gold
+OUT-0296,K-24 Bogor,apotek_jaringan,K-24,Bogor,Jawa Barat,Jawa,SIPA-211726,+62-44-1087161,2013-06-17,aktif,gold
+OUT-0297,K-24 Tangerang,apotek_jaringan,K-24,Tangerang,Banten,Jawa,SIPA-570646,+62-163-9597330,2012-04-17,aktif,gold
+OUT-0298,Kimia Farma Palembang,apotek_jaringan,Kimia Farma,Palembang,Sumatera Selatan,Sumatera,SIPA-440189,+62-242-7463219,2022-06-07,aktif,silver
+OUT-0299,Guardian Jakarta,apotek_jaringan,Guardian,Jakarta,DKI Jakarta,Jawa,SIPA-354533,+62-167-9742683,2011-11-25,aktif,silver
+OUT-0300,Apotek Lestari,apotek_independen,Independen,Semarang,Jawa Tengah,Jawa,SIPA-253023,+62-37-3805274,2013-02-11,aktif,gold
