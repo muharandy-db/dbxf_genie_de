@@ -166,8 +166,11 @@ Buka Genie Code dan paste:
 >
 > ```
 > Buat sebuah Spark Declarative Pipeline materialized view bernama 02_penjualan_per_outlet.
-> View ini harus melakukan agregasi penjualan dari LIVE.01_retail_sales yang di-join dengan
-> LIVE.01_retail_outlets berdasarkan outlet_id.
+> View ini harus melakukan agregasi penjualan dari 01_retail_sales yang di-join dengan
+> 01_retail_outlets berdasarkan outlet_id.
+>
+> Catatan: gunakan syntax SDP terbaru — referensi tabel tanpa prefix `LIVE.`
+> (sintaks `LIVE.` sudah deprecated). Cukup tulis nama tabel apa adanya.
 >
 > Kolom output yang diharapkan:
 > - outlet_id, outlet_name, chain_name, outlet_type, city, province, region, tier
@@ -191,7 +194,10 @@ Tinjau dan accept kode.
 >
 > ```
 > Buat sebuah Spark Declarative Pipeline materialized view bernama 02_tren_penjualan_bulanan_produk.
-> View ini harus menampilkan tren penjualan bulanan per produk dari LIVE.01_retail_sales.
+> View ini harus menampilkan tren penjualan bulanan per produk dari 01_retail_sales.
+>
+> Catatan: gunakan syntax SDP terbaru — referensi tabel tanpa prefix `LIVE.`
+> (sintaks `LIVE.` sudah deprecated). Cukup tulis nama tabel apa adanya.
 >
 > Kolom output yang diharapkan:
 > - bulan (format YYYY-MM, hasil date_format sale_date)
@@ -216,7 +222,10 @@ Tinjau dan accept.
 >
 > ```
 > Buat sebuah Spark Declarative Pipeline materialized view bernama 02_performa_distributor.
-> View ini harus mengukur performa pengiriman distributor dari LIVE.01_distribution_shipments.
+> View ini harus mengukur performa pengiriman distributor dari 01_distribution_shipments.
+>
+> Catatan: gunakan syntax SDP terbaru — referensi tabel tanpa prefix `LIVE.`
+> (sintaks `LIVE.` sudah deprecated). Cukup tulis nama tabel apa adanya.
 >
 > Kolom output yang diharapkan:
 > - distributor_id, distributor_name
@@ -244,8 +253,11 @@ Tinjau dan accept.
 >
 > ```
 > Buat sebuah Spark Declarative Pipeline materialized view bernama 02_geografis_penjualan.
-> View ini harus mengagregasi penjualan berdasarkan kota dan provinsi, dari LIVE.01_retail_sales
-> yang di-join dengan LIVE.01_retail_outlets.
+> View ini harus mengagregasi penjualan berdasarkan kota dan provinsi, dari 01_retail_sales
+> yang di-join dengan 01_retail_outlets.
+>
+> Catatan: gunakan syntax SDP terbaru — referensi tabel tanpa prefix `LIVE.`
+> (sintaks `LIVE.` sudah deprecated). Cukup tulis nama tabel apa adanya.
 >
 > Kolom output yang diharapkan:
 > - region, province, city
