@@ -1,0 +1,201 @@
+branch_id,branch_name,branch_type,bank_name,city,province,region,branch_code,phone,opened_date,status,tier
+BR-0001,Bank Nusantara Sejahtera KC Pontianak,cabang_utama,Bank Nusantara Sejahtera,Pontianak,Kalimantan Barat,Kalimantan,KC-877572,+62-56-5108603,2013-01-02,aktif,bronze
+BR-0002,Bank Nusantara Sejahtera KK Samarinda,kantor_kas,Bank Nusantara Sejahtera,Samarinda,Kalimantan Timur,Kalimantan,KK-191161,+62-96-8078673,2008-09-17,aktif,bronze
+BR-0003,Bank Nusantara Sejahtera KCP Padang,cabang_pembantu,Bank Nusantara Sejahtera,Padang,Sumatera Barat,Sumatera,KCP-688508,+62-46-8038374,2012-12-10,aktif,bronze
+BR-0004,Bank Nusantara Sejahtera KC Kendari,cabang_utama,Bank Nusantara Sejahtera,Kendari,Sulawesi Tenggara,Sulawesi,KC-944962,+62-41-8090293,2015-08-19,aktif,bronze
+BR-0005,Bank Nusantara Sejahtera KCP Makassar,cabang_pembantu,Bank Nusantara Sejahtera,Makassar,Sulawesi Selatan,Sulawesi,KCP-197251,+62-69-2622631,2016-01-19,aktif,silver
+BR-0006,Bank Nusantara Sejahtera KC Manado,cabang_utama,Bank Nusantara Sejahtera,Manado,Sulawesi Utara,Sulawesi,KC-581741,+62-89-3094235,2016-06-27,aktif,bronze
+BR-0007,Bank Nusantara Sejahtera KCP Pontianak,cabang_pembantu,Bank Nusantara Sejahtera,Pontianak,Kalimantan Barat,Kalimantan,KCP-479201,+62-94-4226067,2023-10-20,aktif,silver
+BR-0008,Bank Nusantara Sejahtera KCP Makassar,cabang_pembantu,Bank Nusantara Sejahtera,Makassar,Sulawesi Selatan,Sulawesi,KCP-183667,+62-50-2694522,2016-07-10,aktif,silver
+BR-0009,Bank Nusantara Sejahtera KCP Denpasar,cabang_pembantu,Bank Nusantara Sejahtera,Denpasar,Bali,Bali Nusa Tenggara,KCP-472528,+62-47-5479144,2023-09-28,aktif,silver
+BR-0010,Bank Nusantara Sejahtera KCP Batam,cabang_pembantu,Bank Nusantara Sejahtera,Batam,Kepulauan Riau,Sumatera,KCP-660086,+62-52-3741438,2018-05-14,aktif,platinum
+BR-0011,Bank Nusantara Sejahtera KCP Pontianak,cabang_pembantu,Bank Nusantara Sejahtera,Pontianak,Kalimantan Barat,Kalimantan,KCP-330283,+62-62-1938483,2013-02-19,aktif,gold
+BR-0012,Bank Nusantara Sejahtera KCP Mataram,cabang_pembantu,Bank Nusantara Sejahtera,Mataram,Nusa Tenggara Barat,Bali Nusa Tenggara,KCP-321231,+62-93-6279418,2012-10-07,aktif,silver
+BR-0013,Bank Nusantara Sejahtera KCP Jayapura,cabang_pembantu,Bank Nusantara Sejahtera,Jayapura,Papua,Maluku Papua,KCP-249811,+62-54-3342608,2013-07-13,aktif,silver
+BR-0014,Bank Nusantara Sejahtera KCP Samarinda,cabang_pembantu,Bank Nusantara Sejahtera,Samarinda,Kalimantan Timur,Kalimantan,KCP-711878,+62-72-7073292,2012-12-01,tutup,bronze
+BR-0015,Bank Nusantara Sejahtera KC Pekanbaru,cabang_utama,Bank Nusantara Sejahtera,Pekanbaru,Riau,Sumatera,KC-149405,+62-35-3564251,2022-01-27,aktif,silver
+BR-0016,Bank Nusantara Sejahtera KC Batam,cabang_utama,Bank Nusantara Sejahtera,Batam,Kepulauan Riau,Sumatera,KC-500156,+62-97-8852574,2019-11-13,aktif,silver
+BR-0017,Bank Nusantara Sejahtera KCP Gatot Subroto,cabang_pembantu,Bank Nusantara Sejahtera,Jakarta,DKI Jakarta,Jawa,KCP-814825,+62-89-5476583,2022-05-17,aktif,bronze
+BR-0018,Bank Nusantara Sejahtera KCP Surakarta,cabang_pembantu,Bank Nusantara Sejahtera,Surakarta,Jawa Tengah,Jawa,KCP-857168,+62-54-9398441,2012-01-03,aktif,bronze
+BR-0019,Bank Nusantara Sejahtera KCP Pontianak,cabang_pembantu,Bank Nusantara Sejahtera,Pontianak,Kalimantan Barat,Kalimantan,KCP-769987,+62-85-4337174,2011-06-06,aktif,bronze
+BR-0020,Bank Nusantara Sejahtera KK Makassar,kantor_kas,Bank Nusantara Sejahtera,Makassar,Sulawesi Selatan,Sulawesi,KK-100599,+62-97-6438436,2018-12-16,aktif,platinum
+BR-0021,Bank Nusantara Sejahtera KK Ambon,kantor_kas,Bank Nusantara Sejahtera,Ambon,Maluku,Maluku Papua,KK-945964,+62-60-5017343,2009-04-19,aktif,silver
+BR-0022,Bank Nusantara Sejahtera KC Bogor,cabang_utama,Bank Nusantara Sejahtera,Bogor,Jawa Barat,Jawa,KC-609597,+62-29-9937326,2010-10-27,aktif,silver
+BR-0023,Bank Nusantara Sejahtera KCP Palembang,cabang_pembantu,Bank Nusantara Sejahtera,Palembang,Sumatera Selatan,Sumatera,KCP-653306,+62-98-8099076,2012-10-01,aktif,gold
+BR-0024,Bank Nusantara Sejahtera KCP Balikpapan,cabang_pembantu,Bank Nusantara Sejahtera,Balikpapan,Kalimantan Timur,Kalimantan,KCP-426858,+62-72-7264956,2017-10-28,aktif,silver
+BR-0025,Bank Nusantara Sejahtera KCP Surabaya,cabang_pembantu,Bank Nusantara Sejahtera,Surabaya,Jawa Timur,Jawa,KCP-454508,+62-23-4860684,2021-03-13,aktif,bronze
+BR-0026,Bank Nusantara Sejahtera KC Pontianak,cabang_utama,Bank Nusantara Sejahtera,Pontianak,Kalimantan Barat,Kalimantan,KC-170674,+62-25-6543670,2009-08-03,aktif,bronze
+BR-0027,Bank Nusantara Sejahtera KCP Pekanbaru,cabang_pembantu,Bank Nusantara Sejahtera,Pekanbaru,Riau,Sumatera,KCP-238739,+62-94-8930103,2013-06-13,aktif,gold
+BR-0028,Bank Nusantara Sejahtera KC Yogyakarta,cabang_utama,Bank Nusantara Sejahtera,Yogyakarta,DI Yogyakarta,Jawa,KC-790993,+62-76-6944126,2017-07-01,aktif,gold
+BR-0029,Bank Nusantara Sejahtera KCP Bandung,cabang_pembantu,Bank Nusantara Sejahtera,Bandung,Jawa Barat,Jawa,KCP-777568,+62-33-2016911,2017-01-11,aktif,gold
+BR-0030,Bank Nusantara Sejahtera KCP Bekasi,cabang_pembantu,Bank Nusantara Sejahtera,Bekasi,Jawa Barat,Jawa,KCP-299448,+62-89-8526486,2011-02-22,aktif,bronze
+BR-0031,Bank Nusantara Sejahtera KK Surabaya,kantor_kas,Bank Nusantara Sejahtera,Surabaya,Jawa Timur,Jawa,KK-179046,+62-77-2642635,2009-02-18,aktif,silver
+BR-0032,Bank Nusantara Sejahtera KK Kelapa Gading,kantor_kas,Bank Nusantara Sejahtera,Jakarta,DKI Jakarta,Jawa,KK-274389,+62-73-9147706,2018-10-18,aktif,silver
+BR-0033,Bank Nusantara Sejahtera KCP Bandung,cabang_pembantu,Bank Nusantara Sejahtera,Bandung,Jawa Barat,Jawa,KCP-102260,+62-70-5449368,2018-03-16,aktif,silver
+BR-0034,Bank Nusantara Sejahtera KK Samarinda,kantor_kas,Bank Nusantara Sejahtera,Samarinda,Kalimantan Timur,Kalimantan,KK-682765,+62-83-3597059,2012-04-04,aktif,platinum
+BR-0035,Bank Nusantara Sejahtera KK Bandar Lampung,kantor_kas,Bank Nusantara Sejahtera,Bandar Lampung,Lampung,Sumatera,KK-163918,+62-61-1959074,2009-02-14,aktif,silver
+BR-0036,Bank Nusantara Sejahtera KCP Kendari,cabang_pembantu,Bank Nusantara Sejahtera,Kendari,Sulawesi Tenggara,Sulawesi,KCP-159642,+62-86-2344047,2012-03-02,aktif,bronze
+BR-0037,Bank Nusantara Sejahtera KCP Kendari,cabang_pembantu,Bank Nusantara Sejahtera,Kendari,Sulawesi Tenggara,Sulawesi,KCP-225710,+62-93-5130808,2020-12-25,aktif,silver
+BR-0038,Bank Nusantara Sejahtera KCP Kupang,cabang_pembantu,Bank Nusantara Sejahtera,Kupang,Nusa Tenggara Timur,Bali Nusa Tenggara,KCP-692683,+62-87-6307805,2013-11-06,aktif,gold
+BR-0039,Bank Nusantara Sejahtera KCP Surabaya,cabang_pembantu,Bank Nusantara Sejahtera,Surabaya,Jawa Timur,Jawa,KCP-237235,+62-59-8670955,2015-02-03,aktif,platinum
+BR-0040,Bank Nusantara Sejahtera KCP Ahmad Yani,cabang_pembantu,Bank Nusantara Sejahtera,Jakarta,DKI Jakarta,Jawa,KCP-204837,+62-30-4576135,2019-05-07,aktif,platinum
+BR-0041,Bank Nusantara Sejahtera KC Ambon,cabang_utama,Bank Nusantara Sejahtera,Ambon,Maluku,Maluku Papua,KC-356150,+62-68-5781295,2011-07-16,aktif,silver
+BR-0042,Bank Nusantara Sejahtera KCP Tangerang,cabang_pembantu,Bank Nusantara Sejahtera,Tangerang,Banten,Jawa,KCP-946305,+62-88-1131249,2022-12-24,aktif,bronze
+BR-0043,Bank Nusantara Sejahtera KC Banjarmasin,cabang_utama,Bank Nusantara Sejahtera,Banjarmasin,Kalimantan Selatan,Kalimantan,KC-240814,+62-54-2936571,2010-05-26,aktif,bronze
+BR-0044,Bank Nusantara Sejahtera KCP Tangerang,cabang_pembantu,Bank Nusantara Sejahtera,Tangerang,Banten,Jawa,KCP-852470,+62-64-4415796,2023-06-02,aktif,bronze
+BR-0045,Bank Nusantara Sejahtera KCP Pekanbaru,cabang_pembantu,Bank Nusantara Sejahtera,Pekanbaru,Riau,Sumatera,KCP-987204,+62-27-2548511,2022-03-24,aktif,bronze
+BR-0046,Bank Nusantara Sejahtera KCP Kuningan,cabang_pembantu,Bank Nusantara Sejahtera,Jakarta,DKI Jakarta,Jawa,KCP-768061,+62-54-3710895,2017-11-28,aktif,silver
+BR-0047,Bank Nusantara Sejahtera KC Kuningan,cabang_utama,Bank Nusantara Sejahtera,Jakarta,DKI Jakarta,Jawa,KC-672092,+62-25-7194416,2021-01-23,aktif,silver
+BR-0048,Bank Nusantara Sejahtera KCP Bandung,cabang_pembantu,Bank Nusantara Sejahtera,Bandung,Jawa Barat,Jawa,KCP-934794,+62-26-7003042,2012-09-16,aktif,silver
+BR-0049,Bank Nusantara Sejahtera KK Denpasar,kantor_kas,Bank Nusantara Sejahtera,Denpasar,Bali,Bali Nusa Tenggara,KK-526117,+62-40-4971793,2011-08-24,tutup,gold
+BR-0050,Bank Nusantara Sejahtera KCP Ambon,cabang_pembantu,Bank Nusantara Sejahtera,Ambon,Maluku,Maluku Papua,KCP-288073,+62-63-7907400,2023-01-09,aktif,gold
+BR-0051,Bank Nusantara Sejahtera KCP Malang,cabang_pembantu,Bank Nusantara Sejahtera,Malang,Jawa Timur,Jawa,KCP-835343,+62-34-7417985,2008-11-13,aktif,bronze
+BR-0052,Bank Nusantara Sejahtera KK Palu,kantor_kas,Bank Nusantara Sejahtera,Palu,Sulawesi Tengah,Sulawesi,KK-466643,+62-60-4818418,2012-12-31,aktif,bronze
+BR-0053,Bank Nusantara Sejahtera KCP Serang,cabang_pembantu,Bank Nusantara Sejahtera,Serang,Banten,Jawa,KCP-172792,+62-56-6891254,2022-05-22,aktif,silver
+BR-0054,Bank Nusantara Sejahtera KCP Palu,cabang_pembantu,Bank Nusantara Sejahtera,Palu,Sulawesi Tengah,Sulawesi,KCP-128941,+62-35-5382463,2012-01-02,aktif,platinum
+BR-0055,Bank Nusantara Sejahtera KC Bandung,cabang_utama,Bank Nusantara Sejahtera,Bandung,Jawa Barat,Jawa,KC-555673,+62-65-6262632,2017-10-14,aktif,silver
+BR-0056,Bank Nusantara Sejahtera KK Mataram,kantor_kas,Bank Nusantara Sejahtera,Mataram,Nusa Tenggara Barat,Bali Nusa Tenggara,KK-299312,+62-53-1744682,2023-11-24,aktif,silver
+BR-0057,Bank Nusantara Sejahtera KCP Manado,cabang_pembantu,Bank Nusantara Sejahtera,Manado,Sulawesi Utara,Sulawesi,KCP-854377,+62-46-7110622,2017-09-03,aktif,silver
+BR-0058,Bank Nusantara Sejahtera KCP Serang,cabang_pembantu,Bank Nusantara Sejahtera,Serang,Banten,Jawa,KCP-795612,+62-36-6038571,2019-05-17,aktif,silver
+BR-0059,Bank Nusantara Sejahtera KCP Mataram,cabang_pembantu,Bank Nusantara Sejahtera,Mataram,Nusa Tenggara Barat,Bali Nusa Tenggara,KCP-681343,+62-37-4218542,2017-06-06,aktif,silver
+BR-0060,Bank Nusantara Sejahtera KK Samarinda,kantor_kas,Bank Nusantara Sejahtera,Samarinda,Kalimantan Timur,Kalimantan,KK-745414,+62-93-6049101,2017-02-08,aktif,bronze
+BR-0061,Bank Nusantara Sejahtera KCP Tangerang,cabang_pembantu,Bank Nusantara Sejahtera,Tangerang,Banten,Jawa,KCP-923927,+62-95-6406444,2018-06-06,aktif,silver
+BR-0062,Bank Nusantara Sejahtera KCP Padang,cabang_pembantu,Bank Nusantara Sejahtera,Padang,Sumatera Barat,Sumatera,KCP-934692,+62-42-2422633,2014-05-13,aktif,silver
+BR-0063,Bank Nusantara Sejahtera KC Serang,cabang_utama,Bank Nusantara Sejahtera,Serang,Banten,Jawa,KC-887625,+62-51-6207974,2013-01-14,aktif,bronze
+BR-0064,Bank Nusantara Sejahtera KCP Bandung,cabang_pembantu,Bank Nusantara Sejahtera,Bandung,Jawa Barat,Jawa,KCP-598216,+62-99-2221854,2018-03-19,aktif,silver
+BR-0065,Bank Nusantara Sejahtera KK Yogyakarta,kantor_kas,Bank Nusantara Sejahtera,Yogyakarta,DI Yogyakarta,Jawa,KK-502630,+62-84-7705062,2013-06-21,aktif,silver
+BR-0066,Bank Nusantara Sejahtera KK Ambon,kantor_kas,Bank Nusantara Sejahtera,Ambon,Maluku,Maluku Papua,KK-907451,+62-34-8132769,2012-11-27,aktif,platinum
+BR-0067,Bank Nusantara Sejahtera KCP Padang,cabang_pembantu,Bank Nusantara Sejahtera,Padang,Sumatera Barat,Sumatera,KCP-684482,+62-52-3036059,2018-03-28,aktif,silver
+BR-0068,Bank Nusantara Sejahtera KK Padang,kantor_kas,Bank Nusantara Sejahtera,Padang,Sumatera Barat,Sumatera,KK-724377,+62-61-8425149,2021-09-27,aktif,gold
+BR-0069,Bank Nusantara Sejahtera KK Kupang,kantor_kas,Bank Nusantara Sejahtera,Kupang,Nusa Tenggara Timur,Bali Nusa Tenggara,KK-674485,+62-78-3670226,2018-08-24,aktif,gold
+BR-0070,Bank Nusantara Sejahtera KCP Palu,cabang_pembantu,Bank Nusantara Sejahtera,Palu,Sulawesi Tengah,Sulawesi,KCP-903013,+62-87-9130188,2022-01-21,aktif,silver
+BR-0071,Bank Nusantara Sejahtera KCP Balikpapan,cabang_pembantu,Bank Nusantara Sejahtera,Balikpapan,Kalimantan Timur,Kalimantan,KCP-384913,+62-63-6363836,2020-02-11,aktif,bronze
+BR-0072,Bank Nusantara Sejahtera KCP Mataram,cabang_pembantu,Bank Nusantara Sejahtera,Mataram,Nusa Tenggara Barat,Bali Nusa Tenggara,KCP-840734,+62-48-2077581,2017-04-21,aktif,silver
+BR-0073,Bank Nusantara Sejahtera KC Kupang,cabang_utama,Bank Nusantara Sejahtera,Kupang,Nusa Tenggara Timur,Bali Nusa Tenggara,KC-973349,+62-74-7534336,2021-02-05,aktif,bronze
+BR-0074,Bank Nusantara Sejahtera KK Ambon,kantor_kas,Bank Nusantara Sejahtera,Ambon,Maluku,Maluku Papua,KK-498858,+62-82-1098919,2015-11-21,aktif,silver
+BR-0075,Bank Nusantara Sejahtera KK Ambon,kantor_kas,Bank Nusantara Sejahtera,Ambon,Maluku,Maluku Papua,KK-539375,+62-89-4700025,2018-12-13,aktif,silver
+BR-0076,Bank Nusantara Sejahtera KCP Dago,cabang_pembantu,Bank Nusantara Sejahtera,Jakarta,DKI Jakarta,Jawa,KCP-859359,+62-42-8841505,2010-11-11,tutup,silver
+BR-0077,Bank Nusantara Sejahtera KCP Jayapura,cabang_pembantu,Bank Nusantara Sejahtera,Jayapura,Papua,Maluku Papua,KCP-691807,+62-24-2408404,2022-06-01,aktif,gold
+BR-0078,Bank Nusantara Sejahtera KC Surakarta,cabang_utama,Bank Nusantara Sejahtera,Surakarta,Jawa Tengah,Jawa,KC-497519,+62-62-4551070,2018-03-13,aktif,gold
+BR-0079,Bank Nusantara Sejahtera KCP Mataram,cabang_pembantu,Bank Nusantara Sejahtera,Mataram,Nusa Tenggara Barat,Bali Nusa Tenggara,KCP-972335,+62-74-5232413,2009-11-01,aktif,gold
+BR-0080,Bank Nusantara Sejahtera KK Bandung,kantor_kas,Bank Nusantara Sejahtera,Bandung,Jawa Barat,Jawa,KK-466960,+62-49-2151225,2022-08-14,aktif,bronze
+BR-0081,Bank Nusantara Sejahtera KCP Surabaya,cabang_pembantu,Bank Nusantara Sejahtera,Surabaya,Jawa Timur,Jawa,KCP-121369,+62-40-5002120,2010-10-31,aktif,bronze
+BR-0082,Bank Nusantara Sejahtera KCP Yogyakarta,cabang_pembantu,Bank Nusantara Sejahtera,Yogyakarta,DI Yogyakarta,Jawa,KCP-368690,+62-68-3815034,2021-08-03,aktif,gold
+BR-0083,Bank Nusantara Sejahtera KK Bekasi,kantor_kas,Bank Nusantara Sejahtera,Bekasi,Jawa Barat,Jawa,KK-271720,+62-60-2813596,2020-12-23,aktif,bronze
+BR-0084,Bank Nusantara Sejahtera KK Banjarmasin,kantor_kas,Bank Nusantara Sejahtera,Banjarmasin,Kalimantan Selatan,Kalimantan,KK-493537,+62-71-4327421,2009-09-14,aktif,gold
+BR-0085,Bank Nusantara Sejahtera KC Surabaya,cabang_utama,Bank Nusantara Sejahtera,Surabaya,Jawa Timur,Jawa,KC-910004,+62-59-3030966,2020-09-10,aktif,bronze
+BR-0086,Bank Nusantara Sejahtera KCP Kupang,cabang_pembantu,Bank Nusantara Sejahtera,Kupang,Nusa Tenggara Timur,Bali Nusa Tenggara,KCP-172306,+62-85-6724909,2008-04-13,aktif,gold
+BR-0087,Bank Nusantara Sejahtera KCP Bekasi,cabang_pembantu,Bank Nusantara Sejahtera,Bekasi,Jawa Barat,Jawa,KCP-479781,+62-79-3566765,2017-10-07,aktif,silver
+BR-0088,Bank Nusantara Sejahtera KCP Pontianak,cabang_pembantu,Bank Nusantara Sejahtera,Pontianak,Kalimantan Barat,Kalimantan,KCP-947458,+62-89-9111742,2018-06-05,aktif,gold
+BR-0089,Bank Nusantara Sejahtera KCP Malang,cabang_pembantu,Bank Nusantara Sejahtera,Malang,Jawa Timur,Jawa,KCP-357420,+62-32-5679639,2018-02-09,aktif,silver
+BR-0090,Bank Nusantara Sejahtera KCP Batam,cabang_pembantu,Bank Nusantara Sejahtera,Batam,Kepulauan Riau,Sumatera,KCP-452737,+62-24-9293086,2015-04-16,aktif,bronze
+BR-0091,Bank Nusantara Sejahtera KCP Manado,cabang_pembantu,Bank Nusantara Sejahtera,Manado,Sulawesi Utara,Sulawesi,KCP-393243,+62-97-5635017,2020-06-19,aktif,platinum
+BR-0092,Bank Nusantara Sejahtera KCP Bogor,cabang_pembantu,Bank Nusantara Sejahtera,Bogor,Jawa Barat,Jawa,KCP-526170,+62-83-5031966,2023-06-28,aktif,gold
+BR-0093,Bank Nusantara Sejahtera KK Medan,kantor_kas,Bank Nusantara Sejahtera,Medan,Sumatera Utara,Sumatera,KK-197573,+62-58-4717770,2017-01-25,aktif,bronze
+BR-0094,Bank Nusantara Sejahtera KCP Bandar Lampung,cabang_pembantu,Bank Nusantara Sejahtera,Bandar Lampung,Lampung,Sumatera,KCP-680358,+62-88-6767292,2017-07-17,tutup,silver
+BR-0095,Bank Nusantara Sejahtera KK Denpasar,kantor_kas,Bank Nusantara Sejahtera,Denpasar,Bali,Bali Nusa Tenggara,KK-384076,+62-60-5217853,2013-03-03,aktif,bronze
+BR-0096,Bank Nusantara Sejahtera KK Bekasi,kantor_kas,Bank Nusantara Sejahtera,Bekasi,Jawa Barat,Jawa,KK-899213,+62-44-4213524,2012-11-07,aktif,bronze
+BR-0097,Bank Nusantara Sejahtera KK Bandar Lampung,kantor_kas,Bank Nusantara Sejahtera,Bandar Lampung,Lampung,Sumatera,KK-650121,+62-97-5747930,2010-04-03,aktif,bronze
+BR-0098,Bank Nusantara Sejahtera KCP Denpasar,cabang_pembantu,Bank Nusantara Sejahtera,Denpasar,Bali,Bali Nusa Tenggara,KCP-114835,+62-89-3123709,2014-02-25,aktif,bronze
+BR-0099,Bank Nusantara Sejahtera KCP Tangerang,cabang_pembantu,Bank Nusantara Sejahtera,Tangerang,Banten,Jawa,KCP-232413,+62-83-2721135,2008-04-10,aktif,silver
+BR-0100,Bank Nusantara Sejahtera KCP Medan,cabang_pembantu,Bank Nusantara Sejahtera,Medan,Sumatera Utara,Sumatera,KCP-153872,+62-53-9014965,2010-07-23,aktif,silver
+BR-0101,Bank Nusantara Sejahtera KCP Bogor,cabang_pembantu,Bank Nusantara Sejahtera,Bogor,Jawa Barat,Jawa,KCP-819796,+62-27-3545556,2011-05-07,aktif,platinum
+BR-0102,Bank Nusantara Sejahtera KK Bogor,kantor_kas,Bank Nusantara Sejahtera,Bogor,Jawa Barat,Jawa,KK-224205,+62-92-7982241,2021-08-06,aktif,silver
+BR-0103,Bank Nusantara Sejahtera KCP Makassar,cabang_pembantu,Bank Nusantara Sejahtera,Makassar,Sulawesi Selatan,Sulawesi,KCP-572398,+62-77-5988757,2021-03-14,tutup,bronze
+BR-0104,Bank Nusantara Sejahtera KC Batam,cabang_utama,Bank Nusantara Sejahtera,Batam,Kepulauan Riau,Sumatera,KC-876039,+62-33-4486102,2022-01-11,aktif,silver
+BR-0105,Bank Nusantara Sejahtera KCP Surakarta,cabang_pembantu,Bank Nusantara Sejahtera,Surakarta,Jawa Tengah,Jawa,KCP-678805,+62-30-3626181,2008-01-22,aktif,silver
+BR-0106,Bank Nusantara Sejahtera KCP Pekanbaru,cabang_pembantu,Bank Nusantara Sejahtera,Pekanbaru,Riau,Sumatera,KCP-342720,+62-57-5743227,2023-10-07,aktif,bronze
+BR-0107,Bank Nusantara Sejahtera KK Surabaya,kantor_kas,Bank Nusantara Sejahtera,Surabaya,Jawa Timur,Jawa,KK-926097,+62-96-4318855,2017-07-14,aktif,bronze
+BR-0108,Bank Nusantara Sejahtera KK Semarang,kantor_kas,Bank Nusantara Sejahtera,Semarang,Jawa Tengah,Jawa,KK-966785,+62-39-2198058,2009-05-03,aktif,bronze
+BR-0109,Bank Nusantara Sejahtera KK Samarinda,kantor_kas,Bank Nusantara Sejahtera,Samarinda,Kalimantan Timur,Kalimantan,KK-402630,+62-77-3086308,2018-07-06,aktif,silver
+BR-0110,Bank Nusantara Sejahtera KCP Malang,cabang_pembantu,Bank Nusantara Sejahtera,Malang,Jawa Timur,Jawa,KCP-617781,+62-77-2349590,2021-05-31,aktif,silver
+BR-0111,Bank Nusantara Sejahtera KCP Serang,cabang_pembantu,Bank Nusantara Sejahtera,Serang,Banten,Jawa,KCP-127121,+62-32-4840714,2023-02-14,aktif,silver
+BR-0112,Bank Nusantara Sejahtera KK Pluit,kantor_kas,Bank Nusantara Sejahtera,Jakarta,DKI Jakarta,Jawa,KK-704238,+62-26-3939212,2018-07-21,aktif,silver
+BR-0113,Bank Nusantara Sejahtera KCP Malang,cabang_pembantu,Bank Nusantara Sejahtera,Malang,Jawa Timur,Jawa,KCP-713762,+62-76-9249789,2010-01-17,aktif,silver
+BR-0114,Bank Nusantara Sejahtera KCP Serang,cabang_pembantu,Bank Nusantara Sejahtera,Serang,Banten,Jawa,KCP-999398,+62-41-6533187,2017-03-26,aktif,bronze
+BR-0115,Bank Nusantara Sejahtera KK Mataram,kantor_kas,Bank Nusantara Sejahtera,Mataram,Nusa Tenggara Barat,Bali Nusa Tenggara,KK-676818,+62-25-8630712,2009-12-22,aktif,bronze
+BR-0116,Bank Nusantara Sejahtera KCP Makassar,cabang_pembantu,Bank Nusantara Sejahtera,Makassar,Sulawesi Selatan,Sulawesi,KCP-639593,+62-21-8750676,2017-04-08,aktif,silver
+BR-0117,Bank Nusantara Sejahtera KK Batam,kantor_kas,Bank Nusantara Sejahtera,Batam,Kepulauan Riau,Sumatera,KK-755788,+62-77-1865901,2012-07-25,aktif,bronze
+BR-0118,Bank Nusantara Sejahtera KCP Tangerang,cabang_pembantu,Bank Nusantara Sejahtera,Tangerang,Banten,Jawa,KCP-832168,+62-83-3037191,2008-08-24,tutup,silver
+BR-0119,Bank Nusantara Sejahtera KK Surabaya,kantor_kas,Bank Nusantara Sejahtera,Surabaya,Jawa Timur,Jawa,KK-425845,+62-91-1229419,2020-05-21,aktif,bronze
+BR-0120,Bank Nusantara Sejahtera KK Palu,kantor_kas,Bank Nusantara Sejahtera,Palu,Sulawesi Tengah,Sulawesi,KK-583863,+62-36-3583206,2019-03-06,aktif,bronze
+BR-0121,Bank Nusantara Sejahtera KCP Balikpapan,cabang_pembantu,Bank Nusantara Sejahtera,Balikpapan,Kalimantan Timur,Kalimantan,KCP-975271,+62-82-8922533,2013-06-19,aktif,bronze
+BR-0122,Bank Nusantara Sejahtera KK Yogyakarta,kantor_kas,Bank Nusantara Sejahtera,Yogyakarta,DI Yogyakarta,Jawa,KK-632929,+62-38-2171218,2014-03-13,aktif,gold
+BR-0123,Bank Nusantara Sejahtera KK Serang,kantor_kas,Bank Nusantara Sejahtera,Serang,Banten,Jawa,KK-632401,+62-55-1043037,2014-05-06,aktif,gold
+BR-0124,Bank Nusantara Sejahtera KK Bandar Lampung,kantor_kas,Bank Nusantara Sejahtera,Bandar Lampung,Lampung,Sumatera,KK-613425,+62-40-8491822,2020-01-30,aktif,bronze
+BR-0125,Bank Nusantara Sejahtera KCP Makassar,cabang_pembantu,Bank Nusantara Sejahtera,Makassar,Sulawesi Selatan,Sulawesi,KCP-577463,+62-62-4165061,2023-08-23,aktif,silver
+BR-0126,Bank Nusantara Sejahtera KK Kendari,kantor_kas,Bank Nusantara Sejahtera,Kendari,Sulawesi Tenggara,Sulawesi,KK-145767,+62-61-8935224,2023-10-26,aktif,silver
+BR-0127,Bank Nusantara Sejahtera KK Banjarmasin,kantor_kas,Bank Nusantara Sejahtera,Banjarmasin,Kalimantan Selatan,Kalimantan,KK-783691,+62-40-9310235,2008-10-30,aktif,platinum
+BR-0128,Bank Nusantara Sejahtera KK Serang,kantor_kas,Bank Nusantara Sejahtera,Serang,Banten,Jawa,KK-986088,+62-77-2672884,2019-10-18,aktif,bronze
+BR-0129,Bank Nusantara Sejahtera KCP Semarang,cabang_pembantu,Bank Nusantara Sejahtera,Semarang,Jawa Tengah,Jawa,KCP-786587,+62-40-2255409,2018-07-13,aktif,bronze
+BR-0130,Bank Nusantara Sejahtera KCP Batam,cabang_pembantu,Bank Nusantara Sejahtera,Batam,Kepulauan Riau,Sumatera,KCP-781403,+62-31-6512415,2023-02-15,aktif,silver
+BR-0131,Bank Nusantara Sejahtera KCP Serang,cabang_pembantu,Bank Nusantara Sejahtera,Serang,Banten,Jawa,KCP-896290,+62-83-1602286,2021-11-06,aktif,silver
+BR-0132,Bank Nusantara Sejahtera KCP Jayapura,cabang_pembantu,Bank Nusantara Sejahtera,Jayapura,Papua,Maluku Papua,KCP-338536,+62-32-8280833,2010-03-17,aktif,gold
+BR-0133,Bank Nusantara Sejahtera KCP Bekasi,cabang_pembantu,Bank Nusantara Sejahtera,Bekasi,Jawa Barat,Jawa,KCP-827712,+62-59-1485654,2009-01-11,aktif,bronze
+BR-0134,Bank Nusantara Sejahtera KCP Denpasar,cabang_pembantu,Bank Nusantara Sejahtera,Denpasar,Bali,Bali Nusa Tenggara,KCP-252640,+62-52-9911492,2017-03-29,aktif,gold
+BR-0135,Bank Nusantara Sejahtera KCP Surakarta,cabang_pembantu,Bank Nusantara Sejahtera,Surakarta,Jawa Tengah,Jawa,KCP-739098,+62-69-5040453,2019-02-28,aktif,bronze
+BR-0136,Bank Nusantara Sejahtera KCP Medan,cabang_pembantu,Bank Nusantara Sejahtera,Medan,Sumatera Utara,Sumatera,KCP-581894,+62-53-1157662,2018-06-08,aktif,silver
+BR-0137,Bank Nusantara Sejahtera KC Surakarta,cabang_utama,Bank Nusantara Sejahtera,Surakarta,Jawa Tengah,Jawa,KC-462351,+62-96-6018975,2022-05-01,tutup,silver
+BR-0138,Bank Nusantara Sejahtera KK Medan,kantor_kas,Bank Nusantara Sejahtera,Medan,Sumatera Utara,Sumatera,KK-308894,+62-70-9106886,2010-05-23,aktif,silver
+BR-0139,Bank Nusantara Sejahtera KCP Bandar Lampung,cabang_pembantu,Bank Nusantara Sejahtera,Bandar Lampung,Lampung,Sumatera,KCP-833247,+62-58-1368085,2022-10-06,aktif,bronze
+BR-0140,Bank Nusantara Sejahtera KCP Kendari,cabang_pembantu,Bank Nusantara Sejahtera,Kendari,Sulawesi Tenggara,Sulawesi,KCP-880841,+62-27-9333700,2014-06-02,aktif,bronze
+BR-0141,Bank Nusantara Sejahtera KCP Manado,cabang_pembantu,Bank Nusantara Sejahtera,Manado,Sulawesi Utara,Sulawesi,KCP-767542,+62-45-5204819,2023-03-15,aktif,gold
+BR-0142,Bank Nusantara Sejahtera KK Banjarmasin,kantor_kas,Bank Nusantara Sejahtera,Banjarmasin,Kalimantan Selatan,Kalimantan,KK-758765,+62-33-1661401,2014-12-05,aktif,bronze
+BR-0143,Bank Nusantara Sejahtera KK Denpasar,kantor_kas,Bank Nusantara Sejahtera,Denpasar,Bali,Bali Nusa Tenggara,KK-194511,+62-58-6481437,2017-04-26,aktif,bronze
+BR-0144,Bank Nusantara Sejahtera KK Palembang,kantor_kas,Bank Nusantara Sejahtera,Palembang,Sumatera Selatan,Sumatera,KK-483629,+62-88-9418719,2014-02-10,aktif,bronze
+BR-0145,Bank Nusantara Sejahtera KK Palu,kantor_kas,Bank Nusantara Sejahtera,Palu,Sulawesi Tengah,Sulawesi,KK-945664,+62-58-6682698,2010-08-01,aktif,bronze
+BR-0146,Bank Nusantara Sejahtera KK Makassar,kantor_kas,Bank Nusantara Sejahtera,Makassar,Sulawesi Selatan,Sulawesi,KK-809176,+62-71-7136687,2010-01-09,aktif,bronze
+BR-0147,Bank Nusantara Sejahtera KC Palembang,cabang_utama,Bank Nusantara Sejahtera,Palembang,Sumatera Selatan,Sumatera,KC-486490,+62-54-7392547,2022-04-27,aktif,bronze
+BR-0148,Bank Nusantara Sejahtera KCP Surabaya,cabang_pembantu,Bank Nusantara Sejahtera,Surabaya,Jawa Timur,Jawa,KCP-749641,+62-92-6503032,2021-09-06,aktif,bronze
+BR-0149,Bank Nusantara Sejahtera KCP Palu,cabang_pembantu,Bank Nusantara Sejahtera,Palu,Sulawesi Tengah,Sulawesi,KCP-835132,+62-59-7850067,2010-08-13,aktif,platinum
+BR-0150,Bank Nusantara Sejahtera KK Tangerang,kantor_kas,Bank Nusantara Sejahtera,Tangerang,Banten,Jawa,KK-221761,+62-33-4939290,2020-01-21,aktif,silver
+BR-0151,Bank Nusantara Sejahtera KK Banjarmasin,kantor_kas,Bank Nusantara Sejahtera,Banjarmasin,Kalimantan Selatan,Kalimantan,KK-830316,+62-90-8031780,2021-03-04,aktif,bronze
+BR-0152,Bank Nusantara Sejahtera KCP Kupang,cabang_pembantu,Bank Nusantara Sejahtera,Kupang,Nusa Tenggara Timur,Bali Nusa Tenggara,KCP-974190,+62-83-7847048,2014-04-10,aktif,silver
+BR-0153,Bank Nusantara Sejahtera KCP Medan,cabang_pembantu,Bank Nusantara Sejahtera,Medan,Sumatera Utara,Sumatera,KCP-347582,+62-67-2666893,2023-05-19,aktif,platinum
+BR-0154,Bank Nusantara Sejahtera KCP Pontianak,cabang_pembantu,Bank Nusantara Sejahtera,Pontianak,Kalimantan Barat,Kalimantan,KCP-517479,+62-56-4184459,2010-09-27,aktif,gold
+BR-0155,Bank Nusantara Sejahtera KCP Bogor,cabang_pembantu,Bank Nusantara Sejahtera,Bogor,Jawa Barat,Jawa,KCP-772875,+62-97-1358318,2009-02-18,aktif,bronze
+BR-0156,Bank Nusantara Sejahtera KK Semarang,kantor_kas,Bank Nusantara Sejahtera,Semarang,Jawa Tengah,Jawa,KK-315173,+62-29-4475523,2021-02-24,aktif,gold
+BR-0157,Bank Nusantara Sejahtera KK Serang,kantor_kas,Bank Nusantara Sejahtera,Serang,Banten,Jawa,KK-926952,+62-97-1047572,2014-03-21,aktif,bronze
+BR-0158,Bank Nusantara Sejahtera KCP Semarang,cabang_pembantu,Bank Nusantara Sejahtera,Semarang,Jawa Tengah,Jawa,KCP-937302,+62-43-2844258,2022-10-29,aktif,bronze
+BR-0159,Bank Nusantara Sejahtera KK Denpasar,kantor_kas,Bank Nusantara Sejahtera,Denpasar,Bali,Bali Nusa Tenggara,KK-349489,+62-96-6431983,2008-05-09,aktif,bronze
+BR-0160,Bank Nusantara Sejahtera KCP Samarinda,cabang_pembantu,Bank Nusantara Sejahtera,Samarinda,Kalimantan Timur,Kalimantan,KCP-219169,+62-29-8990081,2018-01-20,aktif,silver
+BR-0161,Bank Nusantara Sejahtera KCP Bekasi,cabang_pembantu,Bank Nusantara Sejahtera,Bekasi,Jawa Barat,Jawa,KCP-332311,+62-99-1727544,2024-04-23,aktif,gold
+BR-0162,Bank Nusantara Sejahtera KCP Padang,cabang_pembantu,Bank Nusantara Sejahtera,Padang,Sumatera Barat,Sumatera,KCP-774591,+62-24-2020480,2018-09-28,aktif,silver
+BR-0163,Bank Nusantara Sejahtera KCP Bekasi,cabang_pembantu,Bank Nusantara Sejahtera,Bekasi,Jawa Barat,Jawa,KCP-565108,+62-30-2355439,2015-03-23,aktif,bronze
+BR-0164,Bank Nusantara Sejahtera KCP Malang,cabang_pembantu,Bank Nusantara Sejahtera,Malang,Jawa Timur,Jawa,KCP-713799,+62-91-6455706,2016-07-17,tutup,silver
+BR-0165,Bank Nusantara Sejahtera KCP Medan,cabang_pembantu,Bank Nusantara Sejahtera,Medan,Sumatera Utara,Sumatera,KCP-551096,+62-33-2919549,2022-09-07,aktif,gold
+BR-0166,Bank Nusantara Sejahtera KK Samarinda,kantor_kas,Bank Nusantara Sejahtera,Samarinda,Kalimantan Timur,Kalimantan,KK-550961,+62-78-4833486,2017-04-12,aktif,silver
+BR-0167,Bank Nusantara Sejahtera KK Kupang,kantor_kas,Bank Nusantara Sejahtera,Kupang,Nusa Tenggara Timur,Bali Nusa Tenggara,KK-427730,+62-75-6243275,2022-12-01,aktif,platinum
+BR-0168,Bank Nusantara Sejahtera KK Banjarmasin,kantor_kas,Bank Nusantara Sejahtera,Banjarmasin,Kalimantan Selatan,Kalimantan,KK-170394,+62-32-2432176,2010-02-02,aktif,gold
+BR-0169,Bank Nusantara Sejahtera KK Denpasar,kantor_kas,Bank Nusantara Sejahtera,Denpasar,Bali,Bali Nusa Tenggara,KK-683397,+62-28-6530541,2023-01-10,aktif,silver
+BR-0170,Bank Nusantara Sejahtera KK Banjarmasin,kantor_kas,Bank Nusantara Sejahtera,Banjarmasin,Kalimantan Selatan,Kalimantan,KK-543481,+62-27-5825620,2021-06-19,aktif,bronze
+BR-0171,Bank Nusantara Sejahtera KCP Padang,cabang_pembantu,Bank Nusantara Sejahtera,Padang,Sumatera Barat,Sumatera,KCP-788637,+62-82-4762204,2010-06-05,aktif,silver
+BR-0172,Bank Nusantara Sejahtera KK Bekasi,kantor_kas,Bank Nusantara Sejahtera,Bekasi,Jawa Barat,Jawa,KK-701987,+62-49-8199311,2020-07-31,tutup,gold
+BR-0173,Bank Nusantara Sejahtera KCP Batam,cabang_pembantu,Bank Nusantara Sejahtera,Batam,Kepulauan Riau,Sumatera,KCP-683783,+62-24-5487028,2008-08-25,aktif,gold
+BR-0174,Bank Nusantara Sejahtera KK Tangerang,kantor_kas,Bank Nusantara Sejahtera,Tangerang,Banten,Jawa,KK-468074,+62-21-4043480,2011-03-19,aktif,silver
+BR-0175,Bank Nusantara Sejahtera KK Semarang,kantor_kas,Bank Nusantara Sejahtera,Semarang,Jawa Tengah,Jawa,KK-132146,+62-32-9900022,2012-10-28,aktif,silver
+BR-0176,Bank Nusantara Sejahtera KCP Surakarta,cabang_pembantu,Bank Nusantara Sejahtera,Surakarta,Jawa Tengah,Jawa,KCP-856648,+62-62-2425342,2009-03-06,aktif,gold
+BR-0177,Bank Nusantara Sejahtera KCP Bandung,cabang_pembantu,Bank Nusantara Sejahtera,Bandung,Jawa Barat,Jawa,KCP-385320,+62-77-8113787,2018-11-22,aktif,silver
+BR-0178,Bank Nusantara Sejahtera KK Yogyakarta,kantor_kas,Bank Nusantara Sejahtera,Yogyakarta,DI Yogyakarta,Jawa,KK-219346,+62-65-8212753,2010-06-27,aktif,silver
+BR-0179,Bank Nusantara Sejahtera KCP Pekanbaru,cabang_pembantu,Bank Nusantara Sejahtera,Pekanbaru,Riau,Sumatera,KCP-423401,+62-26-4699685,2016-11-11,tutup,bronze
+BR-0180,Bank Nusantara Sejahtera KCP Yogyakarta,cabang_pembantu,Bank Nusantara Sejahtera,Yogyakarta,DI Yogyakarta,Jawa,KCP-321494,+62-38-5286905,2014-06-29,aktif,bronze
+BR-0181,Bank Nusantara Sejahtera KCP Samarinda,cabang_pembantu,Bank Nusantara Sejahtera,Samarinda,Kalimantan Timur,Kalimantan,KCP-235461,+62-69-9935249,2023-10-13,aktif,silver
+BR-0182,Bank Nusantara Sejahtera KK Banjarmasin,kantor_kas,Bank Nusantara Sejahtera,Banjarmasin,Kalimantan Selatan,Kalimantan,KK-175576,+62-71-1709714,2017-10-13,aktif,platinum
+BR-0183,Bank Nusantara Sejahtera KCP Kendari,cabang_pembantu,Bank Nusantara Sejahtera,Kendari,Sulawesi Tenggara,Sulawesi,KCP-550137,+62-94-7785090,2023-11-30,aktif,bronze
+BR-0184,Bank Nusantara Sejahtera KC Mataram,cabang_utama,Bank Nusantara Sejahtera,Mataram,Nusa Tenggara Barat,Bali Nusa Tenggara,KC-440544,+62-42-8719145,2023-06-20,aktif,bronze
+BR-0185,Bank Nusantara Sejahtera KC Kendari,cabang_utama,Bank Nusantara Sejahtera,Kendari,Sulawesi Tenggara,Sulawesi,KC-556839,+62-96-7718433,2019-10-02,aktif,gold
+BR-0186,Bank Nusantara Sejahtera KCP Samarinda,cabang_pembantu,Bank Nusantara Sejahtera,Samarinda,Kalimantan Timur,Kalimantan,KCP-449247,+62-42-2281433,2019-06-13,aktif,silver
+BR-0187,Bank Nusantara Sejahtera KK Yogyakarta,kantor_kas,Bank Nusantara Sejahtera,Yogyakarta,DI Yogyakarta,Jawa,KK-466346,+62-65-3477824,2013-04-19,aktif,bronze
+BR-0188,Bank Nusantara Sejahtera KCP Surakarta,cabang_pembantu,Bank Nusantara Sejahtera,Surakarta,Jawa Tengah,Jawa,KCP-897143,+62-30-3972018,2022-01-31,aktif,gold
+BR-0189,Bank Nusantara Sejahtera KCP Makassar,cabang_pembantu,Bank Nusantara Sejahtera,Makassar,Sulawesi Selatan,Sulawesi,KCP-814220,+62-93-6422534,2022-01-25,aktif,silver
+BR-0190,Bank Nusantara Sejahtera KCP Pekanbaru,cabang_pembantu,Bank Nusantara Sejahtera,Pekanbaru,Riau,Sumatera,KCP-417530,+62-56-1942411,2015-11-23,aktif,bronze
+BR-0191,Bank Nusantara Sejahtera KC Medan,cabang_utama,Bank Nusantara Sejahtera,Medan,Sumatera Utara,Sumatera,KC-486649,+62-57-2287332,2022-06-17,aktif,gold
+BR-0192,Bank Nusantara Sejahtera KCP Batam,cabang_pembantu,Bank Nusantara Sejahtera,Batam,Kepulauan Riau,Sumatera,KCP-503159,+62-80-1688246,2018-02-01,aktif,silver
+BR-0193,Bank Nusantara Sejahtera KCP Yogyakarta,cabang_pembantu,Bank Nusantara Sejahtera,Yogyakarta,DI Yogyakarta,Jawa,KCP-598733,+62-85-3531028,2009-05-21,aktif,gold
+BR-0194,Bank Nusantara Sejahtera KCP Palu,cabang_pembantu,Bank Nusantara Sejahtera,Palu,Sulawesi Tengah,Sulawesi,KCP-849014,+62-31-9464927,2022-06-29,aktif,bronze
+BR-0195,Bank Nusantara Sejahtera KK Medan,kantor_kas,Bank Nusantara Sejahtera,Medan,Sumatera Utara,Sumatera,KK-649525,+62-87-3663319,2016-02-29,aktif,bronze
+BR-0196,Bank Nusantara Sejahtera KK Kupang,kantor_kas,Bank Nusantara Sejahtera,Kupang,Nusa Tenggara Timur,Bali Nusa Tenggara,KK-811875,+62-97-1878547,2022-02-24,aktif,bronze
+BR-0197,Bank Nusantara Sejahtera KCP Bekasi,cabang_pembantu,Bank Nusantara Sejahtera,Bekasi,Jawa Barat,Jawa,KCP-505341,+62-57-5227787,2024-03-25,aktif,platinum
+BR-0198,Bank Nusantara Sejahtera KK Batam,kantor_kas,Bank Nusantara Sejahtera,Batam,Kepulauan Riau,Sumatera,KK-449555,+62-31-3372774,2015-11-05,aktif,silver
+BR-0199,Bank Nusantara Sejahtera KCP Banjarmasin,cabang_pembantu,Bank Nusantara Sejahtera,Banjarmasin,Kalimantan Selatan,Kalimantan,KCP-723945,+62-31-6193922,2020-07-14,aktif,gold
+BR-0200,Bank Nusantara Sejahtera KC Palu,cabang_utama,Bank Nusantara Sejahtera,Palu,Sulawesi Tengah,Sulawesi,KC-836971,+62-88-2567880,2022-06-28,aktif,silver
